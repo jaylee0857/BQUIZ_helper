@@ -3,1050 +3,4841 @@
     "id": "1",
     "s_num": "1-1",
     "question": "國家通訊傳播委員會(NCC)頒訂網站無障礙規範2.0版共分為幾個檢測等級？",
-    "options": ["①3個", "②4個", "③5個", "④6個"],
+    "options": ["(1) 3個", "(2) 4個", "(3) 5個", "(4) 6個"],
     "answer": "1"
   },
   {
     "id": "2",
     "s_num": "1-2",
     "question": "國家通訊傳播委員會(NCC)頒訂網站無障礙規範2.0版不含何檢測等級？",
-    "options": ["①A", "②A+", "③AA", "④AAA"],
+    "options": ["(1) A", "(2) A+", "(3) AA", "(4) AAA"],
     "answer": "4"
   },
   {
     "id": "3",
     "s_num": "1-3",
     "question": "色彩配色有分加色及減色混合，色光的三原色為何？",
-    "options": ["①黃、白、紅", "②紅、黃、綠", "③紅、綠、藍", "④紅、黃、紫"],
+    "options": ["(1) 黃、白、紅", "(2) 紅、黃、綠", "(3) 紅、綠、藍", "(4) 紅、黃、紫"],
     "answer": "3"
   },
   {
     "id": "4",
     "s_num": "1-4",
     "question": "色彩的色相、明度及彩度合稱為何？",
-    "options": ["①三原色", "②三屬性", "③三色系", "④三色立體"],
+    "options": ["(1) 三原色", "(2) 三屬性", "(3) 三色系", "(4) 三色立體"],
     "answer": "2"
   },
   {
     "id": "5",
     "s_num": "1-5",
     "question": "色彩屬性的飽和程度或純度稱之為何？",
-    "options": ["①色相", "②明度", "③彩度", "④色環"],
+    "options": ["(1) 色相", "(2) 明度", "(3) 彩度", "(4) 色環"],
     "answer": "3"
   },
   {
     "id": "6",
     "s_num": "1-6",
     "question": "色彩屬性的明暗程度稱之為何？",
-    "options": ["①色相", "②明度", "③彩度", "④色調"],
+    "options": ["(1) 色相", "(2) 明度", "(3) 彩度", "(4) 色調"],
     "answer": "2"
   },
   {
     "id": "7",
     "s_num": "1-7",
     "question": "色彩三屬性進行有系統地排列，形成三度空間的結構稱之為何？",
-    "options": ["①色環", "②色立體", "③色相", "④三原色"],
+    "options": ["(1) 色環", "(2) 色立體", "(3) 色相", "(4) 三原色"],
     "answer": "2"
   },
   {
     "id": "8",
     "s_num": "1-8",
     "question": "色彩配色中，色光混色又稱之為何？",
-    "options": ["①平均混色", "②互補混色", "③加法混色", "④減法混色"],
+    "options": ["(1) 平均混色", "(2) 互補混色", "(3) 加法混色", "(4) 減法混色"],
     "answer": "3"
   },
   {
     "id": "9",
     "s_num": "1-9",
     "question": "色彩配色中，色料混色又稱之為何？",
-    "options": ["①平均混色", "②互補混色", "③加法混色", "④減法混色"],
+    "options": ["(1) 平均混色", "(2) 互補混色", "(3) 加法混色", "(4) 減法混色"],
     "answer": "4"
   },
   {
     "id": "10",
     "s_num": "1-10",
     "question": "會讓人有溫暖感覺的顏色為何？",
-    "options": ["①藍色", "②橙色", "③紫色", "④綠色"],
+    "options": ["(1) 藍色", "(2) 橙色", "(3) 紫色", "(4) 綠色"],
     "answer": "2"
   },
   {
     "id": "11",
     "s_num": "1-11",
     "question": "會讓人有寒冷感覺的顏色為何？",
-    "options": ["①紅色", "②橙色", "③黃色", "④藍色"],
+    "options": ["(1) 紅色", "(2) 橙色", "(3) 黃色", "(4) 藍色"],
     "answer": "4"
   },
   {
     "id": "12",
     "s_num": "1-12",
     "question": "影像處理軟體中，影像圖檔的色彩表示有RGB及CMYK色系，其中CMYK的「Y」表示為何？",
-    "options": ["①黑色", "②黃色", "③青色", "④洋紅色"],
+    "options": ["(1) 黑色", "(2) 黃色", "(3) 青色", "(4) 洋紅色"],
     "answer": "2"
   },
   {
     "id": "13",
     "s_num": "1-13",
     "question": "電腦文字的字型有很多種，PostScript字型屬於何種？",
-    "options": ["①點陣字型", "②螢幕字型", "③向量字型", "④描述字型"],
+    "options": ["(1) 點陣字型", "(2) 螢幕字型", "(3) 向量字型", "(4) 描述字型"],
     "answer": "3"
   },
   {
     "id": "14",
     "s_num": "1-14",
     "question": "影像處理軟體中，運用色彩選擇工具取得RGB值為(0,0,0)，其顯示的顏色為何？",
-    "options": ["①黑色", "②白色", "③灰色", "④紅色"],
+    "options": ["(1) 黑色", "(2) 白色", "(3) 灰色", "(4) 紅色"],
     "answer": "1"
   },
   {
     "id": "15",
     "s_num": "1-15",
     "question": "256色的GIF圖檔，使用多少位元(bits)來表示索引？",
-    "options": ["①8", "②16", "③24", "④32"],
+    "options": ["(1) 8", "(2) 16", "(3) 24", "(4) 32"],
     "answer": "1"
   },
   {
     "id": "16",
     "s_num": "1-16",
     "question": "全彩的圖片每個像素至少使用多少位元(bits)來表示？",
-    "options": ["①8", "②16", "③24", "④32"],
+    "options": ["(1) 8", "(2) 16", "(3) 24", "(4) 32"],
     "answer": "3"
   },
   {
     "id": "17",
     "s_num": "1-17",
     "question": "在設計幾何上，點的絕對定義為何？",
-    "options": ["①有位置", "②有長度", "③有大小", "④有寬度"],
+    "options": ["(1) 有位置", "(2) 有長度", "(3) 有大小", "(4) 有寬度"],
     "answer": "1"
   },
   {
     "id": "18",
     "s_num": "1-18",
     "question": "設計美學中，設計構成要素最小單位為何？",
-    "options": ["①點", "②線", "③面", "④體"],
+    "options": ["(1) 點", "(2) 線", "(3) 面", "(4) 體"],
     "answer": "1"
   },
   {
     "id": "19",
     "s_num": "1-19",
     "question": "設計美學中，圓、橢圓及拋物線為何種曲線？",
-    "options": ["①幾何直線", "②自由曲線", "③徒手曲線", "④幾何曲線"],
+    "options": ["(1) 幾何直線", "(2) 自由曲線", "(3) 徒手曲線", "(4) 幾何曲線"],
     "answer": "4"
   },
   {
     "id": "20",
     "s_num": "1-20",
     "question": "設計原理中，以中央設一縱軸，而左右或上下完全同形，稱之為何？",
-    "options": ["①律動", "②漸層", "③對稱", "④對比"],
+    "options": ["(1) 律動", "(2) 漸層", "(3) 對稱", "(4) 對比"],
     "answer": "3"
   },
   {
     "id": "21",
     "s_num": "1-21",
     "question": "何種網頁設計技術可使頁面具有統一的外觀？",
-    "options": ["①CSS", "②URL", "③HTML", "④DHTML"],
+    "options": ["(1) CSS", "(2) URL", "(3) HTML", "(4) DHTML"],
     "answer": "1"
   },
   {
     "id": "22",
     "s_num": "1-22",
     "question": "數位影像解析度的單位ppi是何種英文的縮寫？",
-    "options": ["①Pica Per Inch", "②Point Per Inch", "③Pixel Per Inch", "④Pixel Per Image"],
+    "options": ["(1) Pica Per Inch", "(2) Point Per Inch", "(3) Pixel Per Inch", "(4) Pixel Per Image"],
     "answer": "3"
   },
   {
     "id": "23",
     "s_num": "1-23",
     "question": "何者不是國家通訊傳播委員會(NCC)頒訂網站無障礙規範2.0版「可感知原則」的指引？",
-    "options": ["①防痙攣", "②替代文字", "③時序媒體", "④可辨識"],
+    "options": ["(1) 防痙攣", "(2) 替代文字", "(3) 時序媒體", "(4) 可辨識"],
     "answer": "1"
   },
   {
     "id": "24",
     "s_num": "1-24",
     "question": "何者不是國家通訊傳播委員會(NCC)頒訂網站無障礙規範2.0版「可操作原則」的指引？",
-    "options": ["①替代文字", "②鍵盤可操作", "③充足時間", "④可導覽"],
+    "options": ["(1) 替代文字", "(2) 鍵盤可操作", "(3) 充足時間", "(4) 可導覽"],
     "answer": "1"
   },
   {
     "id": "25",
     "s_num": "1-25",
     "question": "何者不是國家通訊傳播委員會(NCC)頒訂網站無障礙規範2.0版「可理解原則」的指引？",
-    "options": ["①相容性", "②可讀性", "③可預期性", "④輸入協助"],
+    "options": ["(1) 相容性", "(2) 可讀性", "(3) 可預期性", "(4) 輸入協助"],
     "answer": "1"
   },
   {
     "id": "26",
     "s_num": "1-26",
     "question": "目前TCP已定義埠（Well-Known Port）之分布範圍為下列何者？",
-    "options": ["①0～127", "②0～255", "③0～511", "④0～1023"],
+    "options": ["(1) 0～127", "(2) 0～255", "(3) 0～511", "(4) 0～1023"],
     "answer": "4"
   },
   {
     "id": "27",
     "s_num": "1-27",
     "question": "關於HTML與XML之敘述何者正確？",
-    "options": ["①XML主要用來加強HTML之網頁編排能力", "②XML標籤可與HTML標籤混合使用", "③XML具有可擴充之特性", "④XML文件之結果可直接在瀏覽器中顯示出來"],
+    "options": ["(1) XML主要用來加強HTML之網頁編排能力", "(2) XML標籤可與HTML標籤混合使用", "(3) XML具有可擴充之特性", "(4) XML文件之結果可直接在瀏覽器中顯示出來"],
     "answer": "3"
   },
   {
     "id": "28",
     "s_num": "1-28",
     "question": "Web架構可分為伺服端(Server Site)與客戶端(Client Site)，其兩者間的通訊係透過何種協定來完成？",
-    "options": ["①HTTP", "②FTP", "③TELNET", "④SMTP"],
+    "options": ["(1) HTTP", "(2) FTP", "(3) TELNET", "(4) SMTP"],
     "answer": "1"
   },
   {
     "id": "29",
     "s_num": "1-29",
     "question": "何者可用來控制網頁顯示資料的格式？",
-    "options": ["①Script", "②XML", "③CSS", "④CGI"],
+    "options": ["(1) Script", "(2) XML", "(3) CSS", "(4) CGI"],
     "answer": "3"
   },
   {
     "id": "30",
     "s_num": "1-30",
     "question": "何者最不適合作為網頁編輯器？",
-    "options": ["①Dreamweaver", "②BlueGriffon", "③Cool Editor", "④Visual Studio Code"],
+    "options": ["(1) Dreamweaver", "(2) BlueGriffon", "(3) Cool Editor", "(4) Visual Studio Code"],
     "answer": "3"
   },
   {
     "id": "31",
     "s_num": "1-31",
     "question": "何者為CSS之全名？",
-    "options": ["①College Scholarship Service", "②Cascading Style Sheets", "③Communication Style Sheets", "④Computer Serial Sheets"],
+    "options": ["(1) College Scholarship Service", "(2) Cascading Style Sheets", "(3) Communication Style Sheets", "(4) Computer Serial Sheets"],
     "answer": "2"
   },
   {
     "id": "32",
     "s_num": "1-32",
     "question": "首頁設計準則中，為了要準確傳達網站設計的意圖，較正確之概念為何？",
-    "options": ["①首頁中涵蓋一段詳實完整的副標來說明網站或公司性質", "②首頁中使用艱澀性的標題文字來吸引瀏覽者目光", "③首頁左上方放置組織名稱或標誌比放置在右下方來得恰當", "④為了讓資訊透明化，內部資料亦應開誠佈公地公布在網站中"],
+    "options": ["(1) 首頁中涵蓋一段詳實完整的副標來說明網站或公司性質", "(2) 首頁中使用艱澀性的標題文字來吸引瀏覽者目光", "(3) 首頁左上方放置組織名稱或標誌比放置在右下方來得恰當", "(4) 為了讓資訊透明化，內部資料亦應開誠佈公地公布在網站中"],
     "answer": "3"
   },
   {
     "id": "33",
     "s_num": "1-33",
     "question": "企業首頁設計準則中，內文的書寫要領，較不正確之概念為何？",
-    "options": ["①不使用艱澀的成語或行銷術語", "②儘量避免內文重複", "③為了隱密性，內部機密資料可公布在網站較不明顯的地方", "④若網站無法清楚地顯示營利來源，就必須說明如何創造企業價值"],
+    "options": ["(1) 不使用艱澀的成語或行銷術語", "(2) 儘量避免內文重複", "(3) 為了隱密性，內部機密資料可公布在網站較不明顯的地方", "(4) 若網站無法清楚地顯示營利來源，就必須說明如何創造企業價值"],
     "answer": "3"
   },
   {
     "id": "34",
     "s_num": "1-34",
     "question": "對於一個Well-formed之XML文件的敘述何者不正確？",
-    "options": ["①有開始標籤(Tag)必定要有結束標籤，否則要用空標籤", "②各組標籤之間不可交錯", "③至少要具備DTD或XML Schema", "④屬性值可加可不加引號"],
+    "options": ["(1) 有開始標籤(Tag)必定要有結束標籤，否則要用空標籤", "(2) 各組標籤之間不可交錯", "(3) 至少要具備DTD或XML Schema", "(4) 屬性值可加可不加引號"],
     "answer": "4"
   },
   {
     "id": "35",
     "s_num": "1-35",
     "question": "關於XML文件的設計目標何者不正確？",
-    "options": ["①可直接在網路上使用", "②目前尚無法運用在應用程式中", "③XML文件的程式應讓設計者容易撰寫", "④XML文件應讓人直接閱讀，並能清楚的被理解"],
+    "options": ["(1) 可直接在網路上使用", "(2) 目前尚無法運用在應用程式中", "(3) XML文件的程式應讓設計者容易撰寫", "(4) XML文件應讓人直接閱讀，並能清楚的被理解"],
     "answer": "2"
   },
   {
     "id": "36",
     "s_num": "1-36",
     "question": "何者是XML文件的資料查詢語言？",
-    "options": ["①Query", "②jQuery", "③XQuery", "④SQL"],
+    "options": ["(1) Query", "(2) jQuery", "(3) XQuery", "(4) SQL"],
     "answer": "3"
   },
   {
     "id": "37",
     "s_num": "1-37",
     "question": "Windows作業系統桌面上的捷徑敘述何者正確？",
-    "options": ["①是該程式的一部份不可刪除", "②是一個連結用的檔案，遺失可以再建立", "③是視窗系統中的重要物件，不可被破壞", "④是程式主體不可刪除"],
+    "options": ["(1) 是該程式的一部份不可刪除", "(2) 是一個連結用的檔案，遺失可以再建立", "(3) 是視窗系統中的重要物件，不可被破壞", "(4) 是程式主體不可刪除"],
     "answer": "2"
   },
   {
     "id": "38",
     "s_num": "1-38",
     "question": "要移除在Windows作業系統中的套裝軟體，要如何處理最適當？",
-    "options": ["①直接刪除該套裝軟體的資料夾", "②利用控制台的「新增/移除程式」或該套裝軟體的反安裝程式", "③刪除桌面上的捷徑即可", "④刪除程式集中的選項即可"],
+    "options": ["(1) 直接刪除該套裝軟體的資料夾", "(2) 利用控制台的「新增/移除程式」或該套裝軟體的反安裝程式", "(3) 刪除桌面上的捷徑即可", "(4) 刪除程式集中的選項即可"],
     "answer": "2"
   },
   {
     "id": "39",
     "s_num": "1-39",
     "question": "要離開Windows作業系統並關機，何種方式才為正確操作方式？",
-    "options": ["①按PC上的Reset鍵", "②關閉PC的插座電源", "③使用開始功能表的關機功能", "④拔掉電源插頭"],
+    "options": ["(1) 按PC上的Reset鍵", "(2) 關閉PC的插座電源", "(3) 使用開始功能表的關機功能", "(4) 拔掉電源插頭"],
     "answer": "3"
   },
   {
     "id": "40",
     "s_num": "1-40",
     "question": "在Windows作業系統中，按什麼鍵可以把目前的螢幕畫面擷取下來？",
-    "options": ["①Print Screen鍵", "②Pause Break鍵", "③Insert鍵", "④Wake鍵"],
+    "options": ["(1) Print Screen鍵", "(2) Pause Break鍵", "(3) Insert鍵", "(4) Wake鍵"],
     "answer": "1"
   },
   {
     "id": "41",
     "s_num": "1-41",
     "question": "在Windows作業系統中，如何使用鍵盤在應用程式之間切換？",
-    "options": ["①Alt+Tab鍵", "②靠上面12個功能鍵", "③利用右邊數字鍵", "④按亮Scroll Lock燈"],
+    "options": ["(1) Alt+Tab鍵", "(2) 靠上面12個功能鍵", "(3) 利用右邊數字鍵", "(4) 按亮Scroll Lock燈"],
     "answer": "1"
   },
   {
     "id": "42",
     "s_num": "1-42",
     "question": "在Windows作業系統中，欲結束命令提示字元視窗，可執行那一個命令或按鍵？",
-    "options": ["①quit", "②exit", "③Alt+Enter", "④Esc"],
+    "options": ["(1) quit", "(2) exit", "(3) Alt+Enter", "(4) Esc"],
     "answer": "2"
   },
   {
     "id": "43",
     "s_num": "1-43",
     "question": "如何才能讓鍵盤右邊的數字鍵順利輸出數字？",
-    "options": ["①使用[Shift]鍵切換", "②使用[Caps Lock]鍵切換", "③使用[Num Lock]鍵切換", "④使用[Scroll Lock]鍵切換"],
+    "options": ["(1) 使用[Shift]鍵切換", "(2) 使用[Caps Lock]鍵切換", "(3) 使用[Num Lock]鍵切換", "(4) 使用[Scroll Lock]鍵切換"],
     "answer": "3"
   },
   {
     "id": "44",
     "s_num": "1-44",
     "question": "相同的圖片在那一個螢幕解析度中看起來最小？",
-    "options": ["①800×600", "②640×480", "③1280×960", "④1024×768"],
+    "options": ["(1) 800×600", "(2) 640×480", "(3) 1280×960", "(4) 1024×768"],
     "answer": "3"
   },
   {
     "id": "45",
     "s_num": "1-45",
     "question": "圖形介面的作業環境中，何種色彩設定最不可能使用？",
-    "options": ["①8 bits的256色", "②24bits的全彩", "③16bits的高彩", "④4bits的16色"],
+    "options": ["(1) 8 bits的256色", "(2) 24bits的全彩", "(3) 16bits的高彩", "(4) 4bits的16色"],
     "answer": "4"
   },
   {
     "id": "46",
     "s_num": "1-46",
     "question": "印表機買回來插好連接線和電源後不能正常使用，其原因最可能為何？",
-    "options": ["①還要安裝驅動程式", "②印表機太好", "③印表機太差", "④等級不合"],
+    "options": ["(1) 還要安裝驅動程式", "(2) 印表機太好", "(3) 印表機太差", "(4) 等級不合"],
     "answer": "1"
   },
   {
     "id": "47",
     "s_num": "1-47",
     "question": "在Windows作業系統中，若在視窗的標題欄上連按滑鼠左鍵二下，可完成那一個操作？",
-    "options": ["①將視窗最小化", "②移動視窗位置", "③關閉視窗", "④將視窗最大化或還原成原來大小"],
+    "options": ["(1) 將視窗最小化", "(2) 移動視窗位置", "(3) 關閉視窗", "(4) 將視窗最大化或還原成原來大小"],
     "answer": "4"
   },
   {
     "id": "48",
     "s_num": "1-48",
     "question": "資料庫系統包含那四個主要元件？",
-    "options": ["①資料、軟體、硬體、使用者", "②資料、軟體、硬體、管理者", "③資料、軟體、使用者、管理者", "④軟體、硬體、使用者、管理者"],
+    "options": ["(1) 資料、軟體、硬體、使用者", "(2) 資料、軟體、硬體、管理者", "(3) 資料、軟體、使用者、管理者", "(4) 軟體、硬體、使用者、管理者"],
     "answer": "1"
   },
   {
     "id": "49",
     "s_num": "1-49",
     "question": "資料庫系統中的使用者操作介面由何者負責撰寫？",
-    "options": ["①資料庫設計者", "②資料庫管理者", "③應用程式設計者", "④一般使用者"],
+    "options": ["(1) 資料庫設計者", "(2) 資料庫管理者", "(3) 應用程式設計者", "(4) 一般使用者"],
     "answer": "3"
   },
   {
     "id": "50",
     "s_num": "1-50",
     "question": "何種架構的資料庫是將資料以表格的方式儲存，並利用表格之間的關聯性來查詢相關資料？",
-    "options": ["①階層式資料庫", "②關聯式資料庫", "③表格式資料庫", "④物件導向式資料庫"],
+    "options": ["(1) 階層式資料庫", "(2) 關聯式資料庫", "(3) 表格式資料庫", "(4) 物件導向式資料庫"],
     "answer": "2"
   },
     {
     "id": "51",
     "s_num": "1-51",
     "question": "何種資料庫的架構是將管理及存取資料的工作集中由大型主機管理，使用者端只能從大型主機中取得，並無任何處理的能力？",
-    "options": ["①單機架構", "②主從式架構", "③分散式架構", "④大型主機/終端機架構"],
+    "options": ["(1) 單機架構", "(2) 主從式架構", "(3) 分散式架構", "(4) 大型主機/終端機架構"],
     "answer": "4"
   },
   {
     "id": "52",
     "s_num": "1-52",
     "question": "何者不是資料庫管理系統應具備的基本功能？",
-    "options": ["①資料定義", "②資料處理", "③儲存資料", "④效能維護"],
+    "options": ["(1) 資料定義", "(2) 資料處理", "(3) 儲存資料", "(4) 效能維護"],
     "answer": "3"
   },
   {
     "id": "53",
     "s_num": "1-53",
     "question": "要在資料庫中新增一個欄位來儲存同學的姓名，則應該要將資料設定為何種類型？",
-    "options": ["①查閱精靈", "②文字", "③超連結", "④備忘"],
+    "options": ["(1) 查閱精靈", "(2) 文字", "(3) 超連結", "(4) 備忘"],
     "answer": "2"
   },
   {
     "id": "54",
     "s_num": "1-54",
     "question": "數字資料的範圍介於 -100 到 100 之間，則選擇何種數字型態較適合？",
-    "options": ["①位元組", "②整數", "③長整數", "④小數"],
+    "options": ["(1) 位元組", "(2) 整數", "(3) 長整數", "(4) 小數"],
     "answer": "2"
   },
   {
     "id": "55",
     "s_num": "1-55",
     "question": "欲加快資料搜尋及排序的速度，可在資料表中經常搜尋或排序的欄位上做何種設定？",
-    "options": ["①目錄", "②索引", "③查詢", "④標記"],
+    "options": ["(1) 目錄", "(2) 索引", "(3) 查詢", "(4) 標記"],
     "answer": "2"
   },
   {
     "id": "56",
     "s_num": "1-56",
     "question": "假設學生實體中有一個地址屬性，為了方便區分，又將它再細分為城市及街道名...等屬性，則此類屬性稱之為何？",
-    "options": ["①子類型", "②推導屬性", "③鍵屬性", "④複合屬性"],
+    "options": ["(1) 子類型", "(2) 推導屬性", "(3) 鍵屬性", "(4) 複合屬性"],
     "answer": "4"
   },
   {
     "id": "57",
     "s_num": "1-57",
     "question": "Microsoft Access 要在一個資料表中新增一個電子郵件欄位，當雙按該欄位的內容會開啟郵件編輯器，則應該要將該欄位設定為何種資料類型？",
-    "options": ["①查閱精靈", "②文字", "③超連結", "④備忘"],
+    "options": ["(1) 查閱精靈", "(2) 文字", "(3) 超連結", "(4) 備忘"],
     "answer": "3"
   },
   {
     "id": "58",
     "s_num": "1-58",
     "question": "Microsoft Access 資料表未設定排序時，預設的排列順序會依照何者來排序？",
-    "options": ["①主鍵", "②索引", "③查詢", "④目錄"],
+    "options": ["(1) 主鍵", "(2) 索引", "(3) 查詢", "(4) 目錄"],
     "answer": "1"
   },
   {
     "id": "59",
     "s_num": "1-59",
     "question": "Microsoft Access 用來儲存產品定價的欄位，則該欄位應設定為那一種資料類型較適當？",
-    "options": ["①自動編號", "②數字", "③貨幣", "④文字"],
+    "options": ["(1) 自動編號", "(2) 數字", "(3) 貨幣", "(4) 文字"],
     "answer": "3"
   },
   {
     "id": "60",
     "s_num": "1-60",
     "question": "Microsoft Access 中，若要一次將不相鄰的 3 個欄位設為主鍵，可利用何鍵來輔助選取？",
-    "options": ["①Alt", "②Ctrl", "③Tab", "④Space"],
+    "options": ["(1) Alt", "(2) Ctrl", "(3) Tab", "(4) Space"],
     "answer": "2"
   },
   {
     "id": "61",
     "s_num": "1-61",
     "question": "Microsoft Access 中，假設資料表有一個欄位在新增資料時能自動編號，則該欄位應設定為何種資料類型？",
-    "options": ["①自動編號", "②數字", "③貨幣", "④文字"],
+    "options": ["(1) 自動編號", "(2) 數字", "(3) 貨幣", "(4) 文字"],
     "answer": "1"
   },
   {
     "id": "62",
     "s_num": "1-62",
     "question": "按下 Microsoft Access 索引鈕，會出現索引交談窗，若「忽略 Null 的值」設為「是」，則代表何種意思？",
-    "options": ["①索引會忽略該欄位的空值記錄", "②索引會直接跳過該欄位，不予理會", "③索引不會排除此空值記錄", "④會忽略所有打錯的記錄"],
+    "options": ["(1) 索引會忽略該欄位的空值記錄", "(2) 索引會直接跳過該欄位，不予理會", "(3) 索引不會排除此空值記錄", "(4) 會忽略所有打錯的記錄"],
     "answer": "1"
   },
   {
     "id": "63",
     "s_num": "1-63",
     "question": "Microsoft Access 中，何項功能可以將資料庫上傳到 SQL Server？",
-    "options": ["①連結資料表管理員", "②切換表單管理員", "③SQL 轉換精靈", "④資料轉換精靈"],
+    "options": ["(1) 連結資料表管理員", "(2) 切換表單管理員", "(3) SQL 轉換精靈", "(4) 資料轉換精靈"],
     "answer": "3"
   },
   {
     "id": "64",
     "s_num": "1-64",
     "question": "若通訊傳輸速率為 1200 bps，在不考慮其他影響因素下，每分鐘可傳輸多少位元組？",
-    "options": ["①9000", "②72000", "③15000", "④12000"],
+    "options": ["(1) 9000", "(2) 72000", "(3) 15000", "(4) 12000"],
     "answer": "1"
   },
   {
     "id": "65",
     "s_num": "1-65",
     "question": "國際標準組織(ISO)的 OSI 通訊協定，負責資料加密和壓縮的是那一層？",
-    "options": ["①網路層", "②傳輸層", "③資料鏈結層", "④展示層"],
+    "options": ["(1) 網路層", "(2) 傳輸層", "(3) 資料鏈結層", "(4) 展示層"],
     "answer": "4"
   },
   {
     "id": "66",
     "s_num": "1-66",
     "question": "何種網路的拓撲型態，當有一部電腦故障時，網路的資料通訊最不會受到影響？",
-    "options": ["①星狀式(Star)", "②環狀式(Circle)", "③網狀式(Mesh)", "④匯流排式(Bus)"],
+    "options": ["(1) 星狀式(Star)", "(2) 環狀式(Circle)", "(3) 網狀式(Mesh)", "(4) 匯流排式(Bus)"],
     "answer": "3"
   },
   {
     "id": "67",
     "s_num": "1-67",
     "question": "關於資料通訊之錯誤檢驗何者較佳？",
-    "options": ["①vertical redundancy check", "②longitudinal redundancy check", "③cyclic redundancy", "④parity check"],
+    "options": ["(1) vertical redundancy check", "(2) longitudinal redundancy check", "(3) cyclic redundancy", "(4) parity check"],
     "answer": "3"
   },
   {
     "id": "68",
     "s_num": "1-68",
     "question": "企業內之虛擬 IP 轉換為實體 IP 對外溝通時，需架設何種服務？",
-    "options": ["①DHCP", "②WINS", "③NAT", "④IIS"],
+    "options": ["(1) DHCP", "(2) WINS", "(3) NAT", "(4) IIS"],
     "answer": "3"
   },
   {
     "id": "69",
     "s_num": "1-69",
     "question": "何種協定提供 WWW 傳送資料時有加密的功能？",
-    "options": ["①X.509", "②IPX", "③SSL", "④H.323"],
+    "options": ["(1) X.509", "(2) IPX", "(3) SSL", "(4) H.323"],
     "answer": "3"
   },
   {
     "id": "70",
     "s_num": "1-70",
     "question": "中繼器(Repeater)之用途為何？",
-    "options": ["①增強訊號用來延長網路傳輸距離", "②用來過濾掉已毀損的資料", "③可以連接兩種不同存取方法的不同網路架構", "④進行路徑(Path)選擇"],
+    "options": ["(1) 增強訊號用來延長網路傳輸距離", "(2) 用來過濾掉已毀損的資料", "(3) 可以連接兩種不同存取方法的不同網路架構", "(4) 進行路徑(Path)選擇"],
     "answer": "1"
   },
   {
     "id": "71",
     "s_num": "1-71",
     "question": "網段無法 ping 到其他網段時，可利用何種指令來新增封包傳送的路徑？",
-    "options": ["①netstat -nr", "②route add", "③net view", "④route print"],
+    "options": ["(1) netstat -nr", "(2) route add", "(3) net view", "(4) route print"],
     "answer": "2"
   },
   {
     "id": "72",
     "s_num": "1-72",
     "question": "IP(Internet Protocol) 是何種類型的通訊協定？",
-    "options": ["①Connection-Oriented", "②Application-Level", "③Connectionless", "④Media-Access Control"],
+    "options": ["(1) Connection-Oriented", "(2) Application-Level", "(3) Connectionless", "(4) Media-Access Control"],
     "answer": "3"
   },
   {
     "id": "73",
     "s_num": "1-73",
     "question": "TCP(Transmission Control Protocol) 是何種類型的通訊協定？",
-    "options": ["①Connection-Oriented", "②Application-Level", "③Connectionless", "④Media-Access Control"],
+    "options": ["(1) Connection-Oriented", "(2) Application-Level", "(3) Connectionless", "(4) Media-Access Control"],
     "answer": "1"
   },
   {
     "id": "74",
     "s_num": "1-74",
     "question": "欲使 Windows 系統存取 Linux 主機中的檔案，在 Linux 端至少需要何種伺服器之服務？",
-    "options": ["①FTP", "②HTTP", "③POSTFIX", "④SAMBA"],
+    "options": ["(1) FTP", "(2) HTTP", "(3) POSTFIX", "(4) SAMBA"],
     "answer": "4"
   },
   {
     "id": "75",
     "s_num": "1-75",
     "question": "何種同步光纖網路(Synchronous Optical Network)之傳輸速率為 159.252480 Gbps？",
-    "options": ["①OC-6144", "②OC-768", "③OC-1536", "④OC-3072"],
+    "options": ["(1) OC-6144", "(2) OC-768", "(3) OC-1536", "(4) OC-3072"],
     "answer": "4"
   },
   {
     "id": "76",
     "s_num": "1-76",
     "question": "關於網路訊框傳送(Frame Relay)提供了何種功能，可在設定永久虛擬連線(Permanent Virtual Circuit)時，即設定保證提供的頻寬？",
-    "options": ["①約定資訊速率(Committed Information Rate)", "②同步光纖網路(Synchronous Optical Network)", "③封包交換(Packet Switching)", "④分時多工(Time Division Multiplexing)"],
+    "options": ["(1) 約定資訊速率(Committed Information Rate)", "(2) 同步光纖網路(Synchronous Optical Network)", "(3) 封包交換(Packet Switching)", "(4) 分時多工(Time Division Multiplexing)"],
     "answer": "1"
   },
   {
     "id": "77",
     "s_num": "1-77",
     "question": "區域網路的封包要轉換成訊框傳送，需使用何種裝置？",
-    "options": ["①MODEM(Modulation Demodulation)", "②同步光纖網路(Synchronous Optical Network)", "③封包交換(Packet Switching)", "④FRAD(Frame Relay Assembler/Disassembler)"],
+    "options": ["(1) MODEM(Modulation Demodulation)", "(2) 同步光纖網路(Synchronous Optical Network)", "(3) 封包交換(Packet Switching)", "(4) FRAD(Frame Relay Assembler/Disassembler)"],
     "answer": "4"
   },
   {
     "id": "78",
     "s_num": "1-78",
     "question": "ATM(Asynchronous Transfer Mode) 網路中，終端的個人電腦與交換器必須透過何種介面來連線？",
-    "options": ["①AUI", "②PCI", "③UNI", "④NNI"],
+    "options": ["(1) AUI", "(2) PCI", "(3) UNI", "(4) NNI"],
     "answer": "3"
   },
   {
     "id": "79",
     "s_num": "1-79",
     "question": "ATM(Asynchronous Transfer Mode) 網路中，交換器與交換器之間必須透過何種介面來連線？",
-    "options": ["①AUI", "②PCI", "③UNI", "④NNI"],
+    "options": ["(1) AUI", "(2) PCI", "(3) UNI", "(4) NNI"],
     "answer": "4"
   },
   {
     "id": "80",
     "s_num": "1-80",
     "question": "關於 ISO 網路之 OSI 的七層架構中，何者是負責提供兩個 users 使用約定的通訊品質來傳送資料？",
-    "options": ["①Data Link Layer", "②Session Layer", "③Presentation Layer", "④Transport Layer"],
+    "options": ["(1) Data Link Layer", "(2) Session Layer", "(3) Presentation Layer", "(4) Transport Layer"],
     "answer": "4"
   },
   {
     "id": "81",
     "s_num": "1-81",
     "question": "網路中將欲傳輸的資料先進行壓縮，其目的為何？",
-    "options": ["①減少可能的路徑", "②移除線路的雜訊", "③移除重複的部份", "④減少傳輸的間隔時間"],
+    "options": ["(1) 減少可能的路徑", "(2) 移除線路的雜訊", "(3) 移除重複的部份", "(4) 減少傳輸的間隔時間"],
     "answer": "4"
   },
   {
     "id": "82",
     "s_num": "1-82",
     "question": "關於網路傳輸之路由表(Routing Table)的功用為何？",
-    "options": ["①支援某些特定位址的廣播", "②儲存電腦及網路的位址", "③傳送封包到被正確定址的中繼器(Repeater)", "④提供每一部新作用電腦的位址"],
+    "options": ["(1) 支援某些特定位址的廣播", "(2) 儲存電腦及網路的位址", "(3) 傳送封包到被正確定址的中繼器(Repeater)", "(4) 提供每一部新作用電腦的位址"],
     "answer": "1"
   },
   {
     "id": "83",
     "s_num": "1-83",
     "question": "路由器(Router)與橋接器(Bridge)之敘述何者最正確？",
-    "options": ["①路由器可以支援乙太網路，但無法使用於記號環(Token Ring)網路環境", "②路由器可在多個路徑間做選擇", "③橋接器可在多個路徑間做選擇", "④橋接器可支援乙太網路，但無法使用於記號環(Token Ring)網路環境"],
+    "options": ["(1) 路由器可以支援乙太網路，但無法使用於記號環(Token Ring)網路環境", "(2) 路由器可在多個路徑間做選擇", "(3) 橋接器可在多個路徑間做選擇", "(4) 橋接器可支援乙太網路，但無法使用於記號環(Token Ring)網路環境"],
     "answer": "2"
   },
   {
     "id": "84",
     "s_num": "1-84",
     "question": "何種網路架構是每一台電腦同時扮演著客戶端(Client)與伺服器端(Server)的角色？",
-    "options": ["①P2P", "②Client/Server", "③WWW", "④FTP"],
+    "options": ["(1) P2P", "(2) Client/Server", "(3) WWW", "(4) FTP"],
     "answer": "1"
   },
   {
     "id": "85",
     "s_num": "1-85",
     "question": "客戶端/伺服器式(Client/Server)的網路架構相較於點對點式(P2P)的網路，其主要優點為何？",
-    "options": ["①資料傳遞速度較快", "②可建構在不同的平台之上", "③系統運作較為穩定", "④中央集權式管理，資料具一致性"],
+    "options": ["(1) 資料傳遞速度較快", "(2) 可建構在不同的平台之上", "(3) 系統運作較為穩定", "(4) 中央集權式管理，資料具一致性"],
     "answer": "4"
   },
   {
     "id": "86",
     "s_num": "1-86",
     "question": "IEEE 802.11 所定義的無線區域網路中，ESS 是由何者所擴充構成？",
-    "options": ["①ASS", "②BSS", "③CSS", "④DSS"],
+    "options": ["(1) ASS", "(2) BSS", "(3) CSS", "(4) DSS"],
     "answer": "2"
   },
   {
     "id": "87",
     "s_num": "1-87",
     "question": "Piconet 是何種技術所構成？",
-    "options": ["①紅外線傳輸技術", "②微波傳輸技術", "③藍芽技術", "④網際網路技術"],
+    "options": ["(1) 紅外線傳輸技術", "(2) 微波傳輸技術", "(3) 藍芽技術", "(4) 網際網路技術"],
     "answer": "3"
   },
   {
     "id": "88",
     "s_num": "1-88",
     "question": "何者用來連接不同實體層的網路，且在實體層以上的各層所使用的協定必須是相同網路？",
-    "options": ["①Gateway", "②Bridge", "③Repeater", "④Hub"],
+    "options": ["(1) Gateway", "(2) Bridge", "(3) Repeater", "(4) Hub"],
     "answer": "2"
   },
   {
     "id": "89",
     "s_num": "1-89",
     "question": "何者使用 TCP 來提供點對點的安全性服務？",
-    "options": ["①SET", "②SSL", "③VPN", "④PKI"],
+    "options": ["(1) SET", "(2) SSL", "(3) VPN", "(4) PKI"],
     "answer": "3"
   },
   {
     "id": "90",
     "s_num": "1-90",
     "question": "Internet 服務的安全問題中，何者在傳送帳號及密碼時，並未對內容進行加密編碼，使得傳輸內容最容易被攔截而破解，是最具危險性傳輸方式？",
-    "options": ["①TELNET", "②HTTPS", "③SSH", "④SFTP"],
+    "options": ["(1) TELNET", "(2) HTTPS", "(3) SSH", "(4) SFTP"],
     "answer": "1"
   },
   {
     "id": "91",
     "s_num": "1-91",
     "question": "以 1200 bps 速率來傳送 8K 位元組的檔案（傳送一個位元組另需一個起始位元與一個停止位元）需時約為幾秒？",
-    "options": ["①34", "②53.33", "③54.61", "④68.26"],
+    "options": ["(1) 34", "(2) 53.33", "(3) 54.61", "(4) 68.26"],
     "answer": "4"
   },
   {
     "id": "92",
     "s_num": "1-92",
     "question": "某筆資料 2400 bytes，每個框(Frame) 包含 8 個資料位元，1 個起始位元，2 個停止位元，沒有同位位元之非同步串列方式傳輸，共需要 5 秒才能傳完，則此串列傳輸速率(bps)為何？",
-    "options": ["①1920", "②3840", "③5280", "④10560"],
+    "options": ["(1) 1920", "(2) 3840", "(3) 5280", "(4) 10560"],
     "answer": "3"
   },
   {
     "id": "93",
     "s_num": "1-93",
     "question": "駭客以無用的連線流量壅塞網站並癱瘓網路，此舉稱之為何？",
-    "options": ["①Sniffer", "②DoS", "③DNS", "④Internet Error"],
+    "options": ["(1) Sniffer", "(2) DoS", "(3) DNS", "(4) Internet Error"],
     "answer": "2"
   },
   {
     "id": "94",
     "s_num": "1-94",
     "question": "作業系統將正在執行(Running)的處理單元回復到上一狀態(如 Ready)，而將資源讓給別的處理單元來使用的動作稱之為何？",
-    "options": ["①Indefinite Postponement", "②Commit", "③Starvation", "④Rollback"],
+    "options": ["(1) Indefinite Postponement", "(2) Commit", "(3) Starvation", "(4) Rollback"],
     "answer": "4"
   },
   {
     "id": "95",
     "s_num": "1-95",
     "question": "何者最適合作業系統之短期排班法(Short-Term Task Scheduling)？",
-    "options": ["①Shortest-Job-First", "②First-Come-Last-Served", "③Round-Robin Scheduling", "④First-Come-First-Served"],
+    "options": ["(1) Shortest-Job-First", "(2) First-Come-Last-Served", "(3) Round-Robin Scheduling", "(4) First-Come-First-Served"],
     "answer": "3"
   },
   {
     "id": "96",
     "s_num": "1-96",
     "question": "UNIX 所使用的檔案系統稱之為何？",
-    "options": ["①i-Tree", "②i-File", "③i-System", "④i-Node"],
+    "options": ["(1) i-Tree", "(2) i-File", "(3) i-System", "(4) i-Node"],
     "answer": "4"
   },
   {
     "id": "97",
     "s_num": "1-97",
     "question": "作業系統的記憶體管理中，若行程(Process) 花費在分頁上的時間比花費在執行上的時間還多時，此種現象稱之為何？",
-    "options": ["①Convoy Effect", "②Thrashing", "③Busy State", "④Swapping"],
+    "options": ["(1) Convoy Effect", "(2) Thrashing", "(3) Busy State", "(4) Swapping"],
     "answer": "2"
   },
   {
     "id": "98",
     "s_num": "1-98",
     "question": "若程式使用一頁未被載入到記憶體的資料，作業系統會發生何種狀況？",
-    "options": ["①Reference Error", "②Memory Error", "③Access Error", "④Page Fault"],
+    "options": ["(1) Reference Error", "(2) Memory Error", "(3) Access Error", "(4) Page Fault"],
     "answer": "4"
   },
   {
     "id": "99",
     "s_num": "1-99",
     "question": "何種技術可以讓行程(Process)在作業系統中同時執行多個任務？",
-    "options": ["①Multi-Disks", "②Multi-Schedules", "③Multi-Threads", "④Multi-Memories"],
+    "options": ["(1) Multi-Disks", "(2) Multi-Schedules", "(3) Multi-Threads", "(4) Multi-Memories"],
     "answer": "3"
   },
   {
     "id": "100",
     "s_num": "1-100",
     "question": "作業系統中，何種排班演算法會決定系統的多元程式規劃的程度(Degree of Multiprogramming)？",
-    "options": ["①Short-Term Scheduler", "②Medium-Term Scheduler", "③Long-Term Scheduler", "④Process Scheduler"],
+    "options": ["(1) Short-Term Scheduler", "(2) Medium-Term Scheduler", "(3) Long-Term Scheduler", "(4) Process Scheduler"],
     "answer": "3"
   },
   {
     "id": "101",
     "s_num": "1-101",
     "question": "作業系統中，何者不是死結(Dead Lock)產生的必要條件？",
-    "options": ["①Mutual Exclusion", "②Hold and Wait", "③No Priority", "④Circular Wait"],
+    "options": ["(1) Mutual Exclusion", "(2) Hold and Wait", "(3) No Priority", "(4) Circular Wait"],
     "answer": "3"
   },
   {
     "id": "102",
     "s_num": "1-102",
     "question": "作業系統中，臨界區間(Critical Section)的有效控制可以解決行程同步的問題，而解決臨界區間的問題不需滿足何項要求？",
-    "options": ["①Mutual Exclusion", "②Progress", "③Dead Lock Management", "④Bounded Waiting"],
+    "options": ["(1) Mutual Exclusion", "(2) Progress", "(3) Dead Lock Management", "(4) Bounded Waiting"],
     "answer": "3"
   },
   {
     "id": "103",
     "s_num": "1-103",
     "question": "Linux作業系統與微軟Windows Server AD的帳號資料庫，可用何種通訊協定來整合？",
-    "options": ["①LDAP", "②HTTP", "③IPX", "④UDP"],
+    "options": ["(1) LDAP", "(2) HTTP", "(3) IPX", "(4) UDP"],
     "answer": "1"
   },
   {
     "id": "104",
     "s_num": "1-104",
     "question": "Linux作業環境中，MRTG流量監控程式是使用何種通訊協定？",
-    "options": ["①HTTP", "②SNMP", "③SMTP", "④POP3"],
+    "options": ["(1) HTTP", "(2) SNMP", "(3) SMTP", "(4) POP3"],
     "answer": "2"
   },
   {
     "id": "105",
     "s_num": "1-105",
     "question": "Linux作業環境中，何者可列出目錄之內容？",
-    "options": ["①cat", "②lists", "③ls", "④vi"],
+    "options": ["(1) cat", "(2) lists", "(3) ls", "(4) vi"],
     "answer": "3"
   },
   {
     "id": "106",
     "s_num": "1-106",
     "question": "Linux作業環境中，何者可刪除執行中之程序或工作？",
-    "options": ["①rm", "②kill", "③del", "④cls"],
+    "options": ["(1) rm", "(2) kill", "(3) del", "(4) cls"],
     "answer": "2"
   },
   {
     "id": "107",
     "s_num": "1-107",
     "question": "Linux作業環境中，何者可列出目錄或檔案之大小？",
-    "options": ["①du", "②vi", "③vol", "④cpio"],
+    "options": ["(1) du", "(2) vi", "(3) vol", "(4) cpio"],
     "answer": "1"
   },
   {
     "id": "108",
     "s_num": "1-108",
     "question": "Linux作業環境中，何者可列出整個系統的網路狀況？",
-    "options": ["①neteconfig", "②netstat", "③netstatus", "④netconf"],
+    "options": ["(1) neteconfig", "(2) netstat", "(3) netstatus", "(4) netconf"],
     "answer": "2"
   },
   {
     "id": "109",
     "s_num": "1-109",
     "question": "Linux作業環境中，何者可建立一個新的目錄？",
-    "options": ["①dir", "②mkdir", "③createdir", "④newdir"],
+    "options": ["(1) dir", "(2) mkdir", "(3) createdir", "(4) newdir"],
     "answer": "2"
   },
   {
     "id": "110",
     "s_num": "1-110",
     "question": "Linux作業環境中，何者是建立live USB之內建指令？",
-    "options": ["①makeusb", "②mount", "③dd", "④mkbootdisk"],
+    "options": ["(1) makeusb", "(2) mount", "(3) dd", "(4) mkbootdisk"],
     "answer": "3"
   },
   {
     "id": "111",
     "s_num": "1-111",
     "question": "Linux作業環境中，何者可記錄近期所有登入系統的使用者？",
-    "options": ["①/var/log/dmesg", "②/var/log/message", "③/var/log/syslog", "④/var/log/secure"],
+    "options": ["(1) /var/log/dmesg", "(2) /var/log/message", "(3) /var/log/syslog", "(4) /var/log/secure"],
     "answer": "4"
   },
   {
     "id": "112",
     "s_num": "1-112",
     "question": "Linux作業環境中，何者可顯示硬碟上的檔案名稱？",
-    "options": ["①who", "②whereis", "③mount", "④find"],
+    "options": ["(1) who", "(2) whereis", "(3) mount", "(4) find"],
     "answer": "4"
   },
   {
     "id": "113",
     "s_num": "1-113",
     "question": "Linux作業環境中，何者可顯示檔案的內容及權限？",
-    "options": ["①dir/p/w", "②ls -la | more", "③pwd", "④cd"],
+    "options": ["(1) dir/p/w", "(2) ls -la | more", "(3) pwd", "(4) cd"],
     "answer": "2"
   },
   {
     "id": "114",
     "s_num": "1-114",
     "question": "Linux作業環境中，何者為可啟動硬碟分割區之工具程式？",
-    "options": ["①diskman", "②rdisk", "③fdisk", "④sfdisk"],
+    "options": ["(1) diskman", "(2) rdisk", "(3) fdisk", "(4) sfdisk"],
     "answer": "4"
   },
   {
     "id": "115",
     "s_num": "1-115",
     "question": "Linux作業環境中，何者可啟動線上指令說明？",
-    "options": ["①more", "②type", "③man", "④help"],
+    "options": ["(1) more", "(2) type", "(3) man", "(4) help"],
     "answer": "3"
   },
   {
     "id": "116",
     "s_num": "1-116",
     "question": "Linux作業環境中，何者可設定時間？",
-    "options": ["①timer", "②setcmd", "③cxecule", "④at"],
+    "options": ["(1) timer", "(2) setcmd", "(3) cxecule", "(4) at"],
     "answer": "4"
   },
   {
     "id": "117",
     "s_num": "1-117",
     "question": "Linux作業環境中，何者可進行檔案壓縮？",
-    "options": ["①tar", "②pack", "③queue", "④zap"],
+    "options": ["(1) tar", "(2) pack", "(3) queue", "(4) zap"],
     "answer": "1"
   },
   {
     "id": "118",
     "s_num": "1-118",
     "question": "Linux作業環境中，何者可進行檔案系統備份？",
-    "options": ["①xfiles", "②bu", "③bacxup", "④dump"],
+    "options": ["(1) xfiles", "(2) bu", "(3) bacxup", "(4) dump"],
     "answer": "4"
   },
   {
     "id": "119",
     "s_num": "1-119",
     "question": "Linux作業環境中，何者可新增使用者帳號？",
-    "options": ["①useradd", "②newuser", "③usermanager", "④xuser"],
+    "options": ["(1) useradd", "(2) newuser", "(3) usermanager", "(4) xuser"],
     "answer": "1"
   },
   {
     "id": "120",
     "s_num": "1-120",
     "question": "Linux作業環境中，何者可登入系統？",
-    "options": ["①checkin", "②logon", "③logout", "④login"],
+    "options": ["(1) checkin", "(2) logon", "(3) logout", "(4) login"],
     "answer": "4"
   },
   {
     "id": "121",
     "s_num": "1-121",
     "question": "Linux作業環境中，何者可變更檔案與目錄之權限？",
-    "options": ["①authority", "②dirs", "③chmod", "④rights"],
+    "options": ["(1) authority", "(2) dirs", "(3) chmod", "(4) rights"],
     "answer": "3"
   },
   {
     "id": "122",
     "s_num": "1-122",
     "question": "Linux作業環境中，何者可顯示目前的工作目錄？",
-    "options": ["①passdir", "②pwd", "③list", "④passwd"],
+    "options": ["(1) passdir", "(2) pwd", "(3) list", "(4) passwd"],
     "answer": "2"
   },
   {
     "id": "123",
     "s_num": "1-123",
     "question": "Linux作業環境中，何者可顯示或設定網路介面？",
-    "options": ["①ipconfig", "②winipcfg", "③ifconfig", "④netstat"],
+    "options": ["(1) ipconfig", "(2) winipcfg", "(3) ifconfig", "(4) netstat"],
     "answer": "3"
   },
   {
     "id": "124",
     "s_num": "1-124",
     "question": "Linux作業環境中，何者可顯示開機過程中曾經顯示的系統訊息？",
-    "options": ["①display", "②dmesg", "③message", "④show"],
+    "options": ["(1) display", "(2) dmesg", "(3) message", "(4) show"],
     "answer": "2"
   },
   {
     "id": "125",
     "s_num": "1-125",
     "question": "Linux作業環境中，何者可將程式放到背景下來執行？",
-    "options": ["①submit", "②fg", "③bg", "④jobs"],
+    "options": ["(1) submit", "(2) fg", "(3) bg", "(4) jobs"],
     "answer": "3"
   },
   {
     "id": "126",
     "s_num": "1-126",
     "question": "Linux作業環境中，硬碟ext4檔案系統受損，何者可進行修護？",
-    "options": ["①chkdsk", "②e4fsck", "③ext4fsck", "④mount"],
+    "options": ["(1) chkdsk", "(2) e4fsck", "(3) ext4fsck", "(4) mount"],
     "answer": "2"
   },
   {
     "id": "127",
     "s_num": "1-127",
     "question": "Linux的圖形介面通常稱之為何？",
-    "options": ["①Windows", "②X Window", "③GUI", "④MS Windows"],
+    "options": ["(1) Windows", "(2) X Window", "(3) GUI", "(4) MS Windows"],
     "answer": "2"
   },
   {
     "id": "128",
     "s_num": "1-128",
     "question": "Unix-like作業環境中，何者可新增使用者群組？",
-    "options": ["①useradd", "②groupadd", "③groups", "④groupdel"],
+    "options": ["(1) useradd", "(2) groupadd", "(3) groups", "(4) groupdel"],
     "answer": "2"
   },
   {
     "id": "129",
     "s_num": "1-129",
     "question": "Unix-like作業環境中，何者可變更檔案名稱及位置？",
-    "options": ["①mv", "②cp", "③cpio", "④cat"],
+    "options": ["(1) mv", "(2) cp", "(3) cpio", "(4) cat"],
     "answer": "1"
   },
   {
     "id": "130",
     "s_num": "1-130",
     "question": "Unix-like作業環境中，何者可顯示檔案內容？",
-    "options": ["①mv", "②cp", "③cpio", "④cat"],
+    "options": ["(1) mv", "(2) cp", "(3) cpio", "(4) cat"],
     "answer": "4"
   },
   {
     "id": "131",
     "s_num": "1-131",
     "question": "Unix-like作業環境中，何者可改變檔案屬性SUID等之特性？",
-    "options": ["①chgrp", "②chown", "③chmod", "④check"],
+    "options": ["(1) chgrp", "(2) chown", "(3) chmod", "(4) check"],
     "answer": "3"
   },
   {
     "id": "132",
     "s_num": "1-132",
     "question": "Unix-like作業環境中，何者可將記憶體中的資料同步寫入硬碟？",
-    "options": ["①fsck", "②newfs", "③sync", "④mknod"],
+    "options": ["(1) fsck", "(2) newfs", "(3) sync", "(4) mknod"],
     "answer": "3"
   },
   {
     "id": "133",
     "s_num": "1-133",
     "question": "Unix-like作業環境中，何者可顯示磁碟的內容及容量？",
-    "options": ["①df", "②ps", "③ls", "④ln"],
+    "options": ["(1) df", "(2) ps", "(3) ls", "(4) ln"],
     "answer": "1"
   },
   {
     "id": "134",
     "s_num": "1-134",
     "question": "Unix-like作業環境中，vi文字編輯器具有一般模式與編輯模式，何者可作為兩個模式之間的切換？",
-    "options": ["①F1", "②Ctrl+F1", "③ESC", "④Shift+Space"],
+    "options": ["(1) F1", "(2) Ctrl+F1", "(3) ESC", "(4) Shift+Space"],
     "answer": "3"
   },
   {
     "id": "135",
     "s_num": "1-135",
     "question": "Unix-like作業環境中，使用vi文字編輯器在一般模式下，何者可存檔後強制退出？",
-    "options": ["①wq!", "②q", "③q!", "④w!"],
+    "options": ["(1) wq!", "(2) q", "(3) q!", "(4) w!"],
     "answer": "1"
   },
   {
     "id": "136",
     "s_num": "1-136",
     "question": "Unix-like作業環境中，透過telnet指令去管理遠端的主機，再從遠端主機telnet 到別台主機，有時候次數一多，如果忘記目前的工作主機是那一台，可以透過那一指令來做識別的工作？",
-    "options": ["①hosts", "②who", "③ifconfig", "④whoami"],
+    "options": ["(1) hosts", "(2) who", "(3) ifconfig", "(4) whoami"],
     "answer": "3"
   },
   {
     "id": "137",
     "s_num": "1-137",
     "question": "Linux作業環境中，何者是網頁伺服器軟體？",
-    "options": ["①PHP", "②Apache", "③MariaDB", "④IIS"],
+    "options": ["(1) PHP", "(2) Apache", "(3) MariaDB", "(4) IIS"],
     "answer": "2"
   },
   {
     "id": "138",
     "s_num": "1-138",
     "question": "Linux作業系統中，何者可顯示目前所有登入者之資訊？",
-    "options": ["①who", "②which", "③whoami", "④login"],
+    "options": ["(1) who", "(2) which", "(3) whoami", "(4) login"],
     "answer": "1"
   },
   {
     "id": "139",
     "s_num": "1-139",
     "question": "Linux作業環境中，安裝兩顆SATA硬碟時，第二顆硬碟裝置名稱為何？",
-    "options": ["①/dev/hab", "②/dev/hd2", "③/dev/hds", "④/dev/sdb"],
+    "options": ["(1) /dev/hab", "(2) /dev/hd2", "(3) /dev/hds", "(4) /dev/sdb"],
     "answer": "4"
   },
   {
     "id": "140",
     "s_num": "1-140",
     "question": "何者不是關聯式資料庫之特性？",
-    "options": ["①不含重複的記錄", "②記錄之間是具有順序的", "③屬性之間是沒有順序的", "④所有屬性值都是單元值(Atomic Value)"],
+    "options": ["(1) 不含重複的記錄", "(2) 記錄之間是具有順序的", "(3) 屬性之間是沒有順序的", "(4) 所有屬性值都是單元值(Atomic Value)"],
     "answer": "2"
   },
   {
     "id": "141",
     "s_num": "1-141",
     "question": "撰寫程式時，欲將某一記錄(Record)由主程式傳入副程式，使用何種呼叫方式將不會更動主程式中記錄的值？",
-    "options": ["①Call by Name", "②Call by Value", "③Call by Reference", "④Call by Address"],
+    "options": ["(1) Call by Name", "(2) Call by Value", "(3) Call by Reference", "(4) Call by Address"],
     "answer": "2"
   },
   {
     "id": "142",
     "s_num": "1-142",
     "question": "關於分散式資料庫系統之敘述何者錯誤？",
-    "options": ["①可隨企業的成長而做漸進式的擴充", "②具有較佳的可靠度(Reliability)及妥善率(Availability)", "③系統複雜度提高", "④具有較佳的安全性與保密性"],
+    "options": ["(1) 可隨企業的成長而做漸進式的擴充", "(2) 具有較佳的可靠度(Reliability)及妥善率(Availability)", "(3) 系統複雜度提高", "(4) 具有較佳的安全性與保密性"],
     "answer": "4"
   },
   {
     "id": "143",
     "s_num": "1-143",
     "question": "何者不是資料管理軟體常用的安全機制？",
-    "options": ["①Views", "②Authorization Rules", "③On-Line Analytical Processing", "④Authentication Schemes"],
+    "options": ["(1) Views", "(2) Authorization Rules", "(3) On-Line Analytical Processing", "(4) Authentication Schemes"],
     "answer": "3"
   },
   {
     "id": "144",
     "s_num": "1-144",
     "question": "設計關聯式資料庫若欲避免相互依賴索引鍵，至少會要求正規化到何種程度？",
-    "options": ["①1NF", "②2NF", "③3NF", "④4NF"],
+    "options": ["(1) 1NF", "(2) 2NF", "(3) 3NF", "(4) 4NF"],
     "answer": "3"
   },
   {
     "id": "145",
     "s_num": "1-145",
     "question": "感測器(Sensor)在物聯網三層級中主要發揮那一項功能？",
-    "options": ["①偵測通訊情況，確保訊息傳遞無誤", "②偵測物聯網機房情況、確保系統正常工作", "③偵測物體所處環境各項資訊，結合網路實現感知層", "④蒐集各項感測器電氣特性，建構物理模型實現應用層"],
+    "options": ["(1) 偵測通訊情況，確保訊息傳遞無誤", "(2) 偵測物聯網機房情況、確保系統正常工作", "(3) 偵測物體所處環境各項資訊，結合網路實現感知層", "(4) 蒐集各項感測器電氣特性，建構物理模型實現應用層"],
     "answer": "3"
   },
   {
     "id": "146",
     "s_num": "1-146",
     "question": "物聯網的應用系統中，感測器網路由多個感測器散布於空間中組成，其基礎概念為，由各別感測器模組將量測數據原始資料回傳到中央系統，由中央系統運算分析後，取得空間中資訊後進行決策以進行控制，將資料彙整成資料庫用於決策參考或用於觸發警報，典型範例即為SCADA(Supervisory Control And Data Acquisition)，此系統是用於那一項應用？",
-    "options": ["①工廠自動化", "②家庭自動化", "③智慧交通系統", "④環境災害監控"],
+    "options": ["(1) 工廠自動化", "(2) 家庭自動化", "(3) 智慧交通系統", "(4) 環境災害監控"],
     "answer": "1"
   },
   {
     "id": "147",
     "s_num": "1-147",
     "question": "物聯網的應用系統中，感測器網路的智慧基礎，來自那一項特性？",
-    "options": ["①感測器精密結構改善，蒐集精確度更高的資料", "②分布感測器大量蒐集資料，透過網路整合多項資訊", "③伺服器安裝防火牆系統，處理感測器資訊", "④雲端資料庫存有大量資料，經比對刪除不必要資訊"],
+    "options": ["(1) 感測器精密結構改善，蒐集精確度更高的資料", "(2) 分布感測器大量蒐集資料，透過網路整合多項資訊", "(3) 伺服器安裝防火牆系統，處理感測器資訊", "(4) 雲端資料庫存有大量資料，經比對刪除不必要資訊"],
     "answer": "2"
   },
   {
     "id": "148",
     "s_num": "1-148",
     "question": "物聯網的應用系統中，感測器網路對頻寬的主要要求是那一項？",
-    "options": ["①支援加密功能", "②支援多工運算", "③支援量測物理特性", "④支援感測器電氣規格"],
+    "options": ["(1) 支援加密功能", "(2) 支援多工運算", "(3) 支援量測物理特性", "(4) 支援感測器電氣規格"],
     "answer": "3"
   },
   {
     "id": "149",
     "s_num": "1-149",
     "question": "物聯網要求感測器網路位址分配準則不含那一項？",
-    "options": ["①位址在網路內必須是唯一的", "②在物件離開網路後，位址必須是可重複使用的", "③位址分配必須是動態的，而且位址分配必須公平分配", "④位址分配須具備集中化的概念"],
+    "options": ["(1) 位址在網路內必須是唯一的", "(2) 在物件離開網路後，位址必須是可重複使用的", "(3) 位址分配必須是動態的，而且位址分配必須公平分配", "(4) 位址分配須具備集中化的概念"],
     "answer": "4"
   },
   {
     "id": "150",
     "s_num": "1-150",
     "question": "物聯網的應用系統中，感應式耦合(Inductive Coupling)在RFID系統的作用為那一項？",
-    "options": ["①提供數公里的讀取範圍", "②主動式標籤用此傳送資料", "③被動式標籤用此與讀取器溝通", "④提供數十公尺的讀取範圍"],
+    "options": ["(1) 提供數公里的讀取範圍", "(2) 主動式標籤用此傳送資料", "(3) 被動式標籤用此與讀取器溝通", "(4) 提供數十公尺的讀取範圍"],
     "answer": "3"
+  },
+    {
+    "id": "151",
+    "s_num": "1-151",
+    "question": "物聯網的應用系統中，那一項是供應鏈追蹤？",
+    "options": [
+      "(1) 包括追蹤製造過程中的元件，但不包括組裝完成的物件",
+      "(2) 包括追蹤商店的推車與貨物架，幫助自動付款、結帳，還有存貨管理",
+      "(3) 包括追蹤在農場或動物園的動物，並引導到適當的位置",
+      "(4) 包括追蹤供應鏈的物品與倉儲管理，早期主要採用RFID元件來實現供應鏈追蹤"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "152",
+    "s_num": "1-152",
+    "question": "物聯網的應用系統中，將貨物運送區域導入RFID系統，而有些需要貼標籤的物品為金屬容器，那一項方法可以有最佳的讀取效果？",
+    "options": [
+      "(1) 在金屬與標籤中間置入一塊絕緣墊片",
+      "(2) 改變讀取器的工作頻率",
+      "(3) 增加標籤的功率",
+      "(4) 增加讀取器的功率"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "153",
+    "s_num": "1-153",
+    "question": "物聯網的應用系統中，負責與感測器網路節點連結功能的感測器硬體單元為那一項？",
+    "options": ["(1) 感測單元", "(2) 數據處理單元", "(3) 數據收發單元", "(4) 電源蒐集單元"],
+    "answer": "3"
+  },
+  {
+    "id": "154",
+    "s_num": "1-154",
+    "question": "物聯網的應用系統中，那一項不是感測器執行中，分配服務所具備的特性？",
+    "options": ["(1) 透明性", "(2) 抗干擾性", "(3) 同步性", "(4) 不可分割性"],
+    "answer": "2"
+  },
+  {
+    "id": "155",
+    "s_num": "1-155",
+    "question": "物聯網的應用系統中，對於感測器網路的描述何者錯誤？",
+    "options": [
+      "(1) 為實現物聯網感知層的唯一技術",
+      "(2) 具有即時資訊處理及多點感知之網路架構",
+      "(3) 可以感知溫度、濕度、風速及太陽輻射流量等數據",
+      "(4) 硬體一般都由數據採集、數據處理、數據收發和電源等四個單元所組成"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "156",
+    "s_num": "1-156",
+    "question": "EPCglobal Network Architecture可稱為物聯網架構，其發展的技術標準不包括那一項？",
+    "options": [
+      "(1) RFID硬體及通訊標準",
+      "(2) 資訊分享及查找方式",
+      "(3) EPC編碼及轉換",
+      "(4) TCP/IP分配原則"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "157",
+    "s_num": "1-157",
+    "question": "物聯網的應用系統中，在EPC Network裡，倘若ABC冰塊公司其產品在全臺灣各大便利商店鋪貨，當被查驗所賣的冰塊含過量大腸桿菌時，必須回收產品並下架，這時ABC冰塊可利用那一項資料查詢進行產品追溯？",
+    "options": ["(1) DS(Discovery Services)", "(2) ONS(Object Name Service)", "(3) EPC IS(Information Service)", "(4) IIS(Internet Information Services)"],
+    "answer": "1"
+  },
+  {
+    "id": "158",
+    "s_num": "1-158",
+    "question": "關於巨量資料(Big Data)運用之敘述何者錯誤？",
+    "options": [
+      "(1) 巨量資料運用已發展一套一體適用的SOP(標準作業程序)通則，只要跟進就一定會成功",
+      "(2) 近年來巨量資料運用快速發展的原因取決於資料量急速成長、儲存設備成本下降、軟體技術進化和雲端環境成熟等種種客觀條件",
+      "(3) 巨量資料運用讓資料分析從過去的洞悉歷史進化到預測未來，甚至是破舊立新，開創從所未見的商業模式",
+      "(4) 隨著物聯網的興起，物聯網的資料將是巨量資料運用的對象之一"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "159",
+    "s_num": "1-159",
+    "question": "關於巨量資料之敘述何者錯誤？",
+    "options": [
+      "(1) 巨量資料之英文為Big data或Megadata，也稱為巨量資料、海量資料、大數據",
+      "(2) 巨量資料運用指的是所涉及的資料量規模巨大到無法透過人工，在合理時間內達到擷取、管理、處理、並整理成為人類所能解讀的形式的資訊",
+      "(3) 巨量資料運用在總資料量相同的情況下，與個別分析獨立的小型資料集(Data set)相比，將各個小型資料集合併後進行分析可得出許多額外的資訊和資料關聯性，可用來察覺商業趨勢、判定研究品質、避免疾病擴散、打擊犯罪或測定即時交通路況等",
+      "(4) 隨著物聯網的興起，物聯網的資料並非巨量資料運用可適用的對象"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "160",
+    "s_num": "1-160",
+    "question": "何者不是巨量資料分析的核心資訊知識？",
+    "options": ["(1) 巨量資料視覺化分析技術", "(2) 機器學習", "(3) 雲端資料探勘", "(4) 電腦網路架設"],
+    "answer": "4"
+  },
+  {
+    "id": "161",
+    "s_num": "1-161",
+    "question": "關於巨量資料運用之敘述何者錯誤？",
+    "options": [
+      "(1) 巨量資料又被稱為大數據(Big Data)，其概念其實就是過去10年廣泛用於企業內部的資料分析、商業智慧(Business Intelligence)和統計應用之大成",
+      "(2) 巨量資料運用的資料特質和傳統資料最大的不同是，資料來源多元、種類繁多，大多是非結構化資料，而且更新速度非常快，導致資料量大增",
+      "(3) 要用巨量資料創造價值，不得不注意數據的真實性",
+      "(4) 獲利不佳的企業利用巨量資料的運用，全部都可以馬上起死回生"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "162",
+    "s_num": "1-162",
+    "question": "電腦AlphaGo於2016年成為第一個不藉助讓子而擊敗圍棋職業九段棋士的電腦圍棋程式，其戰勝棋士最不可能運用的技術為何？",
+    "options": ["(1) 巨量資料的運用", "(2) 機器學習的運用", "(3) 人工智慧的運用", "(4) 網頁版面設計的運用"],
+    "answer": "4"
+  },
+  {
+    "id": "163",
+    "s_num": "1-163",
+    "question": "關於巨量資料作用之敘述何者錯誤？",
+    "options": ["(1) 對巨量資料的處理分析正成為新一代資訊技術融合應用的結點", "(2) 巨量資料是信息產業持續高速增長的新引擎", "(3) 巨量資料的利用不可能成為提高核心競爭力的關鍵因素", "(4) 因應巨量資料時代的來臨，科學研究的方法將發生重大改變"],
+    "answer": "3"
+  },
+  {
+    "id": "164",
+    "s_num": "1-164",
+    "question": "巨量資料運用的處理包括：「採集」、「導入/預處理」、「統計與分析」及「資料探勘」等，何者錯誤？",
+    "options": ["(1) 巨量資料的採集是指利用多個資料庫來接收發自客戶端(Web、App或者感測器形式等)的數據，並且用戶可以透過這些資料庫來進行簡單的查詢和處理工作", "(2) 雖然採集端本身會有很多資料庫，但是如果要對這些巨量資料進行有效的分析，還是應該將這些來自前端的數據導入到一個集中的大型分散式資料庫，或者分散式儲存叢集(Cluster)，並且可以在導入基礎上做一些簡單的篩選和預處理工作", "(3) 統計與分析主要利用集中式資料庫，或者集中式計算叢集(Cluster)來對儲存於其內的巨量資料進行普通的分析和分類彙總等，以滿足大多數常見的分析需求", "(4) 資料探勘一般沒有什麼預先設定好的主題，主要是在現有數據上面進行基於各種演算法的計算，從而起到預測(Predict)的效果，從而實現一些高級別數據分析的需求"],
+    "answer": "3"
+  },
+  {
+    "id": "165",
+    "s_num": "1-165",
+    "question": "何種工具最不適合處理巨量資料？",
+    "options": ["(1) Apache Hadoop", "(2) Apache Spark", "(3) NoSQL", "(4) dBase IV"],
+    "answer": "4"
+  },
+  {
+    "id": "166",
+    "s_num": "1-166",
+    "question": "何者是從巨量資料中提取出未知的、有價值的潛在資訊？",
+    "options": ["(1) 資料探勘", "(2) 資料蒐集", "(3) 資料撰寫", "(4) 資料結構"],
+    "answer": "1"
+  },
+  {
+    "id": "167",
+    "s_num": "1-167",
+    "question": "各種NoSQL資料庫的資料模型不包含何者？",
+    "options": ["(1) 鍵值資料庫(Key-values Stores)", "(2) 欄位群資料庫(Column Family Stores)", "(3) 文件資料庫(Document Databases)", "(4) 關聯式資料庫(Relational Database)"],
+    "answer": "4"
+  },
+  {
+    "id": "168",
+    "s_num": "1-168",
+    "question": "無法在一定時間內用常規軟體工具對其內容進行抓取、管理和處理的數據集合稱為什麼？",
+    "options": ["(1) 巨集", "(2) 巨量資料", "(3) 資料結構", "(4) 資料表"],
+    "answer": "2"
+  },
+  {
+    "id": "169",
+    "s_num": "1-169",
+    "question": "對於資料庫正規化（Normalization）的敘述，何者正確？",
+    "options": ["(1) 正規化的程度越高，資料的重複性會降低", "(2) 正規化的程度越高，資料存取效能亦會越高", "(3) 正規化的程度越高，資料表格的數量亦會增多", "(4) 正規化程序可避免更新異常"],
+    "answer": "134"
+  },
+  {
+    "id": "170",
+    "s_num": "1-170",
+    "question": "對於Web-based資料庫應用系統的效能，影響因素有那些？",
+    "options": ["(1) 網路頻寬", "(2) 同時上線的使用者數量", "(3) 資料庫的設計", "(4) 資料庫伺服器硬體等級"],
+    "answer": "1234"
+  },
+  {
+    "id": "171",
+    "s_num": "1-171",
+    "question": "如要確保關聯式資料庫的參考完整性（Referential Integrity），需使用到那些鍵（Key）？",
+    "options": ["(1) Candidate Key", "(2) Secondary Key", "(3) Primary Key", "(4) Foreign Key"],
+    "answer": "34"
+  },
+  {
+    "id": "172",
+    "s_num": "1-172",
+    "question": "那些資料庫技術可以增進資料表查詢的效率？",
+    "options": ["(1) Index", "(2) Stored Procedure", "(3) Backup", "(4) View"],
+    "answer": "12"
+  },
+  {
+    "id": "173",
+    "s_num": "1-173",
+    "question": "關於外鍵（Foreign Key）特性的描述，何者正確？",
+    "options": ["(1) 外鍵一定參考其它關聯表的主鍵", "(2) 外鍵在關聯表內不一定是主鍵", "(3) 外鍵和參考的主鍵屬於相同定義域，且屬性名稱一定相同", "(4) 外鍵可以是空值（NULL）"],
+    "answer": "124"
+  },
+  {
+    "id": "174",
+    "s_num": "1-174",
+    "question": "對於視界（View）的敘述，何者正確？",
+    "options": ["(1) 可被視為External Schema", "(2) 其內部資料是動態產生的", "(3) 可隱藏複雜的查詢語法", "(4) 可限制使用者的存取權限"],
+    "answer": "1234"
+  },
+  {
+    "id": "175",
+    "s_num": "1-175",
+    "question": "何者是選擇資料庫管理系統（DBMS）時應考慮的事項？",
+    "options": ["(1) 可應用的預算金額", "(2) 有那些廠牌的軟體或替代品", "(3) 公司的需求與軟體提供的功能是否符合", "(4) 與現有資訊系統的整合"],
+    "answer": "1234"
+  },
+  {
+    "id": "176",
+    "s_num": "1-176",
+    "question": "有關分散式資料庫系統的描述，何者正確？",
+    "options": ["(1) 資料可以依資料的性質與資料的種類而分散到不同的地方，如總公司、分公司，這樣可以減少資料的傳輸處理的時間與風險", "(2) 允許資料共享（Data sharing）並保有各自的控制性，能互通共享資料庫內的資料，執行不同的需求", "(3) 改善效能（Performance），各資料處理中心可同時處理不同的資料庫的資料", "(4) 各資料庫間的管理系統必須是相同版本的資料庫管理系統"],
+    "answer": "123"
+  },
+  {
+    "id": "177",
+    "s_num": "1-177",
+    "question": "DBMS是資料庫系統的核心，為了滿足多種需求，一般DBMS 會提供多種基本功能，何者較為常見？",
+    "options": ["(1) 資料壓縮（Compact Data）", "(2) 建立各類物件的DDL語法", "(3) 定義綱要（Schema）", "(4) 資料查詢（Query）或異動（新增、刪除、修改）"],
+    "answer": "234"
+  },
+  {
+    "id": "178",
+    "s_num": "1-178",
+    "question": "為增加資料庫執行效能，何者正確？",
+    "options": ["(1) 選定並建立合適的索引（Index）", "(2) 適度調整資料庫的綱目（Schema）", "(3) 建議並改寫壞的SQL指令（Bad SQL）", "(4) 將資料庫主機的記憶體加到最大"],
+    "answer": "123"
+  },
+  {
+    "id": "179",
+    "s_num": "1-179",
+    "question": "資料庫應用系統開發過程中，何者屬於資料庫系統需求定義階段所需完成的工作項目？",
+    "options": ["(1) 確定作業範圍", "(2) 查訪現況與課題分析", "(3) 設計SQL查詢句", "(4) 定義資料庫的資料與功能需求"],
+    "answer": "124"
+  },
+  {
+    "id": "180",
+    "s_num": "1-180",
+    "question": "資料庫應用系統開發的過程中，何者屬於可行性分析階段所需考慮的項目？",
+    "options": ["(1) 市場上可以提供技術支援的廠商", "(2) 確定整個專案的成本", "(3) 確定作業範圍", "(4) 定義資料庫的資料表與功能需求"],
+    "answer": "123"
+  },
+  {
+    "id": "181",
+    "s_num": "1-181",
+    "question": "對於關聯正規化（Normalize）的敘述，何者正確？",
+    "options": ["(1) 正規化的目的之一是消除「更新時的異常現象（Update Anomalies）」", "(2) 為了符合「正規化型式」的條件，會將關聯切割成數個失真（Lossy）的關聯", "(3) 越嚴格的「正規化型式」，查詢時便要花越多的時間來做合併（Join）", "(4) 正規化的步驟：是將關聯從滿足第n+1正規化型式Normalize成第n正規化型式，反覆執行，直到所有異常現象消失為止"],
+    "answer": "13"
+  },
+  {
+    "id": "182",
+    "s_num": "1-182",
+    "question": "何者是關聯式資料庫的特點？",
+    "options": ["(1) 在邏輯上，資料是以表格方式呈現，實際儲存在磁碟上時卻可能是以循序檔案，磁碟索引結構", "(2) 以二維的資料表（Table）概念為基礎來模型化資料彼此間的關聯", "(3) 表格中的Field Value可以是一個集合", "(4) 在資料庫管理系統看到的資料除了資料值本身外，還包含描述資料的定義，稱為綱要（Schema）"],
+    "answer": "124"
+  },
+  {
+    "id": "183",
+    "s_num": "1-183",
+    "question": "關於以SOAP為基礎所建構的Web服務，何者正確？",
+    "options": ["(1) SOAP因為使用HTTP通訊協定，在使用時要考慮安全性的問題", "(2) SOAP是一個與平台無關的協定", "(3) SOAP支援特定幾種程式語言(ASP、PHP、Java)，不算是語言獨立的協定", "(4) SOAP也算是一種Remote Procedure Call(RPC)的實作"],
+    "answer": "124"
+  },
+  {
+    "id": "184",
+    "s_num": "1-184",
+    "question": "良好的XML文件(well-formed XML document)的敘述，何者正確？",
+    "options": ["(1) 文件需包含一個或多個元素(element)", "(2) 根元素不出現在其他任何元素的內容(content)中", "(3) 非根元素若起始標籤在另一個元素內容中，則結束標籤亦要在該元素內容中", "(4) 被包含的元素稱為子元素，包住子元素的元素稱為父元素"],
+    "answer": "1234"
+  },
+  {
+    "id": "185",
+    "s_num": "1-185",
+    "question": "為了解決HTTP通訊協定無法保留狀態(stateless)的特質，那些方法可以協助進行狀態的保留(state)與管理(management)？",
+    "options": ["(1) cookie", "(2) session", "(3) TCP", "(4) encoding"],
+    "answer": "12"
+  },
+  {
+    "id": "186",
+    "s_num": "1-186",
+    "question": "關於表單中之隱藏控制項(hidden)的敘述，何者正確？",
+    "options": ["(1) 傳遞時會以DES加密，以達到資訊隱藏的目的", "(2) 其控制項不會以視覺的方式出現於螢幕上", "(3) 專門用來傳輸密碼", "(4) 程式設計者可以自由的用來傳遞網頁與網頁間的狀態"],
+    "answer": "24"
+  },
+  {
+    "id": "187",
+    "s_num": "1-187",
+    "question": "色彩配色有分加色及減色混合，色料的三原色為那些？",
+    "options": ["(1) 藍", "(2) 洋紅", "(3) 黃", "(4) 青"],
+    "answer": "234"
+  },
+  {
+    "id": "188",
+    "s_num": "1-188",
+    "question": "那些屬於色彩三屬性？",
+    "options": ["(1) 色相", "(2) 對比", "(3) 明度", "(4) 彩度"],
+    "answer": "134"
+  },
+  {
+    "id": "189",
+    "s_num": "1-189",
+    "question": "那些色彩具有彩度？",
+    "options": ["(1) 紅色", "(2) 綠色", "(3) 藍色", "(4) 黑色"],
+    "answer": "123"
+  },
+  {
+    "id": "190",
+    "s_num": "1-190",
+    "question": "有關GIF格式的圖檔那些敘述正確？",
+    "options": ["(1) 可呈現黑白色圖檔", "(2) 可呈現16色圖檔", "(3) 可呈現256色圖檔", "(4) 可呈現全彩色圖檔"],
+    "answer": "123"
+  },
+  {
+    "id": "191",
+    "s_num": "1-191",
+    "question": "設計美學中，設計構成要素個別存在時，那些具有伸長的特性？",
+    "options": ["(1) 點", "(2) 線", "(3) 面", "(4) 體"],
+    "answer": "234"
+  },
+  {
+    "id": "192",
+    "s_num": "1-192",
+    "question": "設計美學中，何者的外型具對稱性構圖？",
+    "options": ["(1) 飛機", "(2) 蝴蝶", "(3) 老鷹", "(4) 雲"],
+    "answer": "123"
+  },
+  {
+    "id": "193",
+    "s_num": "1-193",
+    "question": "設計美學中，何者的外型具放射性構圖？",
+    "options": ["(1) 菊花", "(2) 輪胎", "(3) 黃色小鴨", "(4) 玫瑰花"],
+    "answer": "124"
+  },
+  {
+    "id": "194",
+    "s_num": "1-194",
+    "question": "設計美學中，何者屬於基礎造形考量的基本要素？",
+    "options": ["(1) 形態", "(2) 機能", "(3) 利益", "(4) 美感"],
+    "answer": "124"
+  },
+  {
+    "id": "195",
+    "s_num": "1-195",
+    "question": "何種影像儲存格式包含透明度？",
+    "options": ["(1) GIF", "(2) JPEG", "(3) TIFF", "(4) PNG"],
+    "answer": "134"
+  },
+  {
+    "id": "196",
+    "s_num": "1-196",
+    "question": "有關網頁文件DOM模型的敘述，那些正確？",
+    "options": ["(1) 是Document Object Model的簡稱", "(2) 一個具有結構化的網頁文件內容可以用DOM樹來表示", "(3) 使用程式可以存取DOM樹的節點內容", "(4) DOM樹的節點內容能修改，但不能修改其樹的節點結構"],
+    "answer": "123"
+  },
+  {
+    "id": "197",
+    "s_num": "1-197",
+    "question": "關於HTML DOM模型之敘述那些正確？",
+    "options": ["(1) 屬於網頁設計進階技術，只有少部分瀏覽器有支援", "(2) 可動態更改網頁的內容", "(3) 運用JavaScript不但能修改HTML DOM樹的節點內容，也能修改其樹的節點結構", "(4) 支援HTML文件的元素，但元素間無繼承關係"],
+    "answer": "23"
+  },
+  {
+    "id": "198",
+    "s_num": "1-198",
+    "question": "HTML DOM模型介面包含那些元素物件(Element Object)？",
+    "options": ["(1) HTMLFormElement", "(2) HTMLTableElement", "(3) HTMLRowElement", "(4) HTMLIFrameElement"],
+    "answer": "124"
+  },
+  {
+    "id": "199",
+    "s_num": "1-199",
+    "question": "HTML Tag對應到HTML DOM模型元素的關係，那些正確？",
+    "options": ["(1) H2對應到HTMLHeadingElement", "(2) IMG對應到HTMLImageElement", "(3) TD對應到HTMLTableCellElement", "(4) IFRAME對應到HTMLFrameElement"],
+    "answer": "123"
+  },
+  {
+    "id": "200",
+    "s_num": "1-200",
+    "question": "在HTML DOM模型中的HTMLBodyElement物件，其屬性(properties)的說明那些正確？",
+    "options": ["(1) link的屬性為指定預設未拜訪過連結的顏色", "(2) aLink屬性為指定正在觸發動作中的連結顏色", "(3) textColor的屬性為指定文件中文字的顏色", "(4) vLink屬性為指定已拜訪過連結的顏色"],
+    "answer": "124"
+  },
+  {
+    "id": "201",
+    "s_num": "1-201",
+    "question": "在HTML DOM模型中的HTMLSelectElement物件，關於其屬性(Properties)的說明那些正確？",
+    "options": [
+      "(1) length屬性是下拉式選項中的個數",
+      "(2) multiple屬性是指定是否可多選",
+      "(3) size屬性是指在多選時，下拉式選項中被選上的數量",
+      "(4) selectedIndex屬性是指下拉式選項中被選上的編號"
+    ],
+    "answer": "124"
+  },
+  {
+    "id": "202",
+    "s_num": "1-202",
+    "question": "國家通訊傳播委員會(NCC)頒訂網站無障礙規範2.0版之設計原則何者正確？",
+    "options": ["(1) 可感知", "(2) 可操作", "(3) 可理解", "(4) 穩健性"],
+    "answer": "1234"
+  },
+  {
+    "id": "203",
+    "s_num": "1-203",
+    "question": "國家通訊傳播委員會(NCC)頒訂網站無障礙規範2.0版「可感知原則」包含那些指引項目？",
+    "options": ["(1) 替代文字", "(2) 充足時間", "(3) 時序媒體", "(4) 輸入協助"],
+    "answer": "13"
+  },
+  {
+    "id": "204",
+    "s_num": "1-204",
+    "question": "國家通訊傳播委員會(NCC)頒訂網站無障礙規範2.0版「可操作原則」包含那些指引項目？",
+    "options": ["(1) 鍵盤可操作", "(2) 充足時間", "(3) 可導覽", "(4) 可讀性"],
+    "answer": "123"
+  },
+  {
+    "id": "205",
+    "s_num": "1-205",
+    "question": "國家通訊傳播委員會(NCC)頒訂網站無障礙規範2.0版「可理解原則」包含那些指引項目？",
+    "options": ["(1) 可預期性", "(2) 輸入協助", "(3) 相容性", "(4) 可讀性"],
+    "answer": "124"
+  },
+  {
+    "id": "206",
+    "s_num": "1-206",
+    "question": "何者屬於ISO的OSI模型中網路七層架構？",
+    "options": ["(1) 實體層Physical Layer", "(2) 資料連接層Data-Link Layer", "(3) 網路層Network Layer", "(4) 傳送層Transport Layer"],
+    "answer": "1234"
+  },
+  {
+    "id": "207",
+    "s_num": "1-207",
+    "question": "何者屬於TCP/IP的網路架構？",
+    "options": ["(1) 網路存取層Network Access Layer", "(2) 網際層Internet Layer", "(3) 應用層Application Layer", "(4) 實體層Physical Layer"],
+    "answer": "123"
+  },
+  {
+    "id": "208",
+    "s_num": "1-208",
+    "question": "何者是OSI模型中網路實體層Physical Layer所定義的網路標準？",
+    "options": ["(1) 網路線", "(2) 各種無線連線方式", "(3) 各種設備規範", "(4) 應用程式之對談"],
+    "answer": "123"
+  },
+  {
+    "id": "209",
+    "s_num": "1-209",
+    "question": "何者是OSI模型中網路實體層Physical Layer所定義的網路標準？",
+    "options": ["(1) 傳輸訊號的電壓", "(2) 檔案的讀取", "(3) 檔案的複製", "(4) 各種接頭的規格"],
+    "answer": "14"
+  },
+  {
+    "id": "210",
+    "s_num": "1-210",
+    "question": "何者是OSI模型中傳送層Transport Layer所定義的網路標準？",
+    "options": ["(1) 技術的封包格式", "(2) 資料封包的傳送", "(3) 檔案的讀取", "(4) 各種無線連線方式"],
+    "answer": "12"
+  },
+  {
+    "id": "211",
+    "s_num": "1-211",
+    "question": "何者是OSI模型中傳送層Transport Layer所定義的網路標準？",
+    "options": ["(1) 流程的控制", "(2) 傳輸過程的偵測檢查", "(3) 檔案的開啟", "(4) 檔案的關閉"],
+    "answer": "12"
+  },
+  {
+    "id": "212",
+    "s_num": "1-212",
+    "question": "何者是OSI模型中表現層Presentation Layer所定義的網路標準？",
+    "options": ["(1) 網路服務(或程式)之間資料格式的轉換", "(2) 資料的加解密", "(3) 檔案的開啟", "(4) 檔案的關閉"],
+    "answer": "12"
+  },
+  {
+    "id": "213",
+    "s_num": "1-213",
+    "question": "何者是OSI模型中表現層Presentation Layer所定義的網路標準？",
+    "options": ["(1) 電腦之間的連線建立", "(2) 電腦之間的連線終止", "(3) 電腦之間的連線維持", "(4) 確定網路服務建立連線的確認"],
+    "answer": "12"
+  },
+  {
+    "id": "214",
+    "s_num": "1-214",
+    "question": "那些是網頁檔之副檔名？",
+    "options": ["(1) .php", "(2) .xml", "(3) .aspx", "(4) .jsp"],
+    "answer": "134"
+  },
+  {
+    "id": "215",
+    "s_num": "1-215",
+    "question": "那些技術用於輔助製作動態網頁？",
+    "options": ["(1) ASP", "(2) PHP", "(3) CGI", "(4) JSP"],
+    "answer": "1234"
+  },
+  {
+    "id": "216",
+    "s_num": "1-216",
+    "question": "關於HTML網頁檔案的敘述何者正確？",
+    "options": ["(1) 副檔名可為.htm或.html", "(2) 須使用專用軟體來編輯，無法使用記事本編輯", "(3) 內容為一連串標籤(Tag)的組合", "(4) 網頁檔案須先放在網站伺服器(Web Server)上才能檢視它的內容"],
+    "answer": "13"
+  },
+  {
+    "id": "217",
+    "s_num": "1-217",
+    "question": "機關首頁之搜尋功能設計，那些是正確之概念？",
+    "options": ["(1) 顯而易見", "(2) 易於操作", "(3) 欄位夠寬", "(4) 搜尋功能的預設範圍應含蓋整個全球網際網站"],
+    "answer": "123"
+  },
+  {
+    "id": "218",
+    "s_num": "1-218",
+    "question": "關於網頁之圖像與動畫使用，那些是正確之概念？",
+    "options": ["(1) 可採用圖像來加強內說明", "(2) 將Logo置於顯著位置", "(3) 強制瀏覽者觀看動畫", "(4) 避免過度使用浮水印式的圖像"],
+    "answer": "124"
+  },
+  {
+    "id": "219",
+    "s_num": "1-219",
+    "question": "JavaScript之敘述那些正確？",
+    "options": ["(1) 不允許讀取硬碟中的資料，故程式安全性高", "(2) 多數瀏覽器皆支援JavaScript，故符合跨平台的支援", "(3) 程式編譯後與HTML程式緊密結合", "(4) 各種特效皆須經伺服器來操作，故反應迅速且直接"],
+    "answer": "12"
+  },
+  {
+    "id": "220",
+    "s_num": "1-220",
+    "question": "對於JSP(Java Server Page)之敘述那些較適當？",
+    "options": ["(1) 以Servlet技術為基礎，所開發的範本系統", "(2) 屬於Java 2 Enterprise Edition (J2EE)的一部分", "(3) 每次執行JSP網頁時，該JSP Container均把JSP網頁轉譯為Servlet再加以執行", "(4) 以Java技術為主所開發的動態網頁"],
+    "answer": "124"
+  },
+  {
+    "id": "221",
+    "s_num": "1-221",
+    "question": "在Windows作業環境下，一般軟體安裝程式都使用什麼名稱？",
+    "options": ["(1) setup", "(2) uninstall", "(3) system", "(4) install"],
+    "answer": "14"
+  },
+  {
+    "id": "222",
+    "s_num": "1-222",
+    "question": "何類的作業系統不適合在UEFI環境下來安裝？",
+    "options": ["(1) DOS", "(2) Windows XP", "(3) Windows 8", "(4) Fedora core 8"],
+    "answer": "124"
+  },
+  {
+    "id": "223",
+    "s_num": "1-223",
+    "question": "何者為使用資料庫的優點？",
+    "options": ["(1) 減少資料的重複性", "(2) 強化資料的保密性及安全性", "(3) 減少儲存資料的空間", "(4) 不需專人管理及維護資料庫"],
+    "answer": "123"
+  },
+  {
+    "id": "224",
+    "s_num": "1-224",
+    "question": "何者為資料庫中實體-關係的主要構成元素？",
+    "options": ["(1) 實體", "(2) 模型", "(3) 屬性", "(4) 關係"],
+    "answer": "134"
+  },
+  {
+    "id": "225",
+    "s_num": "1-225",
+    "question": "何者是資料庫主鍵的特性？",
+    "options": ["(1) 欄位中的每一個值都具有唯一性", "(2) 在意義上要有代表性", "(3) 一個主鍵最多包含20個欄位", "(4) 具有一般索引的功能"],
+    "answer": "124"
+  },
+  {
+    "id": "226",
+    "s_num": "1-226",
+    "question": "關於資料傳輸之敘述何者不正確？",
+    "options": ["(1) 資料傳輸速率可用鮑率(Baud rate)來衡量", "(2) 鮑率為1表示每秒傳送1Byte", "(3) T1的傳輸速度為每秒65KB", "(4) 非同步傳輸較同步傳輸適合用於傳送大量連續資料"],
+    "answer": "234"
+  },
+  {
+    "id": "227",
+    "s_num": "1-227",
+    "question": "何種協定無支援壓縮功能？",
+    "options": ["(1) SLIP", "(2) PPP", "(3) PPTP", "(4) PNP"],
+    "answer": "134"
+  },
+  {
+    "id": "228",
+    "s_num": "1-228",
+    "question": "關於網路主幹傳輸媒體Trunk Carrier傳輸速率之敘述何者正確？",
+    "options": ["(1) T1為1.544 Mbps", "(2) T2為6.312 Mbps", "(3) T3為44.736Mbps", "(4) T4為89.472 Mbps"],
+    "answer": "123"
+  },
+  {
+    "id": "229",
+    "s_num": "1-229",
+    "question": "關於網路主幹傳輸媒體Trunk Carrier傳輸通道數量之敘述何者正確？",
+    "options": ["(1) T1為24", "(2) T2為48", "(3) T3為672", "(4) T4為4032"],
+    "answer": "134"
+  },
+  {
+    "id": "230",
+    "s_num": "1-230",
+    "question": "關於網路主幹傳輸媒體European Carrier傳輸速率之敘述何者正確？",
+    "options": ["(1) E1為2.048Mbps", "(2) E2為8.448Mbps", "(3) E3為34.368Mbps", "(4) E4為565.148Mbps"],
+    "answer": "123"
+  },
+  {
+    "id": "231",
+    "s_num": "1-231",
+    "question": "關於網路主幹傳輸媒體European Carrier傳輸通道數量之敘述何者正確？",
+    "options": ["(1) E1為32", "(2) E2為64", "(3) E3為512", "(4) E5為8192"],
+    "answer": "134"
+  },
+  {
+    "id": "232",
+    "s_num": "1-232",
+    "question": "關於同步光纖網路傳輸媒體Synchronous Optical Network傳輸速率之敘述何者正確？",
+    "options": ["(1) OC-384為39.813120Gbps", "(2) OC-768為39.813120Gbps", "(3) OC-1536為79.626240Gbps", "(4) OC-3072為79.626240Gbps"],
+    "answer": "23"
+  },
+  {
+    "id": "233",
+    "s_num": "1-233",
+    "question": "何者為ATM(Asynchronous Transfer Mode)網路之特性？",
+    "options": ["(1) 每個連線擁有專屬頻寬", "(2) 提供多樣化的傳輸速率", "(3) 省略錯誤檢查和流量控制之工作", "(4) 封包長度非常有彈性"],
+    "answer": "123"
+  },
+  {
+    "id": "234",
+    "s_num": "1-234",
+    "question": "何者為ATM(Asynchronous Transfer Mode)網路所提供的傳輸速率？",
+    "options": ["(1) 155 Mbps", "(2) 622 Mbps", "(3) 2.4 Gbps", "(4) 4.3 Gbps"],
+    "answer": "123"
+  },
+  {
+    "id": "235",
+    "s_num": "1-235",
+    "question": "何者為OSI網路七層通訊協定(Communication Protocol)第二層所提供之功能？",
+    "options": ["(1) 資料包裝與拆裝(Encapsulation/Decapsulation)", "(2) 資料分段與組合(Segmentation/Reassembly)", "(3) 資料流量控制(Flow Control)", "(4) 資料繞送(Routing)"],
+    "answer": "123"
+  },
+  {
+    "id": "236",
+    "s_num": "1-236",
+    "question": "關於網路傳輸協定之敘述何者正確？",
+    "options": ["(1) TCP是可靠性(Reliable)傳輸協定", "(2) UDP是非可靠性(Unreliable)傳輸協定", "(3) IP是可靠性(Reliable)傳輸協定", "(4) ATM是連線導向(Connection-Oriented)傳輸協定"],
+    "answer": "124"
+  },
+  {
+    "id": "237",
+    "s_num": "1-237",
+    "question": "關於群播(Multicast)之敘述何者正確？",
+    "options": ["(1) 群播適用於視訊會議(Video Conference)系統", "(2) 屬於同一群體的所有成員(Members)都使用同一個群播網路地址(Multicast IP)", "(3) 某一使用者加入(Join)或離開(Leave)某一群體(Group)時，必須先徵求伺服器(Server)的同意", "(4) 群播是將資料同時間一次送給一群(Group)的使用者"],
+    "answer": "124"
+  },
+  {
+    "id": "238",
+    "s_num": "1-238",
+    "question": "關於通訊協定之敘述何者正確？",
+    "options": ["(1) TCP/IP係由美國國防部所研發，共分為實體層、資料連結層、網路層、傳輸層及應用層等五層", "(2) NetBIOS是由IBM公司所發展的PC網路協定", "(3) IPX/SPX是由Novell公司為PC商用網路所設計發展的Novell NetWare，是目前最被普遍使用的區域網路軟體", "(4) Apple Talk是由Apple公司為了Mac所設計發展出的第一套「即插即用」的網路架構"],
+    "answer": "24"
+  },
+  {
+    "id": "239",
+    "s_num": "1-239",
+    "question": "何者為死結(Deadlock)發生的必要條件？",
+    "options": ["(1) Mutual Exclusion Condition", "(2) Wait for Condition", "(3) Preemption Condition", "(4) Circular Wait Condition"],
+    "answer": "124"
+  },
+  {
+    "id": "240",
+    "s_num": "1-240",
+    "question": "Linux作業環境中，何者可提供文字之編輯？",
+    "options": ["(1) vi", "(2) vim", "(3) edit", "(4) joe"],
+    "answer": "124"
+  },
+  {
+    "id": "241",
+    "s_num": "1-241",
+    "question": "Linux作業環境中，何者可作為關機之指令？",
+    "options": ["(1) halt", "(2) poweroff", "(3) shutdown", "(4) init 3"],
+    "answer": "123"
+  },
+  {
+    "id": "242",
+    "s_num": "1-242",
+    "question": "何者是Linux發行的版本(Distribution)？",
+    "options": ["(1) Fedora", "(2) SUSI", "(3) Ubuntu", "(4) Debian"],
+    "answer": "134"
+  },
+  {
+    "id": "243",
+    "s_num": "2-1",
+    "question": "關聯式資料庫進行「第二正規化型式」(Second Normal Form, 2NF)可以消除何種現象？",
+    "options": ["(1) 非候選鍵(Non-Candidate Key)的屬性，僅讓函數相依(Functional Dependent)於主鍵(Primary Key)的一部分", "(2) 非候選鍵的屬性，函數相依於別的非候選鍵屬性", "(3) 複合候選鍵的部分屬性，僅讓函數相依於另一個候選鍵的一部分", "(4) 屬性值不是單一值(Atomic)"],
+    "answer": "1"
+  },
+  {
+    "id": "244",
+    "s_num": "2-2",
+    "question": "SQL語法『SELECT COUNT(*) FROM Books』之意義為何？",
+    "options": ["(1) 資料表Books的記錄筆數", "(2) 資料表Books的欄位數", "(3) 資料表Books的資料平均值", "(4) 資料表Books的資料總和"],
+    "answer": "1"
+  },
+  {
+    "id": "245",
+    "s_num": "2-3",
+    "question": "欲完全刪除資料庫中的資料表Books，其SQL語法為何？",
+    "options": ["(1) DROP TABLE Books", "(2) DELETE TABLE Books", "(3) REMOVE TABLE Books", "(4) ERASE TABLE Books"],
+    "answer": "1"
+  },
+  {
+    "id": "246",
+    "s_num": "2-4",
+    "question": "SQL語法包含：(A)SELECT、(B)GROUP BY、(C)WHERE、(D)HAVING、(E)ORDER BY、(F)FROM 等子句之正確順序為何？",
+    "options": ["(1) AFCEBD", "(2) AFCBDE", "(3) AFDEBC", "(4) AFECBD"],
+    "answer": "2"
+  },
+  {
+    "id": "247",
+    "s_num": "2-5",
+    "question": "欲對資料庫刪除資料表Books中所有資料列，其SQL語法為何？",
+    "options": ["(1) REMOVE FROM Books", "(2) DROP FROM Books", "(3) DELETE FROM Books", "(4) ALTER FROM Books"],
+    "answer": "3"
+  },
+  {
+    "id": "248",
+    "s_num": "2-6",
+    "question": "SQL語法UPDATE之正確寫法為何？",
+    "options": ["(1) UPDATE bookname FROM Books WHERE id = 2 SET bookname ='哈利波特'", "(2) UPDATE FROM Books WHERE id = 2 SET bookname = '哈利波特'", "(3) UPDATE Books WHERE id = 2 SET bookname = '哈利波特'", "(4) UPDATE Books SET bookname = '哈利波特' WHERE id = 2"],
+    "answer": "4"
+  },
+  {
+    "id": "249",
+    "s_num": "2-7",
+    "question": "欲使用SQL語法『INSERT INTO TABLE Emp(Emp_no) VALUES (NULL)』將資料插入資料表Emp時發生錯誤，何者不是發生錯誤的原因？",
+    "options": ["(1) Emp_no欄位是主要鍵值(Primary Key)或主要鍵值之一", "(2) Emp_no是NOT NULL欄位", "(3) Emp_no是DEFAULT欄位", "(4) 資料表Emp裡面無Emp_no欄位"],
+    "answer": "3"
+  },
+  {
+    "id": "250",
+    "s_num": "2-8",
+    "question": "某企業(Emp)有數十個部門(Dept_name)，每個部門有數百人，吳總經理欲知道：「除了部門主管(Is_dept_manager)之外，平均薪資(Salary)在50,000元(含)以上的部門有那些？」，最能符合上述要求之SQL語法為何？",
+    "options": ["(1) SELECT Dept_name, AVG(Salary) FROM Emp WHERE Is_dept_manager=TRUE AND SUM (Salary)>=50000 GROUP BY Dept_name", "(2) SELECT Dept_name, AVG(Salary) FROM Emp WHERE Is_dept_manager=TRUE GROUP BY Dept_name HAVING AVG(Salary)>=50000", "(3) SELECT Dept_name, AVG(Salary) FROM Emp WHERE Is_dept_manager=FALSE GROUP BY Dept_name HAVING AVG(Salary)>=50000", "(4) SELECT Dept_name, AVG(Salary) FROM EMP WHERE Is_dept_manager=FALSE AND AVG(Salary)>=50000"],
+    "answer": "3"
+  },
+    {
+    "id": "251",
+    "s_num": "2-9",
+    "question": "資料表Emp之欄位屬性定義：Empid INTEGER、Name CHAR(20)、Deptno INTEGER、Sal INTEGER；欲表列「部門代號20及50的員工平均薪資(Sal)在22,000元(含)以上」之部門代號(Deptno)，最能符合要求之SQL語法為何？",
+    "options": [
+      "(1) SELECT Deptno, AVG(Sal) FROM Emp WHERE Deptno IN (20,50) GROUP BY Deptno HAVING AVG(Sal)>=22000",
+      "(2) SELECT Deptno, AVG(Sal) FROM Emp GROUP BY Deptno HAVING AVG(Sal)>=22000 AND Deptno IN (20,50)",
+      "(3) SELECT Deptno, AVG(Sal) FROM Emp WHERE Deptno IN (20,50) AND AVG(Sal)>=22000 GROUP BY Deptno",
+      "(4) SELECT Deptno, AVG(Sal) FROM Emp WHERE Deptno IN (20,50) GROUP BY AVG(Sal) HAVING AVG(Sal)>=22000"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "252",
+    "s_num": "2-10",
+    "question": "資料表Staff之欄位屬性定義：Id INTEGER、Name CHAR(20)、Dept INTEGER、Job CHAR(20)、Years INTEGER、 Salary DECIMAL(10, 2)、Comm DECIMAL(10,2)；欲表列「至少有一個員工的酬金(Comm)在5,000元以上」之部門編號及員工總數，最能符合要求之SQL語法為何？",
+    "options": [
+      "(1) SELECT Dept, COUNT(*) FROM Staff GROUP BY Dept HAVING Comm>5000",
+      "(2) SELECT Dept, COUNT(*) FROM Staff WHERE Comm>5000 GROUP BY Dept, Comm",
+      "(3) SELECT Dept, COUNT(*) FROM Staff GROUP BY Dept HAVING MAX(Comm)>5000",
+      "(4) SELECT Dept, Comm, COUNT(id) FROM Staff WHERE Comm>5000 GROUP BY Dept, Comm"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "253",
+    "s_num": "2-11",
+    "question": "可以免費使用的資料庫管理系統為何？",
+    "options": ["(1) Oracle", "(2) SQL Server", "(3) MariaDB", "(4) DB2"],
+    "answer": "3"
+  },
+  {
+    "id": "254",
+    "s_num": "2-12",
+    "question": "有關MariaDB的敘述何者錯誤？",
+    "options": [
+      "(1) 可以在許多平台上執行，包括Linux及Windows",
+      "(2) 簡單易學、彈性大、執行速度快是MariaDB的優點",
+      "(3) 使用者可以隨時檢查MariaDB原始檔及修正錯誤",
+      "(4) MariaDB只能在預設的DOS模式下使用"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "255",
+    "s_num": "2-13",
+    "question": "不能執行MariaDB的作業平台為何？",
+    "options": ["(1) Windows", "(2) Unix", "(3) Linux", "(4) Google"],
+    "answer": "4"
+  },
+  {
+    "id": "256",
+    "s_num": "2-14",
+    "question": "MariaDB預設最高管理者(Super User)帳號為何？",
+    "options": ["(1) localhost", "(2) Administrator", "(3) root", "(4) 空白"],
+    "answer": "3"
+  },
+  {
+    "id": "257",
+    "s_num": "2-15",
+    "question": "MariaDB語法「SELECT GREATEST(34.0, 3.0, 5.0, 767.0);」，其執行結果為何？",
+    "options": ["(1) 767.0", "(2) 34.0", "(3) 5.0", "(4) 3.0"],
+    "answer": "1"
+  },
+  {
+    "id": "258",
+    "s_num": "2-16",
+    "question": "MariaDB語法「SELECT ISNULL(1+1);」，其執行結果為何？",
+    "options": ["(1) 0", "(2) 1", "(3) 2", "(4) 3"],
+    "answer": "1"
+  },
+  {
+    "id": "259",
+    "s_num": "2-17",
+    "question": "若MariaDB要啟動遞增備份(Incremental Backup)，需在主程式執行時加上-log-bin選項，並啟動何種功能方可執行遞增備份？",
+    "options": ["(1) Program logging", "(2) Database logging", "(3) Text logging", "(4) Binary logging"],
+    "answer": "4"
+  },
+  {
+    "id": "260",
+    "s_num": "2-18",
+    "question": "MariaDB語法「SELECT * INTO inst_X ‘file_A’ FROM table_B;」可將table_B備份到file_A，則語法中「inst_X」為何？",
+    "options": ["(1) INFILE", "(2) OUTFILE", "(3) REPLACE", "(4) IGNORE"],
+    "answer": "2"
+  },
+  {
+    "id": "261",
+    "s_num": "2-19",
+    "question": "MariaDB語法「LOAD DATA inst_X1 ‘file_A’ inst_X2 INTO TABLE table_B;」可從file_A回復table_B且覆蓋重複的部分，則語法中「inst_X1」及「inst_X2」分別為何？",
+    "options": ["(1) INFILE、REPLACE", "(2) INFILE、IGNORE", "(3) OUTFILE、REPLACE", "(4) OUTFILE、IGNORE"],
+    "answer": "1"
+  },
+  {
+    "id": "262",
+    "s_num": "2-20",
+    "question": "MariaDB語法中某些字串中的字元(如：單引號、雙引號)有特殊含意，需另加跳脫符號來表示，則MariaDB的跳脫符號為何？",
+    "options": ["(1) _", "(2) /", "(3) \\", "(4) |"],
+    "answer": "3"
+  },
+  {
+    "id": "263",
+    "s_num": "2-21",
+    "question": "Transact-SQL語法「SELECT COALESCE(NULL, 2, NULL, 3);」，其執行結果為何？",
+    "options": ["(1) NULL", "(2) 1", "(3) 2", "(4) 3"],
+    "answer": "3"
+  },
+  {
+    "id": "264",
+    "s_num": "2-22",
+    "question": "在Windows作業環境中，MariaDB預設的組態檔為何？",
+    "options": ["(1) my.cnf", "(2) my.ini", "(3) config.inc", "(4) web.config"],
+    "answer": "2"
+  },
+  {
+    "id": "265",
+    "s_num": "2-23",
+    "question": "在Unix作業環境中，MariaDB預設的組態檔為何？",
+    "options": ["(1) my.cnf", "(2) my.ini", "(3) config.inc", "(4) web.config"],
+    "answer": "1"
+  },
+  {
+    "id": "266",
+    "s_num": "2-24",
+    "question": "若要指定MariaDB組態檔的路徑及檔名，其參數為何？",
+    "options": ["(1) config-file", "(2) setting-file", "(3) defaults-file", "(4) install-file"],
+    "answer": "3"
+  },
+  {
+    "id": "267",
+    "s_num": "2-25",
+    "question": "若要設定MariaDB的埠號，其參數為何？",
+    "options": ["(1) basedir", "(2) datadir", "(3) default-character-set", "(4) port"],
+    "answer": "4"
+  },
+  {
+    "id": "268",
+    "s_num": "2-26",
+    "question": "若要設定MariaDB的主目錄，其參數為何？",
+    "options": ["(1) basedir", "(2) maindir", "(3) defaultdir", "(4) rootdir"],
+    "answer": "1"
+  },
+  {
+    "id": "269",
+    "s_num": "2-27",
+    "question": "MariaDB語法中要刪除檢視表，其指令為何？",
+    "options": ["(1) ERASE VIEW", "(2) DELETE VIEW", "(3) CANCEL VIEW", "(4) DROP VIEW"],
+    "answer": "4"
+  },
+  {
+    "id": "270",
+    "s_num": "2-28",
+    "question": "MariaDB 10.4預設的儲存引擎為何？",
+    "options": ["(1) MyISAM", "(2) InnoDB", "(3) Memory", "(4) Merge"],
+    "answer": "2"
+  },
+  {
+    "id": "271",
+    "s_num": "2-29",
+    "question": "建立MariaDB資料表的語法用以指定儲存引擎，則語法中「para_X」為何？",
+    "options": ["(1) STORAGE", "(2) ENGINE", "(3) ORDER", "(4) WHERE"],
+    "answer": "2"
+  },
+  {
+    "id": "272",
+    "s_num": "2-30",
+    "question": "常被用於交易處理(Transaction Processing)，並支援ACID (Atomicity, Consistency, Isolation, Durability) 交易特性及外部索引鍵的MariaDB儲存引擎為何？",
+    "options": ["(1) MyISAM", "(2) InnoDB", "(3) Memory", "(4) Merge"],
+    "answer": "2"
+  },
+  {
+    "id": "273",
+    "s_num": "2-31",
+    "question": "Transact-SQL語法中，支援資料新增、刪除、修改及查詢功能的語言為何？",
+    "options": ["(1) DML", "(2) DCL", "(3) DSL", "(4) DDL"],
+    "answer": "1"
+  },
+  {
+    "id": "274",
+    "s_num": "2-32",
+    "question": "結構化查詢語言(Structure Query Language)共區分為三大類，不包括那一類？",
+    "options": ["(1) DML", "(2) DCL", "(3) DSL", "(4) DDL"],
+    "answer": "3"
+  },
+  {
+    "id": "275",
+    "s_num": "2-33",
+    "question": "有關PHP的敘述何者有誤？",
+    "options": ["(1) 提供伺服器端(Server-Side)描述方式的操作模式", "(2) 提供命令列的操作模式，故可在作業系統下直接執行", "(3) 提供使用者端的應用程式，故可設計GUI的應用程式", "(4) 提供操作模式屬於輸入模式"],
+    "answer": "4"
+  },
+  {
+    "id": "276",
+    "s_num": "2-34",
+    "question": "有關PHP的敘述何者有誤？",
+    "options": ["(1) 在Apache、MS IIS等Web伺服器執行的Script", "(2) 只能在Linux或Unix作業系統上執行，無法於Windows或Mac OS上執行", "(3) 支援動態資料庫網頁", "(4) 具有免費、穩定、快速、跨平台、物件導向等優點"],
+    "answer": "2"
+  },
+  {
+    "id": "277",
+    "s_num": "2-35",
+    "question": "何者不是PHP的保留字？",
+    "options": ["(1) const", "(2) for", "(3) my", "(4) break"],
+    "answer": "3"
+  },
+  {
+    "id": "278",
+    "s_num": "2-36",
+    "question": "phpMyAdmin的功用為何？",
+    "options": ["(1) 資料庫系統", "(2) MariaDB資料庫的管理軟體", "(3) 用來撰寫PHP程式的軟體", "(4) 管理PHP權限的軟體"],
+    "answer": "2"
+  },
+  {
+    "id": "279",
+    "s_num": "2-37",
+    "question": "在Windows系統中執行Apache Restart服務，其意義為何？",
+    "options": ["(1) 停止Apache Server", "(2) 啟動Apache Server", "(3) 暫停Apache Server", "(4) 重新啟動Apache Server"],
+    "answer": "4"
+  },
+  {
+    "id": "280",
+    "s_num": "2-38",
+    "question": "在Windows系統中執行Apache Start服務，其意義為何？",
+    "options": ["(1) 停止Apache Server", "(2) 啟動Apache Server", "(3) 暫停Apache Server", "(4) 重新啟動Apache Server"],
+    "answer": "2"
+  },
+  {
+    "id": "281",
+    "s_num": "2-39",
+    "question": "PHP對兩個布林運算式進行OR運算，其運算子為何？",
+    "options": ["(1) &&", "(2) !", "(3) ∥", "(4) ^"],
+    "answer": "3"
+  },
+  {
+    "id": "282",
+    "s_num": "2-40",
+    "question": "PHP運算子中，優先順序最高為何？",
+    "options": ["(1) ++", "(2) &&", "(3) >>", "(4) +"],
+    "answer": "1"
+  },
+  {
+    "id": "283",
+    "s_num": "2-41",
+    "question": "何者非PHP迴圈控制指令？",
+    "options": ["(1) loop", "(2) while", "(3) do while", "(4) for"],
+    "answer": "1"
+  },
+  {
+    "id": "284",
+    "s_num": "2-42",
+    "question": "建立PHP函數的關鍵字為何？",
+    "options": ["(1) func", "(2) sub", "(3) define", "(4) function"],
+    "answer": "4"
+  },
+  {
+    "id": "285",
+    "s_num": "2-43",
+    "question": "PHP中直接輸出一個圖檔到網頁，其所傳送的Header何者正確？",
+    "options": [
+      "(1) header('Content-Type: image/jpeg')",
+      "(2) header('Content-Type: text/html')",
+      "(3) header('Image/jpeg')",
+      "(4) header('Content-Image')"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "286",
+    "s_num": "2-44",
+    "question": "用來製作縮圖的PHP影像處理函式為何？",
+    "options": ["(1) imagefill()", "(2) imagecreatefrompng()", "(3) imagecharup()", "(4) imagecopyresized()"],
+    "answer": "4"
+  },
+  {
+    "id": "287",
+    "s_num": "2-45",
+    "question": "避免MariaDB查詢時出現中文字亂碼問題，所使用的PHP指令為何？",
+    "options": [
+      "(1) mysql_query('SET NAMES utf8')",
+      "(2) mysql_fetch()",
+      "(3) mysql_get_charset()",
+      "(4) mysql_result()"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "288",
+    "s_num": "2-46",
+    "question": "MariaDB發生錯誤時，取回錯誤代碼的PHP函數為何？",
+    "options": ["(1) mysql_error()", "(2) mysql_errno()", "(3) mysql_get_error()", "(4) mysql_report()"],
+    "answer": "2"
+  },
+  {
+    "id": "289",
+    "s_num": "2-47",
+    "question": "取得資料表記錄數的PHP函數為何？",
+    "options": ["(1) mysql_fetch_rows()", "(2) mysql_num_rows()", "(3) mysql_fetch_fields()", "(4) mysql_num_fields()"],
+    "answer": "2"
+  },
+  {
+    "id": "290",
+    "s_num": "2-48",
+    "question": "移動索引指標工作的PHP函數為何？",
+    "options": ["(1) mysql_query()", "(2) mysql_result()", "(3) mysql_fetch_row()", "(4) mysql_data_seek()"],
+    "answer": "4"
+  },
+  {
+    "id": "291",
+    "s_num": "2-49",
+    "question": "關閉資料庫連結的PHP函數為何？",
+    "options": ["(1) mysql_connect()", "(2) mysql_close()", "(3) mysql_query()", "(4) mysql_select_db()"],
+    "answer": "2"
+  },
+  {
+    "id": "292",
+    "s_num": "2-50",
+    "question": "與MariaDB建立資料庫連結的PHP函數為何？",
+    "options": ["(1) mysql_connect()", "(2) mysql_close()", "(3) mysql_query()", "(4) mysql_select_db()"],
+    "answer": "1"
+  },
+  {
+    "id": "293",
+    "s_num": "2-51",
+    "question": "何種PHP函數可刪除資料夾中的文件？",
+    "options": ["(1) file_remove", "(2) unlink", "(3) del_exists", "(4) rm"],
+    "answer": "2"
+  },
+  {
+    "id": "294",
+    "s_num": "2-52",
+    "question": "傳送附檔郵件資料使用的PHP編碼函數為何？",
+    "options": ["(1) mail()", "(2) md5()", "(3) chuck_split()", "(4) base64_encode()"],
+    "answer": "4"
+  },
+  {
+    "id": "295",
+    "s_num": "2-53",
+    "question": "取得目前工作資料夾的PHP函數為何？",
+    "options": ["(1) mrdor()", "(2) cd()", "(3) getcwd()", "(4) chdir()"],
+    "answer": "3"
+  },
+  {
+    "id": "296",
+    "s_num": "2-54",
+    "question": "PHP程式中fopen()函數開啟唯讀檔案模式的參數為何？",
+    "options": ["(1) r", "(2) a", "(3) w", "(4) b"],
+    "answer": "1"
+  },
+  {
+    "id": "297",
+    "s_num": "2-55",
+    "question": "PHP程式中fopen()函數開啟在檔尾新增資料檔案模式的參數為何？",
+    "options": ["(1) r", "(2) a", "(3) w", "(4) b"],
+    "answer": "2"
+  },
+  {
+    "id": "298",
+    "s_num": "2-56",
+    "question": "取得Session資料變數的PHP指令為何？",
+    "options": ["(1) $GLOBALS", "(2) $_SERVER", "(3) $_SESSION", "(4) $_COOKIE"],
+    "answer": "3"
+  },
+  {
+    "id": "299",
+    "s_num": "2-57",
+    "question": "在PHP程式中新增Cookie資料內容時，expire參數的單位為何？",
+    "options": ["(1) sec(秒)", "(2) min(分)", "(3) msec(毫秒)", "(4) day(天)"],
+    "answer": "1"
+  },
+  {
+    "id": "300",
+    "s_num": "2-58",
+    "question": "PHP新增Cookie時使用的內建函數為何？",
+    "options": ["(1) getcookie()", "(2) setcookie()", "(3) addcookie()", "(4) creatcookie()"],
+    "answer": "2"
+  },
+    {
+    "id": "301",
+    "s_num": "2-59",
+    "question": "PHP程式中，除了$_COOKIE外，還可存取Cookie內容資料者為何？",
+    "options": ["(1) $_SESSION", "(2) $_COOKIE", "(3) $GETCOOKIE", "(4) $HTTP_COOKIE_VARS[]"],
+    "answer": "4"
+  },
+  {
+    "id": "302",
+    "s_num": "2-60",
+    "question": "Cookie變數的儲放位置為何？",
+    "options": ["(1) Client Side", "(2) Server Side", "(3) ISP", "(4) Proxy"],
+    "answer": "1"
+  },
+  {
+    "id": "303",
+    "s_num": "2-61",
+    "question": "色彩的三屬性是依據光波何種特性來區別色相？",
+    "options": ["(1) 波長之長短", "(2) 反射率之高低", "(3) 振幅之高低差", "(4) 折射率之高低"],
+    "answer": "1"
+  },
+  {
+    "id": "304",
+    "s_num": "2-62",
+    "question": "色彩的三屬性中，何者是依據光波反射率之高低區別色彩？",
+    "options": ["(1) 色相", "(2) 明度", "(3) 彩度", "(4) 色系"],
+    "answer": "2"
+  },
+  {
+    "id": "305",
+    "s_num": "2-63",
+    "question": "色彩的三屬性中，何者是依據光波本身振幅之高低差區別色彩？",
+    "options": ["(1) 色相", "(2) 明度", "(3) 彩度", "(4) 色系"],
+    "answer": "3"
+  },
+  {
+    "id": "306",
+    "s_num": "2-64",
+    "question": "色彩學中常用的專有名詞Hue所指為何？",
+    "options": ["(1) 色相", "(2) 明度", "(3) 彩度", "(4) 色調"],
+    "answer": "1"
+  },
+  {
+    "id": "307",
+    "s_num": "2-65",
+    "question": "色彩學中常用的專有名詞Chroma所指為何？",
+    "options": ["(1) 色相", "(2) 明度", "(3) 彩度", "(4) 色立體"],
+    "answer": "3"
+  },
+  {
+    "id": "308",
+    "s_num": "2-66",
+    "question": "色彩學中常用的專有名詞Value所指為何？",
+    "options": ["(1) 彩度", "(2) 明度", "(3) 色相", "(4) 色立體"],
+    "answer": "2"
+  },
+  {
+    "id": "309",
+    "s_num": "2-67",
+    "question": "運用RGB色光調色時，紅色加藍色結果為何？",
+    "options": ["(1) 綠色", "(2) 咖啡色", "(3) 洋紅色", "(4) 黃色"],
+    "answer": "3"
+  },
+  {
+    "id": "310",
+    "s_num": "2-68",
+    "question": "RGB色光中藍色的補色為何？",
+    "options": ["(1) 青色", "(2) 洋紅色", "(3) 黃色", "(4) 橙色"],
+    "answer": "3"
+  },
+  {
+    "id": "311",
+    "s_num": "2-69",
+    "question": "RGB色光中紅色的補色為何？",
+    "options": ["(1) 青色", "(2) 洋紅色", "(3) 黃色", "(4) 橙色"],
+    "answer": "1"
+  },
+  {
+    "id": "312",
+    "s_num": "2-70",
+    "question": "色彩調色時，依純白及純黑兩色不同比例配出不同程度的灰階顏色，此種配色方式依據的屬性為何？",
+    "options": ["(1) 色相", "(2) 明度", "(3) 彩度", "(4) 對比"],
+    "answer": "2"
+  },
+  {
+    "id": "313",
+    "s_num": "2-71",
+    "question": "運用前進色與後退色之配色技巧，使版面產生立體感，那一個敘述較不恰當？",
+    "options": ["(1) 明度高的色彩較有前進感", "(2) 寒色色彩較有前進感", "(3) 紅色色系較有前進感", "(4) 在黑色背景中黃色會較前面"],
+    "answer": "2"
+  },
+  {
+    "id": "314",
+    "s_num": "2-72",
+    "question": "影像處理軟體中，要提高黑白圖片的對比，需調整圖片之何種數值？",
+    "options": ["(1) 亮度", "(2) 反差", "(3) 彩度", "(4) 色相"],
+    "answer": "2"
+  },
+  {
+    "id": "315",
+    "s_num": "2-73",
+    "question": "影像圖檔的色彩表示有RGB及CMYK色系，其中CMYK的「C」表示為何？",
+    "options": ["(1) 黑色", "(2) 黃色", "(3) 青色", "(4) 洋紅色"],
+    "answer": "3"
+  },
+  {
+    "id": "316",
+    "s_num": "2-74",
+    "question": "影像圖檔的色彩表示有RGB及CMYK色系，其中CMYK的「M」表示為何？",
+    "options": ["(1) 黑色", "(2) 黃色", "(3) 青色", "(4) 洋紅色"],
+    "answer": "4"
+  },
+  {
+    "id": "317",
+    "s_num": "2-75",
+    "question": "兩個相同的禮盒分別用鮮黃色及暗綠色包裝，鮮黃色較輕，因色彩的哪個屬性不同？",
+    "options": ["(1) 彩度", "(2) 明度", "(3) 色相", "(4) 濃度"],
+    "answer": "2"
+  },
+  {
+    "id": "318",
+    "s_num": "2-76",
+    "question": "影響色彩輕重感覺最主要的屬性為何？",
+    "options": ["(1) 色相", "(2) 明度", "(3) 彩度", "(4) 濃度"],
+    "answer": "2"
+  },
+  {
+    "id": "319",
+    "s_num": "2-77",
+    "question": "影像處理軟體中，運用色彩選擇工具取得RGB值(128,128,128)，顯示的顏色為何？",
+    "options": ["(1) 淡藍色", "(2) 淡黃色", "(3) 灰色", "(4) 淡紅色"],
+    "answer": "3"
+  },
+  {
+    "id": "320",
+    "s_num": "2-78",
+    "question": "搭配明視度最高之色彩為何？",
+    "options": ["(1) 綠底黃字", "(2) 黑底黃字", "(3) 紅底橙字", "(4) 黃底白字"],
+    "answer": "2"
+  },
+  {
+    "id": "321",
+    "s_num": "2-79",
+    "question": "明度最高之純色為何？",
+    "options": ["(1) 黃色", "(2) 橙色", "(3) 紅色", "(4) 藍色"],
+    "answer": "1"
+  },
+  {
+    "id": "322",
+    "s_num": "2-80",
+    "question": "明度最低之純色為何？",
+    "options": ["(1) 黃色", "(2) 橙色", "(3) 紅色", "(4) 藍色"],
+    "answer": "4"
+  },
+  {
+    "id": "323",
+    "s_num": "2-81",
+    "question": "會讓人有輕快感覺之色彩為何？",
+    "options": ["(1) 棗紅色", "(2) 明黃色", "(3) 墨綠色", "(4) 藏青色"],
+    "answer": "2"
+  },
+  {
+    "id": "324",
+    "s_num": "2-82",
+    "question": "會讓人有較沉重感覺之色彩為何？",
+    "options": ["(1) 天藍色", "(2) 翠綠色", "(3) 藏青色", "(4) 粉紅色"],
+    "answer": "3"
+  },
+  {
+    "id": "325",
+    "s_num": "2-83",
+    "question": "平面上兩條粗細不同、長度相等的線，其視覺效果為何？",
+    "options": ["(1) 粗線感覺較長", "(2) 細線感覺較長", "(3) 一樣長", "(4) 不一定"],
+    "answer": "2"
+  },
+  {
+    "id": "326",
+    "s_num": "2-84",
+    "question": "平面上兩個相等圓，分別被大小不同圓包圍時，大圓內的圓視覺效果為何？",
+    "options": ["(1) 較小", "(2) 較大", "(3) 一樣", "(4) 變形"],
+    "answer": "1"
+  },
+  {
+    "id": "327",
+    "s_num": "2-85",
+    "question": "設計美學中，何者不是線的特質？",
+    "options": ["(1) 體積", "(2) 粗細", "(3) 方向", "(4) 角度"],
+    "answer": "1"
+  },
+  {
+    "id": "328",
+    "s_num": "2-86",
+    "question": "設計美學中，自由曲線在視覺上通常具有何種感覺？",
+    "options": ["(1) 工整", "(2) 活潑", "(3) 單調", "(4) 刻板"],
+    "answer": "2"
+  },
+  {
+    "id": "329",
+    "s_num": "2-87",
+    "question": "設計美學中，斜角方向的線較會引起何種心理效果？",
+    "options": ["(1) 權威", "(2) 靜寂", "(3) 動態", "(4) 呆板"],
+    "answer": "3"
+  },
+  {
+    "id": "330",
+    "s_num": "2-88",
+    "question": "設計原理中，點置於何處最穩定且具有放射的力量？",
+    "options": ["(1) 上方", "(2) 下方", "(3) 左方", "(4) 中央"],
+    "answer": "4"
+  },
+  {
+    "id": "331",
+    "s_num": "2-89",
+    "question": "設計美學中，「萬綠叢中一點紅」及「鶴立雞群」是何種表現？",
+    "options": ["(1) 比例", "(2) 調合", "(3) 平衡", "(4) 對比"],
+    "answer": "4"
+  },
+  {
+    "id": "332",
+    "s_num": "2-90",
+    "question": "在美的形式原理中，對稱不具何種特性？",
+    "options": ["(1) 上下", "(2) 旋轉", "(3) 放射", "(4) 律動"],
+    "answer": "4"
+  },
+  {
+    "id": "333",
+    "s_num": "2-91",
+    "question": "CSS語法定義新的class樣式名稱，其前面須加上何種符號？",
+    "options": ["(1) &", "(2) .", "(3) ？", "(4) #"],
+    "answer": "2"
+  },
+  {
+    "id": "334",
+    "s_num": "2-92",
+    "question": "CSS語法「mycss:hover{color:#0000FF;}」表示何種操作讓文字變藍？",
+    "options": ["(1) 按下滑鼠左鍵", "(2) 滑鼠離開時", "(3) 滑鼠移到連結上", "(4) 點選連結後"],
+    "answer": "3"
+  },
+  {
+    "id": "335",
+    "s_num": "2-93",
+    "question": "何種CSS語法可設定字體顏色的屬性？",
+    "options": ["(1) color", "(2) text-color", "(3) font-color", "(4) foreground-color"],
+    "answer": "1"
+  },
+  {
+    "id": "336",
+    "s_num": "2-94",
+    "question": "CSS屬性何者可設定英文字首為大寫？",
+    "options": ["(1) text-indent:capitalize;", "(2) text-transform:capitalize;", "(3) text-decoration:capitalize;", "(4) 無法做到"],
+    "answer": "2"
+  },
+  {
+    "id": "337",
+    "s_num": "2-95",
+    "question": "CSS區塊模型(Box Model)中何者不包含在結構中？",
+    "options": ["(1) size", "(2) margin", "(3) padding", "(4) border"],
+    "answer": "1"
+  },
+  {
+    "id": "338",
+    "s_num": "2-96",
+    "question": "何者不是HTML5文件內加入CSS的方法？",
+    "options": ["(1) Embedded Style Sheet", "(2) Imported Style Sheet", "(3) Linked Style Sheet", "(4) Browser's Own Style Sheet"],
+    "answer": "4"
+  },
+  {
+    "id": "339",
+    "s_num": "2-97",
+    "question": "HTML5文件內加入CSS，何種樣式套用順序最優先？",
+    "options": ["(1) Inline Style", "(2) Embedded Style Sheet", "(3) Linked Style Sheet", "(4) Imported Style Sheet"],
+    "answer": "1"
+  },
+  {
+    "id": "340",
+    "s_num": "2-98",
+    "question": "關於CSS之敘述何者正確？",
+    "options": ["(1) Embedded Style Sheet是CSS與HTML合併寫在一起", "(2) Inline Style寫在<head>中", "(3) Linked Style Sheet用<link>載入外部樣式檔", "(4) Imported Style Sheet由瀏覽器動態載入"],
+    "answer": "3"
+  },
+  {
+    "id": "341",
+    "s_num": "2-99",
+    "question": "何種CSS語法可使背景圖案隨頁面滾動？",
+    "options": ["(1) background-attachment:move;", "(2) background-attachment:scroll;", "(3) background-image:scroll;", "(4) background-repeat:repeat;"],
+    "answer": "2"
+  },
+  {
+    "id": "342",
+    "s_num": "2-100",
+    "question": "何種CSS屬性可設定內容與邊框的留白範圍？",
+    "options": ["(1) margin", "(2) border", "(3) padding", "(4) blank"],
+    "answer": "3"
+  },
+  {
+    "id": "343",
+    "s_num": "2-101",
+    "question": "何種CSS屬性可設定樣式表的邊界？",
+    "options": ["(1) border", "(2) margin", "(3) padding", "(4) form"],
+    "answer": "2"
+  },
+  {
+    "id": "344",
+    "s_num": "2-102",
+    "question": "影像尺寸6×4英吋，解析度150ppi，像素矩陣為多少？",
+    "options": ["(1) 6×4", "(2) 24×150", "(3) 640×480", "(4) 900×600"],
+    "answer": "4"
+  },
+  {
+    "id": "345",
+    "s_num": "2-103",
+    "question": "Photoshop中繪出正方形或正圓形選取區域要按下哪個鍵？",
+    "options": ["(1) Shift", "(2) Alt", "(3) Space", "(4) Ctrl"],
+    "answer": "1"
+  },
+  {
+    "id": "346",
+    "s_num": "2-104",
+    "question": "Photoshop中能自動消除照片紅眼狀況的工具為？",
+    "options": ["(1) 修復筆刷工具", "(2) 汙點修復筆刷工具", "(3) 濾鏡工具", "(4) 紅眼工具"],
+    "answer": "4"
+  },
+  {
+    "id": "347",
+    "s_num": "2-105",
+    "question": "欲將印刷影像改為網頁用，在尺寸不變條件下應？",
+    "options": ["(1) 改72ppi不重取樣", "(2) 改72ppi重取樣", "(3) 改350ppi重取樣", "(4) 改350ppi不重取樣"],
+    "answer": "2"
+  },
+  {
+    "id": "348",
+    "s_num": "2-106",
+    "question": "關於Photoshop「均線(Mean Line)」的敘述何者正確？",
+    "options": ["(1) 介於基線與下降線間", "(2) 代表小寫字母高度", "(3) 基準線", "(4) 代表大寫字母高度"],
+    "answer": "2"
+  },
+  {
+    "id": "349",
+    "s_num": "2-107",
+    "question": "Photoshop中使用何種濾鏡可產生速度感？",
+    "options": ["(1) 靜態模糊", "(2) 邊緣模糊", "(3) 鏡頭模糊", "(4) 動態模糊"],
+    "answer": "4"
+  },
+  {
+    "id": "350",
+    "s_num": "2-108",
+    "question": "調整Photoshop「色階」時，要最亮的階調應選何數值？",
+    "options": ["(1) 0", "(2) 10", "(3) 255", "(4) 256"],
+    "answer": "3"
+  },
+   {
+    "id": "351",
+    "s_num": "2-109",
+    "question": "Photoshop預設環境中數位影像的變形操作時，若要執行旋轉動作，進行操作時按著shift鍵，每次旋轉增量(Step)為多少度？",
+    "options": ["(1) 90", "(2) 45", "(3) 30", "(4) 15"],
+    "answer": "4"
+  },
+  {
+    "id": "352",
+    "s_num": "2-110",
+    "question": "Photoshop中針對所選取的影像區域操作傾斜變形效果，使用滑鼠拖拉邊界方框中間的控制點時，需按住那個鍵盤按鍵方可進行水平或垂直傾斜變形？",
+    "options": ["(1) Alt", "(2) Shift", "(3) Ctrl", "(4) Tab"],
+    "answer": "2"
+  },
+  {
+    "id": "353",
+    "s_num": "2-111",
+    "question": "Photoshop關於濾鏡功能之敘述何者較適當？",
+    "options": ["(1) 濾鏡不可多重套用", "(2) 所有濾鏡皆能用在CMYK色彩模式的檔案中", "(3) 所有濾鏡皆能用在點陣圖或索引色檔案中", "(4) LAB色彩模式(8或16位元/色板)的檔案中只支援部分濾鏡"],
+    "answer": "4"
+  },
+  {
+    "id": "354",
+    "s_num": "2-112",
+    "question": "Photoshop用來編輯網頁用的圖片，何種條件的組合最適合？",
+    "options": ["(1) 350ppi、CMYK、EPS", "(2) 72ppi、RGB、EPS", "(3) 72ppi、RGB、JPEG", "(4) 350ppi、CMYK、JPEG"],
+    "answer": "3"
+  },
+  {
+    "id": "355",
+    "s_num": "2-113",
+    "question": "Photoshop中欲將圖片的色彩模式由RGB轉換成雙色調的步驟何者較為適當？",
+    "options": ["(1) 先轉成灰階再轉成雙色調", "(2) 直接將RGB轉成雙色調", "(3) 先轉成LAB再轉成雙色調", "(4) 先轉成CMYK再轉成雙色調"],
+    "answer": "1"
+  },
+  {
+    "id": "356",
+    "s_num": "2-114",
+    "question": "Photoshop中一個8位元的灰階檔案，最多可以包含多少色階？",
+    "options": ["(1) 8", "(2) 252", "(3) 256", "(4) 65536"],
+    "answer": "3"
+  },
+  {
+    "id": "357",
+    "s_num": "2-115",
+    "question": "Photoshop中何者為最常使用在印刷用途的色彩模式？",
+    "options": ["(1) RGB", "(2) LAB", "(3) CMYK", "(4) 索引色"],
+    "answer": "3"
+  },
+  {
+    "id": "358",
+    "s_num": "2-116",
+    "question": "Photoshop中何者不是進行Color Correction(色彩修正與調整)時所用的術語？",
+    "options": ["(1) Saturation", "(2) Chroma", "(3) Alignment", "(4) Tone"],
+    "answer": "3"
+  },
+  {
+    "id": "359",
+    "s_num": "2-117",
+    "question": "Photoshop中製作一個包含去背的透明背景及陰影效果的網頁圖片，且要保留Alpha透明度，應該選擇何種檔案儲存格式？",
+    "options": ["(1) GIF", "(2) JPEG", "(3) PNG-8", "(4) PNG-24"],
+    "answer": "4"
+  },
+  {
+    "id": "360",
+    "s_num": "2-118",
+    "question": "Photoshop預設環境中使用圖層遮色片，其遮色片內黑白各代表何種意義？",
+    "options": ["(1) 黑色顯示影像，白色隱藏影像", "(2) 黑色羽化影像，白色反白顯示影像", "(3) 黑色隱藏影像，白色顯示影像", "(4) 黑色反轉影像，白色顯示影像"],
+    "answer": "3"
+  },
+  {
+    "id": "361",
+    "s_num": "2-119",
+    "question": "Photoshop製作使用於網頁上包含簡單線條的圖案且具有交錯式效果的圖檔，儲存何種影像格式較適當？",
+    "options": ["(1) GIF", "(2) PDF", "(3) TIFF", "(4) JPEG"],
+    "answer": "1"
+  },
+  {
+    "id": "362",
+    "s_num": "2-120",
+    "question": "「網頁安全色」在Internet Explorer能正常顯示的顏色，其顏色數為多少？",
+    "options": ["(1) 108", "(2) 216", "(3) 256", "(4) 512"],
+    "answer": "2"
+  },
+  {
+    "id": "363",
+    "s_num": "2-121",
+    "question": "PHP用何種符號加上變數名稱來表示變數？",
+    "options": ["(1) #", "(2) &", "(3) $", "(4) %"],
+    "answer": "3"
+  },
+  {
+    "id": "364",
+    "s_num": "2-122",
+    "question": "PHP用何種保留字來宣告常數？",
+    "options": ["(1) set", "(2) define", "(3) var", "(4) array"],
+    "answer": "2"
+  },
+  {
+    "id": "365",
+    "s_num": "2-123",
+    "question": "要宣告一個物件前，PHP用那個關鍵字來定義該物件的類別？",
+    "options": ["(1) set", "(2) define", "(3) use", "(4) class"],
+    "answer": "4"
+  },
+  {
+    "id": "366",
+    "s_num": "2-124",
+    "question": "PHP使用何種函數可將變數的資料型態轉換成整數？",
+    "options": ["(1) intval", "(2) floatval", "(3) doubleval", "(4) strval"],
+    "answer": "1"
+  },
+  {
+    "id": "367",
+    "s_num": "2-125",
+    "question": "PHP使用何種函數可將變數的資料型態轉換成浮點數？",
+    "options": ["(1) intval", "(2) floatval", "(3) conval", "(4) strval"],
+    "answer": "2"
+  },
+  {
+    "id": "368",
+    "s_num": "2-126",
+    "question": "PHP使用何種語法來輸出字串在網頁上？",
+    "options": ["(1) type", "(2) print", "(3) string", "(4) show"],
+    "answer": "2"
+  },
+  {
+    "id": "369",
+    "s_num": "2-127",
+    "question": "若要顯示2進位的整數，可使用PHP的那個格式字元？",
+    "options": ["(1) %b", "(2) %c", "(3) %d", "(4) %u"],
+    "answer": "1"
+  },
+  {
+    "id": "370",
+    "s_num": "2-128",
+    "question": "若要顯示字元，可使用PHP的那個格式字元？",
+    "options": ["(1) %b", "(2) %c", "(3) %d", "(4) %u"],
+    "answer": "2"
+  },
+  {
+    "id": "371",
+    "s_num": "2-129",
+    "question": "若要顯示有正負號的整數，可使用PHP的那個格式字元？",
+    "options": ["(1) %b", "(2) %c", "(3) %d", "(4) %u"],
+    "answer": "3"
+  },
+  {
+    "id": "372",
+    "s_num": "2-130",
+    "question": "若要顯示無正負號的整數，可使用PHP的那個格式字元？",
+    "options": ["(1) %b", "(2) %c", "(3) %d", "(4) %u"],
+    "answer": "4"
+  },
+  {
+    "id": "373",
+    "s_num": "2-131",
+    "question": "若要顯示浮點數，可使用PHP的那個格式字元？",
+    "options": ["(1) %f", "(2) %o", "(3) %s", "(4) %x"],
+    "answer": "1"
+  },
+  {
+    "id": "374",
+    "s_num": "2-132",
+    "question": "若要顯示8進位的整數，可使用PHP的那個格式字元？",
+    "options": ["(1) %f", "(2) %o", "(3) %s", "(4) %x"],
+    "answer": "2"
+  },
+  {
+    "id": "375",
+    "s_num": "2-133",
+    "question": "若要顯示字串，可使用PHP的那個格式字元？",
+    "options": ["(1) %f", "(2) %o", "(3) %s", "(4) %x"],
+    "answer": "3"
+  },
+  {
+    "id": "376",
+    "s_num": "2-134",
+    "question": "若要顯示小寫的16進位整數，可使用PHP的那個格式字元？",
+    "options": ["(1) %f", "(2) %o", "(3) %s", "(4) %x"],
+    "answer": "4"
+  },
+  {
+    "id": "377",
+    "s_num": "2-135",
+    "question": "若要顯示大寫的16進位整數，可使用PHP的那個格式字元？",
+    "options": ["(1) %X", "(2) %H", "(3) %h", "(4) %x"],
+    "answer": "1"
+  },
+  {
+    "id": "378",
+    "s_num": "2-136",
+    "question": "何者陳述式不是PHP的條件控制語法？",
+    "options": ["(1) if", "(2) ?:", "(3) switch", "(4) continue"],
+    "answer": "4"
+  },
+  {
+    "id": "379",
+    "s_num": "2-137",
+    "question": "何者陳述式不是PHP的迴圈控制語法？",
+    "options": ["(1) if…elseif…else", "(2) break", "(3) for", "(4) do…while"],
+    "answer": "1"
+  },
+  {
+    "id": "380",
+    "s_num": "2-138",
+    "question": "可檢視陣列內容的PHP函數為何？",
+    "options": ["(1) var_dump", "(2) is_arrary", "(3) sizeof", "(4) is_array"],
+    "answer": "1"
+  },
+  {
+    "id": "381",
+    "s_num": "2-139",
+    "question": "PHP檢視陣列的函數何者可以顯示變數的內容？",
+    "options": ["(1) is_arrary", "(2) print_r", "(3) sizeof", "(4) is_array"],
+    "answer": "2"
+  },
+  {
+    "id": "382",
+    "s_num": "2-140",
+    "question": "PHP檢視陣列的函數何者可以計算陣列的元素數目？",
+    "options": ["(1) var_dump", "(2) print_r", "(3) sizeof", "(4) is_array"],
+    "answer": "3"
+  },
+  {
+    "id": "383",
+    "s_num": "2-141",
+    "question": "PHP檢視陣列的函數何者可以檢查指定的變數是否是陣列？",
+    "options": ["(1) var_dump", "(2) print_r", "(3) sizeof", "(4) is_array"],
+    "answer": "4"
+  },
+  {
+    "id": "384",
+    "s_num": "2-142",
+    "question": "PHP檢視陣列的函數何者可以指定陣列的元素給變數？",
+    "options": ["(1) list", "(2) isset($arrary[$key])", "(3) arrary_key_exists", "(4) in_arrary"],
+    "answer": "1"
+  },
+  {
+    "id": "385",
+    "s_num": "2-143",
+    "question": "PHP檢視陣列的函數何者可以檢查指定的陣列鍵值是否為NULL？",
+    "options": ["(1) list", "(2) isset($arrary[$key])", "(3) arrary_key_exists", "(4) in_arrary"],
+    "answer": "2"
+  },
+  {
+    "id": "386",
+    "s_num": "2-144",
+    "question": "PHP檢視陣列的函數何者可以檢查指定的鍵值是否存在於陣列中？",
+    "options": ["(1) list", "(2) isset($arrary[$key])", "(3) arrary_key_exists", "(4) in_arrary"],
+    "answer": "3"
+  },
+  {
+    "id": "387",
+    "s_num": "2-145",
+    "question": "PHP檢視陣列的函數何者可以檢查指定的數值是否存在於陣列中？",
+    "options": ["(1) list", "(2) isset($arrary[$key])", "(3) arrary_key_exists", "(4) in_arrary"],
+    "answer": "4"
+  },
+  {
+    "id": "388",
+    "s_num": "2-146",
+    "question": "ASP.NET應用程式中，何者為包含所有ASP.NET應用程式要使用的編譯過的.NET組件(DLL檔案)？",
+    "options": ["(1) Bin", "(2) App_Code", "(3) App_data", "(4) App_Themes"],
+    "answer": "1"
+  },
+  {
+    "id": "389",
+    "s_num": "2-147",
+    "question": "ASP.NET應用程式中，何者為包含要使用在設計者的應用程式內之動態編譯過的程式碼？",
+    "options": ["(1) Bin", "(2) App_Code", "(3) App_data", "(4) App_Themes"],
+    "answer": "2"
+  },
+  {
+    "id": "390",
+    "s_num": "2-148",
+    "question": "ASP.NET應用程式中，何者用來放置資料庫與XML等資料檔案？",
+    "options": ["(1) Bin", "(2) App_Code", "(3) App_data", "(4) App_Themes"],
+    "answer": "3"
+  },
+  {
+    "id": "391",
+    "s_num": "2-149",
+    "question": "ASP.NET應用程式中，何者用來放置ASP.NET應用程式使用的佈景檔案？",
+    "options": ["(1) Bin", "(2) App_Code", "(3) App_data", "(4) App_Themes"],
+    "answer": "4"
+  },
+  {
+    "id": "392",
+    "s_num": "2-150",
+    "question": "ASP.NET網頁的指示詞(Directive)來控制ASP.NET網頁的行為，何者為其指示詞？",
+    "options": ["(1) 以＜％＠符號開頭，以％＞結尾", "(2) 以＜body開頭，以／body＞結尾", "(3) 以＜？php開頭，以？＞結尾", "(4) 以＜html開頭，以／html＞結尾"],
+    "answer": "1"
+  },
+  {
+    "id": "393",
+    "s_num": "2-151",
+    "question": "ASP.NET的指示詞(Directive)何者定義剖析器及編輯器使用的專用屬性？",
+    "options": ["(1) @Page", "(2) @Control", "(3) @Import", "(4) @OutputCache"],
+    "answer": "1"
+  },
+  {
+    "id": "394",
+    "s_num": "2-152",
+    "question": "ASP.NET的指示詞(Directive)何者定義使用者控制項(.ascx檔案)的特定屬性以供剖析器及編輯器使用？",
+    "options": ["(1) @Page", "(2) @Control", "(3) @Import", "(4) @OutputCache"],
+    "answer": "2"
+  },
+  {
+    "id": "395",
+    "s_num": "2-153",
+    "question": "ASP.NET的指示詞(Directive)何者可將命名空間(Namespace)明確匯入至ASP.NET應用程式的檔案？",
+    "options": ["(1) @Page", "(2) @Control", "(3) @Import", "(4) @OutputCache"],
+    "answer": "3"
+  },
+  {
+    "id": "396",
+    "s_num": "2-154",
+    "question": "ASP.NET的指示詞(Directive)何種宣告方式用來控制網頁中含ASP.NET Web或使用者控制項的輸出快取原則？",
+    "options": ["(1) @Page", "(2) @Control", "(3) @Import", "(4) @OutputCache"],
+    "answer": "4"
+  },
+  {
+    "id": "397",
+    "s_num": "2-155",
+    "question": "PHP使用何種運算子可將字串連結？",
+    "options": ["(1) ﹒", "(2) ＋", "(3) －", "(4) ＆"],
+    "answer": "1"
+  },
+  {
+    "id": "398",
+    "s_num": "2-156",
+    "question": "（題目缺失）",
+    "options": ["(1) Hello+World", "(2) Hello World", "(3) HelloWorld", "(4) 0"],
+    "answer": "4"
+  },
+  {
+    "id": "399",
+    "s_num": "2-157",
+    "question": "（題目缺失）",
+    "options": ["(1) ”\\”escaped character\\””", "(2) ”escaped character”", "(3) \\escaped character\\", "(4) escaped character"],
+    "answer": "2"
+  },
+  {
+    "id": "400",
+    "s_num": "2-158",
+    "question": "（題目缺失）",
+    "options": ["(1) strlen($a)", "(2) abcdefg", "(3) 7", "(4) ’abcdefg’"],
+    "answer": "3"
+  },
+   {
+    "id": "401",
+    "s_num": "2-159",
+    "question": "何種實體網路拓樸最有可能因網路交換器(Switch Hub)故障，導致整個網路當掉？",
+    "options": ["(1) Bus", "(2) Star", "(3) Ring", "(4) Mesh"],
+    "answer": "2"
+  },
+  {
+    "id": "402",
+    "s_num": "2-160",
+    "question": "要從有線的LAN轉換成無線乙太網路LAN，網路上的每台主機必須改變何者？",
+    "options": ["(1) 不需要作任何改變", "(2) 每台主機將需要新的IP位址", "(3) 每台主機將需要適當的網路介面卡或轉接器", "(4) 每台主機將需要升級作業系統"],
+    "answer": "3"
+  },
+  {
+    "id": "403",
+    "s_num": "2-161",
+    "question": "企業要延伸LAN到6個分開的建築物，為減少LAN媒體上的訊號衰減量，在建築物間使用何種媒體最適當？",
+    "options": ["(1) Wireless", "(2) Coaxial Cable", "(3) Fiber", "(4) Twisted Pair"],
+    "answer": "3"
+  },
+  {
+    "id": "404",
+    "s_num": "2-162",
+    "question": "使用者抱怨網路反應時間不佳，何種設備可取代集線器並立即改善反應時間？",
+    "options": ["(1) Router", "(2) Switch", "(3) Bridge", "(4) Repeater"],
+    "answer": "2"
+  },
+  {
+    "id": "405",
+    "s_num": "2-163",
+    "question": "網路介面卡NIC上的MAC位址屬於OSI模式的哪一層？",
+    "options": ["(1) Physical", "(2) Application", "(3) Network", "(4) Data Link"],
+    "answer": "4"
+  },
+  {
+    "id": "406",
+    "s_num": "2-164",
+    "question": "橋接器(Bridge)使用何種位址作過濾和交換的決定？",
+    "options": ["(1) 來源MAC位址", "(2) 來源IP位址", "(3) 目的地MAC位址", "(4) 網路IP位址"],
+    "answer": "3"
+  },
+  {
+    "id": "407",
+    "s_num": "2-165",
+    "question": "何者可使不同網路供應商設計的軟硬體更容易整合？",
+    "options": ["(1) OSI模式", "(2) IP定址策略", "(3) 標準邏輯拓樸", "(4) 標準實體拓樸"],
+    "answer": "1"
+  },
+  {
+    "id": "408",
+    "s_num": "2-166",
+    "question": "資料由應用層往實體層傳送時，每層加入資訊後再往下傳送，此過程稱為？",
+    "options": ["(1) Division", "(2) Encoding", "(3) Segmentation", "(4) Encapsulation"],
+    "answer": "4"
+  },
+  {
+    "id": "409",
+    "s_num": "2-167",
+    "question": "OSI七層架構中，傳輸層的資料單元稱為何？",
+    "options": ["(1) Bit", "(2) Packet", "(3) Segment", "(4) Frame"],
+    "answer": "3"
+  },
+  {
+    "id": "410",
+    "s_num": "2-168",
+    "question": "OSI七層架構中，提供網路服務以處理電子郵件和檔案傳輸的是哪一層？",
+    "options": ["(1) Data Link", "(2) Transport", "(3) Network", "(4) Application"],
+    "answer": "4"
+  },
+  {
+    "id": "411",
+    "s_num": "2-169",
+    "question": "當資訊設備傳送訊息時，包括(A)區段、(B)位元、(C)封包、(D)資料、(E)訊框，封裝順序為？",
+    "options": ["(1) B-D-C-E-A", "(2) B-A-C-E-D", "(3) D-C-A-B-E", "(4) D-A-C-E-B"],
+    "answer": "4"
+  },
+  {
+    "id": "412",
+    "s_num": "2-170",
+    "question": "OSI七層架構中，實體層(Physical Layer)的功能為何？",
+    "options": ["(1) 定義終端系統間鏈路的電氣和功能規格", "(2) 提供可靠傳送", "(3) 提供連接性與路徑選擇", "(4) 處理實體位址與媒體存取"],
+    "answer": "1"
+  },
+  {
+    "id": "413",
+    "s_num": "2-171",
+    "question": "MAC位址(Media Access Control Address)有多少個十六進位數？",
+    "options": ["(1) 2", "(2) 8", "(3) 12", "(4) 16"],
+    "answer": "3"
+  },
+  {
+    "id": "414",
+    "s_num": "2-172",
+    "question": "MAC位址屬於OSI七層架構中的哪一層？",
+    "options": ["(1) 1", "(2) 2", "(3) 3", "(4) 4"],
+    "answer": "2"
+  },
+  {
+    "id": "415",
+    "s_num": "2-173",
+    "question": "路由器具有乙太網路、記號環、串列和ISDN等介面，哪些介面有MAC位址？",
+    "options": ["(1) 串列和ISDN介面", "(2) 乙太網路和記號環介面", "(3) 乙太網路和ISDN介面", "(4) 記號環和串列介面"],
+    "answer": "2"
+  },
+  {
+    "id": "416",
+    "s_num": "2-174",
+    "question": "乙太網路之介面卡NIC可在何時傳送資料？",
+    "options": ["(1) 收到訊框時", "(2) 收到記號時", "(3) 偵測到碰撞時", "(4) 偵測無線上訊號時"],
+    "answer": "4"
+  },
+  {
+    "id": "417",
+    "s_num": "2-175",
+    "question": "OSI七層架構中，何者屬於實體層的網路設備？",
+    "options": ["(1) Repeater", "(2) Switch", "(3) Bridge", "(4) Router"],
+    "answer": "1"
+  },
+  {
+    "id": "418",
+    "s_num": "2-176",
+    "question": "何者屬於區域網路(Local Area Network, LAN)？",
+    "options": ["(1) 連接廣大地理區域", "(2) 連結有限區域內設備", "(3) 連接跨國企業", "(4) 用工作群組設定連接"],
+    "answer": "2"
+  },
+  {
+    "id": "419",
+    "s_num": "2-177",
+    "question": "電腦的MAC位址何時會改變？",
+    "options": ["(1) 移動橋接器", "(2) 變更PCI插槽位置", "(3) 更換網路介面卡", "(4) 速度自動切換"],
+    "answer": "3"
+  },
+  {
+    "id": "420",
+    "s_num": "2-178",
+    "question": "OSI七層架構中，傳輸層(Transport Layer)的主要功能為？",
+    "options": ["(1) Network Media", "(2) Representation and Encoding", "(3) Selects Paths", "(4) End-to-End Connectivity"],
+    "answer": "4"
+  },
+  {
+    "id": "421",
+    "s_num": "2-179",
+    "question": "IP位址127.0.0.1之敘述何者正確？",
+    "options": ["(1) 保留作迴路測試", "(2) 保留作多點傳輸測試", "(3) 保留作單點傳輸測試", "(4) 屬於B級位址"],
+    "answer": "1"
+  },
+  {
+    "id": "422",
+    "s_num": "2-180",
+    "question": "網路中DHCP伺服器的功能為何？",
+    "options": ["(1) 解析MAC成IP", "(2) 解析IP成MAC", "(3) 解析主機名稱成IP", "(4) 動態指派IP位址"],
+    "answer": "4"
+  },
+  {
+    "id": "423",
+    "s_num": "2-181",
+    "question": "TCP/IP模式中，哪一分層同時支援LAN與WAN技術？",
+    "options": ["(1) Network Access Layer", "(2) Internet Layer", "(3) Transport Layer", "(4) Application Layer"],
+    "answer": "1"
+  },
+  {
+    "id": "424",
+    "s_num": "2-182",
+    "question": "交換器與路由器使用何者作為轉送依據？",
+    "options": ["(1) 皆使用IP位址", "(2) 皆使用MAC位址", "(3) 交換器用IP，路由器用MAC", "(4) 交換器用MAC，路由器用IP"],
+    "answer": "4"
+  },
+  {
+    "id": "425",
+    "s_num": "2-183",
+    "question": "FTP提供可靠的連結導向服務來傳送檔案，使用何傳輸層協定？",
+    "options": ["(1) TCP", "(2) DNS", "(3) IP", "(4) UDP"],
+    "answer": "1"
+  },
+  {
+    "id": "426",
+    "s_num": "2-184",
+    "question": "OSI模式中，那個應用層協定允許網路設備交換管理資訊？",
+    "options": ["(1) SMTP", "(2) SNMP", "(3) FTP", "(4) TFTP"],
+    "answer": "2"
+  },
+  {
+    "id": "427",
+    "s_num": "2-185",
+    "question": "何種協定被用於電腦間傳送檔案，但屬無連結導向？",
+    "options": ["(1) DHCP", "(2) SNMP", "(3) FTP", "(4) TFTP"],
+    "answer": "4"
+  },
+  {
+    "id": "428",
+    "s_num": "2-186",
+    "question": "OSI模式中，哪層提供主機間可靠的連結導向資料傳輸？",
+    "options": ["(1) Application", "(2) Presentation", "(3) Session", "(4) Transport"],
+    "answer": "4"
+  },
+  {
+    "id": "429",
+    "s_num": "2-187",
+    "question": "何種設備會在乙太網路內產生多個碰撞領域？",
+    "options": ["(1) NIC", "(2) Hub", "(3) Router", "(4) Repeater"],
+    "answer": "3"
+  },
+  {
+    "id": "430",
+    "s_num": "2-188",
+    "question": "若橋接器收到MAC位址不在橋接表內的訊框，會如何處理？",
+    "options": ["(1) 丟棄", "(2) 忽略", "(3) 傳送到適當埠", "(4) 傳送到來源埠之外所有埠"],
+    "answer": "4"
+  },
+  {
+    "id": "431",
+    "s_num": "2-189",
+    "question": "何種網路設備會同時減少碰撞領域和廣播領域？",
+    "options": ["(1) Layer 2 Switch", "(2) Hub", "(3) Bridge", "(4) Repeater"],
+    "answer": "3"
+  },
+  {
+    "id": "432",
+    "s_num": "2-190",
+    "question": "何種無線網路標準運作在5 GHz且最高傳輸率可達866.7 Mbps？",
+    "options": ["(1) 802.11a", "(2) 802.11g", "(3) 802.11n", "(4) 802.11ac"],
+    "answer": "4"
+  },
+  {
+    "id": "433",
+    "s_num": "2-191",
+    "question": "路由程序的主要目的為何？",
+    "options": ["(1) 傳遞廣播", "(2) 對應IP成MAC", "(3) 對應MAC成IP", "(4) 繞送一個網路到另一個路徑"],
+    "answer": "4"
+  },
+  {
+    "id": "434",
+    "s_num": "2-192",
+    "question": "那個設備因不會轉送廣播而提高網路安全性？",
+    "options": ["(1) Router", "(2) Bridge", "(3) Hub", "(4) Repeater"],
+    "answer": "1"
+  },
+  {
+    "id": "435",
+    "s_num": "2-193",
+    "question": "POP3是設定網路連線時的何種伺服器？",
+    "options": ["(1) 檔案伺服器", "(2) 網站伺服器", "(3) 收信伺服器", "(4) 寄信伺服器"],
+    "answer": "3"
+  },
+  {
+    "id": "436",
+    "s_num": "2-194",
+    "question": "SMTP是設定網路連線時的何種伺服器？",
+    "options": ["(1) 檔案伺服器", "(2) 網站伺服器", "(3) 收信伺服器", "(4) 寄信伺服器"],
+    "answer": "4"
+  },
+  {
+    "id": "437",
+    "s_num": "2-195",
+    "question": "何者是「檔案傳送」所使用的通訊協定？",
+    "options": ["(1) HTTP", "(2) FTP", "(3) ISP", "(4) MAILTO"],
+    "answer": "2"
+  },
+  {
+    "id": "438",
+    "s_num": "2-196",
+    "question": "何者是電子郵件「內收郵件」所使用的通訊協定？",
+    "options": ["(1) FTP", "(2) POP", "(3) SMTP", "(4) IPX"],
+    "answer": "2"
+  },
+  {
+    "id": "439",
+    "s_num": "2-197",
+    "question": "何者是電子郵件「外寄郵件」所使用的通訊協定？",
+    "options": ["(1) FTP", "(2) POP", "(3) SMTP", "(4) IMAP"],
+    "answer": "3"
+  },
+  {
+    "id": "440",
+    "s_num": "2-198",
+    "question": "在OSI七層協定中「網路硬體協定」屬於哪一層？",
+    "options": ["(1) 網路層", "(2) 實體層", "(3) 應用層", "(4) 傳輸層"],
+    "answer": "2"
+  },
+  {
+    "id": "441",
+    "s_num": "2-199",
+    "question": "在OSI七層協定中定義終端設備與網路間介面的層為？",
+    "options": ["(1) 網路層", "(2) 實體層", "(3) 應用層", "(4) 傳輸層"],
+    "answer": "2"
+  },
+  {
+    "id": "442",
+    "s_num": "2-200",
+    "question": "那個FTP指令可用來查看遠端FTP伺服器目前所在目錄？",
+    "options": ["(1) get", "(2) pwd", "(3) put", "(4) bin"],
+    "answer": "2"
+  },
+  {
+    "id": "443",
+    "s_num": "2-201",
+    "question": "若要將文字「故宮博物館」設定連結到網站，應使用哪種功能？",
+    "options": ["(1) 框架超連結", "(2) 網站超連結", "(3) 跑馬燈", "(4) 影像地圖"],
+    "answer": "2"
+  },
+  {
+    "id": "444",
+    "s_num": "2-202",
+    "question": "在HTML中，＜TITLE＞勞動部的網站＜/TITLE＞會顯示在哪？",
+    "options": ["(1) 瀏覽視窗", "(2) 瀏覽器標題列或標籤頁", "(3) 文件最上方", "(4) 狀態列"],
+    "answer": "2"
+  },
+  {
+    "id": "445",
+    "s_num": "2-203",
+    "question": "在設計網頁時，何種方法可將畫面分割成多個區塊顯示？",
+    "options": ["(1) 佈景主題", "(2) 超連結", "(3) DHTML動態效果", "(4) HTML區塊標籤"],
+    "answer": "4"
+  },
+  {
+    "id": "446",
+    "s_num": "2-204",
+    "question": "HTML標準由哪個單位制定？",
+    "options": ["(1) IEEE", "(2) W3C", "(3) ISO", "(4) EIA"],
+    "answer": "2"
+  },
+  {
+    "id": "447",
+    "s_num": "2-205",
+    "question": "哪個HTML標籤可在瀏覽器標題列上加入文字？",
+    "options": ["(1) ＜HEAD＞...＜/HEAD＞", "(2) ＜P＞...＜/P＞", "(3) ＜BODY＞...＜/BODY＞", "(4) ＜TITLE＞...＜/TITLE＞"],
+    "answer": "4"
+  },
+  {
+    "id": "448",
+    "s_num": "2-206",
+    "question": "DNS的預設通訊埠號為何？",
+    "options": ["(1) 110", "(2) 53", "(3) 21", "(4) 25"],
+    "answer": "2"
+  },
+  {
+    "id": "449",
+    "s_num": "2-207",
+    "question": "TCP協定之Well-Known Port最大分布範圍為何？",
+    "options": ["(1) 0～127", "(2) 0～255", "(3) 0～1023", "(4) 0～2047"],
+    "answer": "3"
+  },
+  {
+    "id": "450",
+    "s_num": "2-208",
+    "question": "何種網路設備可連接192.168.1.0與192.168.2.0的IP網路？",
+    "options": ["(1) Hub", "(2) Bridge", "(3) Router", "(4) Repeater"],
+    "answer": "3"
+  },
+  {
+    "id": "451",
+    "s_num": "2-209",
+    "question": "OSI七層協定之第三層通訊協定為何？",
+    "options": ["(1) Transport", "(2) Data Link", "(3) Physical", "(4) Network"],
+    "answer": "4"
+  },
+  {
+    "id": "452",
+    "s_num": "2-210",
+    "question": "何種聲音檔案格式最不利於網路傳輸速度的考量？",
+    "options": ["(1) WAV", "(2) MIDI", "(3) MP3", "(4) WMA"],
+    "answer": "1"
+  },
+  {
+    "id": "453",
+    "s_num": "2-211",
+    "question": "何者是動態圖形的副檔名？",
+    "options": ["(1) .cgm", "(2) .bmp", "(3) .gif", "(4) .jpg"],
+    "answer": "3"
+  },
+  {
+    "id": "454",
+    "s_num": "2-212",
+    "question": "何者可檢視目前電腦上的資源被網路其他Users使用的狀況？",
+    "options": ["(1) 網路安裝精靈", "(2) 遠端桌面連線", "(3) 超級終端機", "(4) 網路監控程式"],
+    "answer": "4"
+  },
+  {
+    "id": "455",
+    "s_num": "2-213",
+    "question": "何種FTP指令可將本地端機器的檔案傳輸至遠端FTP伺服器上？",
+    "options": ["(1) get", "(2) pwd", "(3) put", "(4) bin"],
+    "answer": "3"
+  },
+  {
+    "id": "456",
+    "s_num": "2-214",
+    "question": "網路日誌又稱為部落格（Blog），何者無法用來架設個人網路日誌？",
+    "options": ["(1) Wix", "(2) WordPad", "(3) WordPress", "(4) Weebly"],
+    "answer": "2"
+  },
+  {
+    "id": "457",
+    "s_num": "2-215",
+    "question": "將Class C網路以網路遮罩255.255.255.192切割成子網路，可劃分為幾個網路區段？",
+    "options": ["(1) 2", "(2) 4", "(3) 8", "(4) 16"],
+    "answer": "2"
+  },
+  {
+    "id": "458",
+    "s_num": "2-216",
+    "question": "運用何種方式可以節省網頁設計所佔的空間？",
+    "options": ["(1) 將網頁分類", "(2) 使用動態GIF檔案", "(3) 將圖片排序", "(4) 降低圖片的大小及解析度"],
+    "answer": "4"
+  },
+  {
+    "id": "459",
+    "s_num": "2-217",
+    "question": "何種視訊檔案格式最不適合使用於網頁上？",
+    "options": ["(1) MP4", "(2) WebM", "(3) VOB", "(4) Ogg"],
+    "answer": "3"
+  },
+  {
+    "id": "460",
+    "s_num": "2-218",
+    "question": "定義網頁資料顯示、格式化、特殊效果的標準稱之為何？",
+    "options": ["(1) SCC", "(2) CSS", "(3) SSC", "(4) CCS"],
+    "answer": "2"
+  },
+  {
+    "id": "461",
+    "s_num": "2-219",
+    "question": "FTP服務中的傳輸層是使用何種協定？",
+    "options": ["(1) IP", "(2) UDP", "(3) TCP", "(4) NETBIOS"],
+    "answer": "3"
+  },
+  {
+    "id": "462",
+    "s_num": "2-220",
+    "question": "何者不是Server Side的Script語言？",
+    "options": ["(1) JavaScript", "(2) ASP.NET", "(3) JSP", "(4) PHP"],
+    "answer": "1"
+  },
+  {
+    "id": "463",
+    "s_num": "2-221",
+    "question": "對於JAVA語言而言，運用在瀏覽器環境上的程式稱之為何？",
+    "options": ["(1) MIDlet", "(2) Spotlet", "(3) JSP", "(4) Applet"],
+    "answer": "4"
+  },
+  {
+    "id": "464",
+    "s_num": "2-222",
+    "question": "何者不是安裝Web Server的軟體？",
+    "options": ["(1) Apache Server", "(2) Apache Tomcat", "(3) IIS", "(4) DHCP"],
+    "answer": "4"
+  },
+  {
+    "id": "465",
+    "s_num": "2-223",
+    "question": "Dreamweaver建立網頁時，新增一個Behavior，其實是套用何種語法？",
+    "options": ["(1) ASP", "(2) JavaScript", "(3) PHP", "(4) ActionScript"],
+    "answer": "2"
+  },
+  {
+    "id": "466",
+    "s_num": "2-224",
+    "question": "Class C網路劃分為4個子網路，則可用IP數共有多少？",
+    "options": ["(1) 244", "(2) 240", "(3) 248", "(4) 256"],
+    "answer": "3"
+  },
+  {
+    "id": "467",
+    "s_num": "2-225",
+    "question": "何者是HTML送出表單資料的控制項？",
+    "options": ["(1) submit", "(2) reset", "(3) checkbox", "(4) textbox"],
+    "answer": "1"
+  },
+  {
+    "id": "468",
+    "s_num": "2-226",
+    "question": "何者不是用在網頁中以增強網頁效果或功能？",
+    "options": ["(1) PHP", "(2) QQ", "(3) XML", "(4) ASP"],
+    "answer": "2"
+  },
+  {
+    "id": "469",
+    "s_num": "2-227",
+    "question": "網頁文件中欲建立內部CSS樣式表，應將CSS語法寫在哪個標籤內？",
+    "options": ["(1) ＜style＞", "(2) ＜img＞", "(3) ＜link＞", "(4) ＜p＞"],
+    "answer": "1"
+  },
+  {
+    "id": "470",
+    "s_num": "2-228",
+    "question": "用網路遮罩255.255.255.248來劃分網域，每個子網域最多有幾個IP位址？",
+    "options": ["(1) 1個", "(2) 4個", "(3) 16個", "(4) 8個"],
+    "answer": "4"
+  },
+  {
+    "id": "471",
+    "s_num": "2-229",
+    "question": "何種HTML語法標籤(Tag)是用來設定超連結？",
+    "options": ["(1) ＜href＞", "(2) ＜hr＞", "(3) ＜a＞", "(4) ＜src＞"],
+    "answer": "3"
+  },
+  {
+    "id": "472",
+    "s_num": "2-230",
+    "question": "HTML網頁文件中以開新視窗方式呈現連結，目標框架應設定為？",
+    "options": ["(1) _top", "(2) _blank", "(3) _home", "(4) _parent"],
+    "answer": "2"
+  },
+  {
+    "id": "473",
+    "s_num": "2-231",
+    "question": "網頁設計中，滑鼠移至圖片上會更換另一張圖片的效果需使用何功能？",
+    "options": ["(1) 插入超連結", "(2) 跑馬燈", "(3) 交換圖像效果", "(4) 影像地圖"],
+    "answer": "3"
+  },
+  {
+    "id": "474",
+    "s_num": "2-232",
+    "question": "用來傳回目前目錄字串的PHP函式為何？",
+    "options": ["(1) string getcwd(void)", "(2) int getmygid(void)", "(3) int getmyuid(void)", "(4) int gettype(mixed var)"],
+    "answer": "1"
+  },
+  {
+    "id": "475",
+    "s_num": "2-233",
+    "question": "用來傳回目前PHP程式群體ID值的PHP函式為何？",
+    "options": ["(1) string getcwd(void)", "(2) int getmygid(void)", "(3) int getmyuid(void)", "(4) int gettype(mixed var)"],
+    "answer": "2"
+  },
+  {
+    "id": "476",
+    "s_num": "2-234",
+    "question": "用來傳回PHP程式用戶識別碼的PHP函式為何？",
+    "options": ["(1) string getcwd(void)", "(2) int getmygid(void)", "(3) int getmyuid(void)", "(4) int gettype(mixed var)"],
+    "answer": "3"
+  },
+  {
+    "id": "477",
+    "s_num": "2-235",
+    "question": "用來傳回變數var型態的PHP函式為何？",
+    "options": ["(1) string getcwd(void)", "(2) int getmygid(void)", "(3) int getmyuid(void)", "(4) int gettype(mixed var)"],
+    "answer": "4"
+  },
+  {
+    "id": "478",
+    "s_num": "2-236",
+    "question": "JavaScript程式「＜Script＞document.write(9>>2);＜Script＞」執行結果為何？",
+    "options": ["(1) 0", "(2) 1", "(3) 2", "(4) 3"],
+    "answer": "3"
+  },
+  {
+    "id": "479",
+    "s_num": "2-237",
+    "question": "HTML語法「＜body link=\"#0000FF\" vlink=\"#FF0000\" alink=\"#FFFF00\"＞」，尚未點選連結顏色為何？",
+    "options": ["(1) 紅色", "(2) 黃色", "(3) 綠色", "(4) 藍色"],
+    "answer": "4"
+  },
+  {
+    "id": "480",
+    "s_num": "2-238",
+    "question": "HTML語法標籤＜frameset＞其作用為何？",
+    "options": ["(1) 設定分隔線", "(2) 設定框架", "(3) 設定文字", "(4) 設定表格"],
+    "answer": "2"
+  },
+  {
+    "id": "481",
+    "s_num": "2-239",
+    "question": "何種圖形格式最適合用於網頁的小型圖示或按鈕？",
+    "options": ["(1) gif", "(2) tif", "(3) bmp", "(4) wmf"],
+    "answer": "1"
+  },
+  {
+    "id": "482",
+    "s_num": "2-240",
+    "question": "何種網路結構會因特定電腦故障導致整個網路不通？",
+    "options": ["(1) 星狀網路", "(2) 雙環狀網路", "(3) 匯流排式網路", "(4) 樹狀網路"],
+    "answer": "1"
+  },
+  {
+    "id": "483",
+    "s_num": "2-241",
+    "question": "撥接數據機是使用何種信號傳送？",
+    "options": ["(1) 數位信號", "(2) 光脈衝", "(3) 語音", "(4) 調變音頻"],
+    "answer": "4"
+  },
+  {
+    "id": "484",
+    "s_num": "2-242",
+    "question": "10 BaseT網路，網卡到集線器間最遠距離為何？",
+    "options": ["(1) 100公尺", "(2) 200公尺", "(3) 300公尺", "(4) 400公尺"],
+    "answer": "1"
+  },
+  {
+    "id": "485",
+    "s_num": "2-243",
+    "question": "何種介質的傳輸速率最快？",
+    "options": ["(1) 電話線", "(2) 同軸電纜", "(3) 雙絞線電纜", "(4) 光纖纜線"],
+    "answer": "4"
+  },
+  {
+    "id": "486",
+    "s_num": "2-244",
+    "question": "何種網路資料傳輸速率最高未達100Mbps？",
+    "options": ["(1) VDSL2", "(2) ATM", "(3) Wi-Fi 6", "(4) OC-1"],
+    "answer": "4"
+  },
+  {
+    "id": "487",
+    "s_num": "2-245",
+    "question": "哪一IP位址被保留作迴路測試用？",
+    "options": ["(1) 0.0.0.1", "(2) 127.0.0.1", "(3) 255.255.0.0", "(4) 255.255.255.0"],
+    "answer": "2"
+  },
+  {
+    "id": "488",
+    "s_num": "2-246",
+    "question": "將CLASS C 網路以遮罩255.255.255.224切割，可切成幾個網路區段？",
+    "options": ["(1) 2", "(2) 4", "(3) 8", "(4) 16"],
+    "answer": "3"
+  },
+  {
+    "id": "489",
+    "s_num": "2-247",
+    "question": "CLASS C 網路以255.255.255.224切割，每個子網可用位址數為？",
+    "options": ["(1) 30", "(2) 32", "(3) 62", "(4) 64"],
+    "answer": "1"
+  },
+  {
+    "id": "490",
+    "s_num": "2-248",
+    "question": "何者最不可能是XML文件的功用？",
+    "options": ["(1) 儲存HTML顯示內容", "(2) 作為資料交換格式", "(3) 作為編排處理內容", "(4) 作為資料儲存格式"],
+    "answer": "3"
+  },
+  {
+    "id": "491",
+    "s_num": "2-249",
+    "question": "何者是轉換XML文件的技術？",
+    "options": ["(1) XSLT", "(2) XQuery", "(3) XPath", "(4) XLink"],
+    "answer": "1"
+  },
+  {
+    "id": "492",
+    "s_num": "2-250",
+    "question": "何者是連結資源的XML技術？",
+    "options": ["(1) XSLT", "(2) XQuery", "(3) XPath", "(4) XLink"],
+    "answer": "4"
+  },
+  {
+    "id": "493",
+    "s_num": "2-251",
+    "question": "何者是解決XML文件標籤名稱重複的最佳方式？",
+    "options": ["(1) 名稱宣告", "(2) 名稱空間", "(3) 名稱加長", "(4) 名稱縮寫"],
+    "answer": "2"
+  },
+  {
+    "id": "494",
+    "s_num": "2-252",
+    "question": "HTML網頁中嵌入PHP程式碼，何組標籤最不適用？",
+    "options": ["(1) ＜!-- --＞", "(2) ＜? ?＞", "(3) ＜?php ?＞", "(4) ＜script language='php'＞＜/script＞"],
+    "answer": "1"
+  },
+  {
+    "id": "495",
+    "s_num": "2-253",
+    "question": "關於PHP程式『＜?php phpinfo(); ?＞』的意義為何？",
+    "options": ["(1) 顯示目前網址", "(2) 顯示PHP在網頁上的相關訊息", "(3) 顯示程式錯誤訊息", "(4) 顯示程序執行完成訊息"],
+    "answer": "2"
+  },
+  {
+    "id": "496",
+    "s_num": "2-254",
+    "question": "關於PHP的Cookie與Session敘述何者最不適當？",
+    "options": ["(1) Cookie變數儲放於客戶端", "(2) Session變數儲放於伺服端", "(3) Cookie與Session生命週期可設定", "(4) Cookie與Session資料可用$_COOKIE與$_SESSION取得"],
+    "answer": "2"
+  },
+  {
+    "id": "497",
+    "s_num": "2-255",
+    "question": "PHP用來建立一個新物件的關鍵字為何？",
+    "options": ["(1) new", "(2) create", "(3) create object", "(4) construct"],
+    "answer": "1"
+  },
+  {
+    "id": "498",
+    "s_num": "2-256",
+    "question": "關於HTML語法何者最不妥善？",
+    "options": ["(1) ＜h1＞標題一＜/h1＞", "(2) ＜H1＞標題一＜/H1＞", "(3) ＜ h1 ＞標題一＜/ h1 ＞", "(4) ＜H1＞標題一＜/h1＞"],
+    "answer": "3"
+  },
+  {
+    "id": "499",
+    "s_num": "2-257",
+    "question": "設定網頁背景色何者正確？",
+    "options": ["(1) ＜body backgroundcolor='yellow'＞", "(2) ＜body color='yellow'＞", "(3) ＜body bgcolor='yellow'＞", "(4) ＜body bg='yellow'＞"],
+    "answer": "3"
+  },
+  {
+    "id": "500",
+    "s_num": "2-258",
+    "question": "設定網頁背景圖案何者正確？",
+    "options": ["(1) ＜body backgroundimage='bg.jpg'＞", "(2) ＜body background='bg.jpg'＞", "(3) ＜body bgimage='bg.jpg'＞", "(4) ＜body image='bg.jpg'＞"],
+    "answer": "2"
+  },
+    {
+    "id": "501",
+    "s_num": "2-259",
+    "question": "設定網頁中所有文字顏色(color)，何者最妥當？",
+    "options": ["(1) ＜body color='blue'＞", "(2) ＜body text='color'＞", "(3) ＜font color='blue'＞", "(4) ＜font text='color'＞"],
+    "answer": "3"
+  },
+  {
+    "id": "502",
+    "s_num": "2-260",
+    "question": "關於HTML標籤無法設定那一部分的顏色？",
+    "options": ["(1) 超連結", "(2) 圖片外框", "(3) 儲存格的背景", "(4) 表格格線"],
+    "answer": "2"
+  },
+  {
+    "id": "503",
+    "s_num": "2-261",
+    "question": "關於HTML網頁欲加入註解應使用何種方式？",
+    "options": ["(1) ／* *／", "(2) ／／", "(3) ＃", "(4) ＜！-- --＞"],
+    "answer": "4"
+  },
+  {
+    "id": "504",
+    "s_num": "2-262",
+    "question": "何者最不適合置於HTML的＜head＞標籤之中？",
+    "options": ["(1) ＜marquee＞", "(2) ＜style＞", "(3) ＜link＞", "(4) ＜base＞"],
+    "answer": "1"
+  },
+  {
+    "id": "505",
+    "s_num": "2-263",
+    "question": "關於HTML的＜head＞標籤中，欲設定超連結之基準位址的標籤為何？",
+    "options": ["(1) ＜link＞", "(2) ＜url＞", "(3) ＜base＞", "(4) ＜style＞"],
+    "answer": "3"
+  },
+  {
+    "id": "506",
+    "s_num": "2-264",
+    "question": "那一個XML區塊是告訴XML剖析器不用處理此區塊的內容？",
+    "options": ["(1) ＜?xml.....?＞", "(2) ＜?xml-stylesheet.....?＞", "(3) ＜!DOCTYPE.....＞", "(4) ＜![CDATA[.....]]＞"],
+    "answer": "4"
+  },
+  {
+    "id": "507",
+    "s_num": "2-265",
+    "question": "XML屬性是定義在XML元素的那一個部分？",
+    "options": ["(1) 元素內容", "(2) 開始標籤", "(3) 結尾標籤", "(4) 註解"],
+    "answer": "2"
+  },
+  {
+    "id": "508",
+    "s_num": "2-266",
+    "question": "HTML網頁中的標題文字共分為幾個層次？",
+    "options": ["(1) 4", "(2) 5", "(3) 6", "(4) 7"],
+    "answer": "3"
+  },
+  {
+    "id": "509",
+    "s_num": "2-267",
+    "question": "HTML網頁中欲將文字內容加上底線，其標籤為何？",
+    "options": ["(1) ＜b＞", "(2) ＜u＞", "(3) ＜i＞", "(4) ＜p＞"],
+    "answer": "2"
+  },
+  {
+    "id": "510",
+    "s_num": "2-268",
+    "question": "HTML網頁中欲將文字內容強迫換行顯示，其標籤為何？",
+    "options": ["(1) ＜p＞", "(2) ＜img＞", "(3) ＜br＞", "(4) ＜hr＞"],
+    "answer": "3"
+  },
+  {
+    "id": "511",
+    "s_num": "2-269",
+    "question": "HTML網頁中欲保留原始輸入的格式(如：斷行、空白)，其標籤為何？",
+    "options": ["(1) ＜div＞", "(2) ＜span＞", "(3) ＜xmp＞", "(4) ＜pre＞"],
+    "answer": "4"
+  },
+  {
+    "id": "512",
+    "s_num": "2-270",
+    "question": "那一個HTML標籤可使裡頭的標籤不會被瀏覽器解釋執行並直接顯示出標籤及內容？",
+    "options": ["(1) ＜div＞", "(2) ＜span＞", "(3) ＜xmp＞", "(4) ＜pre＞"],
+    "answer": "3"
+  },
+  {
+    "id": "513",
+    "s_num": "2-271",
+    "question": "那一個XHTML語法可以讓圖片(logo.gif)正確的超連結至網頁(test.htm)中？",
+    "options": ["(1) ＜img src='logo.gif' href='test.htm'/＞", "(2) ＜img src='test.htm' href='logo.gif'/＞", "(3) ＜img src='logo.gif'＞＜a href='test.htm'＞＜/a＞＜/img＞", "(4) ＜a href='test.htm'＞＜img src='logo.gif'/＞＜/a＞"],
+    "answer": "4"
+  },
+  {
+    "id": "514",
+    "s_num": "2-272",
+    "question": "利用XHTML語法建立網頁表格之標題，應使用那一個標籤？",
+    "options": ["(1) ＜title＞", "(2) ＜head＞", "(3) ＜caption＞", "(4) ＜th＞"],
+    "answer": "3"
+  },
+  {
+    "id": "515",
+    "s_num": "2-273",
+    "question": "在XHTML中，＜form＞標籤的屬性何者用來指定接收表單資料之伺服器端的程式？",
+    "options": ["(1) method", "(2) action", "(3) name", "(4) enctype"],
+    "answer": "2"
+  },
+  {
+    "id": "516",
+    "s_num": "2-274",
+    "question": "JavaScript函式定義在那一標籤中最合理，以便程式可呼叫使用？",
+    "options": ["(1) ＜head＞", "(2) ＜title＞", "(3) ＜body＞", "(4) ＜style＞"],
+    "answer": "1"
+  },
+  {
+    "id": "517",
+    "s_num": "2-275",
+    "question": "何者是JavaScript最不可能達到的功能？",
+    "options": ["(1) 更換背景色彩與字型大小", "(2) 標題跑馬燈", "(3) 顯示線上時鐘或日曆", "(4) 將資料直接寫入資料庫"],
+    "answer": "4"
+  },
+  {
+    "id": "518",
+    "s_num": "2-276",
+    "question": "JavaScript中那一個指令可以反覆執行一段程序，直到條件不符合時才停止？",
+    "options": ["(1) if", "(2) if…else", "(3) for", "(4) while"],
+    "answer": "4"
+  },
+  {
+    "id": "519",
+    "s_num": "2-277",
+    "question": "關閉瀏覽器視窗時會觸發JavaScript那一個事件(Event)？",
+    "options": ["(1) onLoad", "(2) onUnload", "(3) onChange", "(4) onBlur"],
+    "answer": "2"
+  },
+  {
+    "id": "520",
+    "s_num": "2-278",
+    "question": "JavaScript中那一個不屬於文件(Document)物件的方法(Method)？",
+    "options": ["(1) open", "(2) read", "(3) write", "(4) close"],
+    "answer": "2"
+  },
+  {
+    "id": "521",
+    "s_num": "2-279",
+    "question": "JavaScript中使用那一個指令來建構物件？",
+    "options": ["(1) function", "(2) new", "(3) object", "(4) class"],
+    "answer": "1"
+  },
+  {
+    "id": "522",
+    "s_num": "2-280",
+    "question": "JavaScript中欲使網頁回到上一頁，應執行那一個指令？",
+    "options": ["(1) history.back(1)", "(2) history.go(-1)", "(3) history.previous(1)", "(4) history.forward(-1)"],
+    "answer": "2"
+  },
+  {
+    "id": "523",
+    "s_num": "2-281",
+    "question": "利用CSS樣式設定超連結文字不出現底線，可利用那一個屬性(Property)進行設定？",
+    "options": ["(1) text-align", "(2) text-decoration", "(3) text-indent", "(4) text-transform"],
+    "answer": "2"
+  },
+  {
+    "id": "524",
+    "s_num": "2-282",
+    "question": "利用CSS樣式設定段落字體為「微軟正黑體」，可利用那一個屬性(Property)進行設定？",
+    "options": ["(1) font-style", "(2) font-variant", "(3) font-family", "(4) font-weight"],
+    "answer": "3"
+  },
+  {
+    "id": "525",
+    "s_num": "2-283",
+    "question": "利用CSS樣式設定段落字型的粗細，可利用那一個屬性(Property)進行設定？",
+    "options": ["(1) font-style", "(2) font-variant", "(3) font-family", "(4) font-weight"],
+    "answer": "4"
+  },
+  {
+    "id": "526",
+    "s_num": "2-284",
+    "question": "在JSP網頁中，程式碼部分將以何種符號來標示？",
+    "options": ["(1) ＜%...%＞", "(2) ＜?...?＞", "(3) ＜!...!＞", "(4) ＜?jsp...?＞"],
+    "answer": "1"
+  },
+  {
+    "id": "527",
+    "s_num": "2-285",
+    "question": "要修改產品資料表中主鍵「產品代號（Pcode）」為'005'的價錢由25元改成30元，那些SQL指令可以使用？",
+    "options": ["(1) ", "(2) ", "(3) ", "(4) "],
+    "answer": "14"
+  },
+  {
+    "id": "528",
+    "s_num": "2-286",
+    "question": "有關SOAP函式的敘述，何者正確？",
+    "options": ["(1) addFunction()", "(2) handle()", "(3) setClass()", "(4) getFunction()"],
+    "answer": "1234"
+  },
+  {
+    "id": "529",
+    "s_num": "2-287",
+    "question": "使用樣版的好處，何者正確？",
+    "options": ["(1) 美工人員與程式設計人員分工", "(2) 方便MVC實現", "(3) 增加網頁安全", "(4) 方便使用Dreamweaver等工具"],
+    "answer": "124"
+  },
+  {
+    "id": "530",
+    "s_num": "2-288",
+    "question": "MariaDB的函式敘述，何者正確？",
+    "options": ["(1) mysql_creat_db()", "(2) mysql_db_name()", "(3) mysql_drop_db()", "(4) mysql_errno()"],
+    "answer": "124"
+  },
+  {
+    "id": "531",
+    "s_num": "2-289",
+    "question": "PHP處理MariaDB資料庫相關函式的敘述，何者正確？",
+    "options": ["(1) mysql_connect()", "(2) mysql_select_db()", "(3) mysql_query()", "(4) mysql_close()"],
+    "answer": "234"
+  },
+  {
+    "id": "532",
+    "s_num": "2-290",
+    "question": "SQL語法的敘述，何者正確？",
+    "options": ["(1) insert新增資料", "(2) update更新資料", "(3) select查詢資料", "(4) insert、update、select為非查詢語法"],
+    "answer": "123"
+  },
+  {
+    "id": "533",
+    "s_num": "2-291",
+    "question": "欲從資料表中刪除特定條件的紀錄，需搭配那些SQL指令及關鍵字？",
+    "options": ["(1) insert", "(2) delete", "(3) where", "(4) order"],
+    "answer": "23"
+  },
+  {
+    "id": "534",
+    "s_num": "2-292",
+    "question": "PHP中執行mysql_fetch_row()函數的結果，何者正確？",
+    "options": ["(1) 取得欄位數", "(2) 取得單筆完整資料", "(3) 移至最後一筆", "(4) 移至下一筆"],
+    "answer": "24"
+  },
+  {
+    "id": "535",
+    "s_num": "2-293",
+    "question": "Windows環境下可透過php.ini中那些設定協助email函式？",
+    "options": ["(1) SMTP", "(2) sendmail_path", "(3) mail", "(4) smtp_port"],
+    "answer": "14"
+  },
+  {
+    "id": "536",
+    "s_num": "2-294",
+    "question": "JavaScript中何者是刪除cookie的方法？",
+    "options": ["(1) 設定expire過期", "(2) 利用setcookie刪除", "(3) 關閉電腦", "(4) 刪除伺服器暫存檔"],
+    "answer": "12"
+  },
+  {
+    "id": "537",
+    "s_num": "2-295",
+    "question": "有關PHP陣列常用的函數敘述，何者正確？",
+    "options": ["(1) count()", "(2) unset()", "(3) sort()", "(4) empty()"],
+    "answer": "1234"
+  },
+  {
+    "id": "538",
+    "s_num": "2-296",
+    "question": "PHP的陣列敘述，何者正確？",
+    "options": ["(1) 中括號宣告", "(2) 索引由0起算", "(3) 元素型態需一致", "(4) 可動態增減元素"],
+    "answer": "124"
+  },
+  {
+    "id": "539",
+    "s_num": "2-297",
+    "question": "何者是PHP的流程控制語法？",
+    "options": ["(1) if…else", "(2) switch…case", "(3) for", "(4) do…while"],
+    "answer": "1234"
+  },
+  {
+    "id": "540",
+    "s_num": "2-298",
+    "question": "何者是PHP的基本資料型態？",
+    "options": ["(1) 整數(integer)", "(2) 浮點數(double)", "(3) 字串(string)", "(4) 指標(pointer)"],
+    "answer": "123"
+  },
+  {
+    "id": "541",
+    "s_num": "2-299",
+    "question": "PHP變數的敘述，何者正確？",
+    "options": ["(1) 變數不可數字開頭", "(2) 大小寫有區分", "(3) 任何英文可用", "(4) $ThisIsMyFirstVariable合法"],
+    "answer": "124"
+  },
+  {
+    "id": "542",
+    "s_num": "2-300",
+    "question": "MariaDB與phpMyAdmin的敘述，何者正確？",
+    "options": ["(1) 匯入資料庫等於備份", "(2) http://localhost/phpMyAdmin可管理", "(3) MariaDB可用console下指令", "(4) 匯出會產生.sql檔案"],
+    "answer": "34"
+  },
+  {
+    "id": "543",
+    "s_num": "2-301",
+    "question": "PHP的echo敘述，何者正確？",
+    "options": ["(1) 輸出為HTML格式", "(2) 讓電腦發聲", "(3) 與print功能相同", "(4) 印出echo字串"],
+    "answer": "13"
+  },
+  {
+    "id": "544",
+    "s_num": "2-302",
+    "question": "PHP程式(text.php)要在本機的網站根目錄下執行，何者正確？",
+    "options": ["(1) http://localhost/text.php", "(2) http:\\\\localhost\\text.php", "(3) http:\\\\127.0.0.1\\text.php", "(4) http://127.0.0.1/text.php"],
+    "answer": "14"
+  },
+  {
+    "id": "545",
+    "s_num": "2-303",
+    "question": "網頁中要顯示字串「Hello, world!」，何者正確？",
+    "options": ["(1) echo('Hello, world!')", "(2) echo \"Hello, world!\"", "(3) print 'Hello, world!'", "(4) print \"Hello, world!\";"],
+    "answer": "124"
+  },
+  {
+    "id": "546",
+    "s_num": "2-304",
+    "question": "那些色彩配色不屬於色光的補色配對？",
+    "options": ["(1) 紅色與黃色", "(2) 藍色與青色", "(3) 橙色與黃色", "(4) 綠色與洋紅色"],
+    "answer": "123"
+  },
+  {
+    "id": "547",
+    "s_num": "2-305",
+    "question": "影像處理軟體中CMYK的說明那些正確？",
+    "options": ["(1) K表示黑色", "(2) Y表示黃色", "(3) C表示洋紅色", "(4) M表示青色"],
+    "answer": "12"
+  },
+  {
+    "id": "548",
+    "s_num": "2-306",
+    "question": "運用色彩選擇工具取得RGB值，有關顏色顯示哪些正確？",
+    "options": ["(1) (255,0,0)紅色", "(2) (0,255,0)綠色", "(3) (0,0,255)紫色", "(4) (255,255,0)黃色"],
+    "answer": "124"
+  },
+  {
+    "id": "549",
+    "s_num": "2-307",
+    "question": "何者不為CSS的註解語法？",
+    "options": ["(1) ／／css comment", "(2) /*css comment*/", "(3) ＜!--css comment--＞", "(4) ＜comment＞css comment＜/comment＞"],
+    "answer": "34"
+  },
+  {
+    "id": "550",
+    "s_num": "2-308",
+    "question": "CSS屬性表示那些正確？",
+    "options": ["(1) color: rgb(0,0,255);", "(2) font-type: Arial;", "(3) font-style: italic;", "(4) font-weight: 600;"],
+    "answer": "134"
+  },
+    {
+    "id": "551",
+    "s_num": "2-309",
+    "type": "複選題",
+    "question": "HTML 5文件內，那些方法可直接將CSS樣式表撰寫於文件內?",
+    "options": [
+      "(1) Inline Style",
+      "(2) Embedded Style Sheet",
+      "(3) Linked Style Sheet",
+      "(4) Imported Style Sheet"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "552",
+    "s_num": "2-310",
+    "type": "複選題",
+    "question": "CSS自訂class樣式名稱為.myimage，如果要設計可讓滑鼠移動到圖片上產生自動放大影像的效果，那些敘述不正確？",
+    "options": [
+      "(1) 需要再額外增加一個樣式.myimage: movor",
+      "(2) .myimage樣式屬性的width要比額外新增樣式的width大",
+      "(3) 需要再額外增加一個樣式.myimage: hovor",
+      "(4) 需要再額外增加一個樣式.myimage: visited"
+    ],
+    "answer": "124"
+  },
+  {
+    "id": "553",
+    "s_num": "2-311",
+    "type": "複選題",
+    "question": "關於CSS屬性設定圖片加上外框的效果何者正確？",
+    "options": [
+      "(1) 使用border-width設定圖片框線的粗細",
+      "(2) 使用area設定圖片與邊框的留白範圍",
+      "(3) 使用border-style設定圖片框線的樣式",
+      "(4) 使用color設定外框的顏色"
+    ],
+    "answer": "13"
+  },
+  {
+    "id": "554",
+    "s_num": "2-312",
+    "type": "複選題",
+    "question": "關於影像平面化之敘述何者不正確？",
+    "options": [
+      "(1) 只會平面化目前的圖層",
+      "(2) 文字圖層平面化後，文字仍然可以編輯",
+      "(3) 影像經過平面化後，可以隨時回復原先的圖層架構",
+      "(4) 包含文字的圖層經過平面化之後，文字圖層會消失"
+    ],
+    "answer": "123"
+  },
+  {
+    "id": "555",
+    "s_num": "2-313",
+    "type": "複選題",
+    "question": "Photoshop文字排版的相關名詞中，何者敘述較不適當？",
+    "options": [
+      "(1) 大寫高度(Cap Height)為從「上升線(Ascender Line)」到「下降線(Descender Line)」之間的高度",
+      "(2) 字元大小(Point Size)為由「基線(Base Line)」開始至大寫字母頂端的高度",
+      "(3) 基線(Base Line)代表下降部位最大下降深度的線",
+      "(4) 大寫線(Cap Line)代表大寫字元最大高度的線"
+    ],
+    "answer": "123"
+  },
+  {
+    "id": "556",
+    "s_num": "2-314",
+    "type": "複選題",
+    "question": "Photoshop中處理影像圖層時，何種的編輯動作無法保留圖層非破壞性編輯的特性？",
+    "options": [
+      "(1) 影像重新取樣",
+      "(2) 影像平面化",
+      "(3) 將圖層轉換為[智慧型物件]",
+      "(4) 點陣化圖層"
+    ],
+    "answer": "124"
+  },
+  {
+    "id": "557",
+    "s_num": "2-315",
+    "type": "複選題",
+    "question": "Photoshop提供何種遮色片效果？",
+    "options": [
+      "(1) 背景遮色片",
+      "(2) 向量遮色片",
+      "(3) 剪裁遮色片",
+      "(4) 圖層遮色片"
+    ],
+    "answer": "234"
+  },
+  {
+    "id": "558",
+    "s_num": "2-316",
+    "type": "複選題",
+    "question": "HTML Tag對應到HTML DOM模型元素的關係，那些不正確？",
+    "options": [
+      "(1) HEAD對應到HTMLHeadingElement",
+      "(2) DIV對應到HTMLTableDivElement",
+      "(3) FONT對應到HTMLFontElement",
+      "(4) MENU對應到HTMLMenuElement"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "559",
+    "s_num": "2-317",
+    "type": "複選題",
+    "question": "在HTML DOM模型的document.documentElement物件中，可合法使用那些方法(methods)？",
+    "options": [
+      "(1) appendChild( )",
+      "(2) replaceChild( )",
+      "(3) insertBefore( )",
+      "(4) getAttribute( )"
+    ],
+    "answer": "1234"
+  },
+  {
+    "id": "560",
+    "s_num": "2-318",
+    "type": "複選題",
+    "question": "在HTML DOM模型的document.documentElement物件中，那些方法(methods)可產生新的node？",
+    "options": [
+      "(1) createAttribute( )",
+      "(2) createElement( )",
+      "(3) createTextNode( )",
+      "(4) createImageNode( )"
+    ],
+    "answer": "123"
+  },
+  {
+    "id": "561",
+    "s_num": "2-319",
+    "type": "複選題",
+    "question": "在HTML DOM模型中的document.documentElement物件，可使用那些方法(methods)來找到HTML的元件(element/node)或元件列(node list)？",
+    "options": [
+      "(1) getElementById( )",
+      "(2) getElementsByTagName( )",
+      "(3) getElementsByClassName( )",
+      "(4) getElementByValue( )"
+    ],
+    "answer": "123"
+  },
+  {
+    "id": "562",
+    "s_num": "2-320",
+    "type": "複選題",
+    "question": "在HTML DOM模型的document.documentElement物件中，可改變HTML文件中的那些內容？",
+    "options": [
+      "(1) HTML content",
+      "(2) CSS styles",
+      "(3) HTML attributes",
+      "(4) event(handlers)"
+    ],
+    "answer": "1234"
+  },
+  {
+    "id": "563",
+    "s_num": "2-321",
+    "type": "複選題",
+    "question": "在HTML DOM模型中的HTMLFormElement物件，可合法使用那些方法(methods)及屬性(properties)？",
+    "options": [
+      "(1) reset( )",
+      "(2) submit( )",
+      "(3) getlength( )",
+      "(4) name"
+    ],
+    "answer": "124"
+  },
+  {
+    "id": "564",
+    "s_num": "2-322",
+    "type": "複選題",
+    "question": "在HTML DOM模型中的HTMLImageElement物件，可合法使用那些屬性(properties)？",
+    "options": [
+      "(1) alt",
+      "(2) height",
+      "(3) longDesc",
+      "(4) lowsrc"
+    ],
+    "answer": "1234"
+  },
+  {
+    "id": "565",
+    "s_num": "2-323",
+    "type": "複選題",
+    "question": "在HTML DOM模型中的HTMLTableElement物件，可合法使用那些方法(methods)？",
+    "options": [
+      "(1) createTitle( )",
+      "(2) createTFooter( )",
+      "(3) createTHead( )",
+      "(4) insertRow( )"
+    ],
+    "answer": "34"
+  },
+  {
+    "id": "566",
+    "s_num": "2-324",
+    "type": "複選題",
+    "question": "在HTML DOM模型中的HTMLLinkElement物件，可合法使用那些屬性(properties)？",
+    "options": [
+      "(1) hreflang",
+      "(2) media",
+      "(3) type",
+      "(4) charset"
+    ],
+    "answer": "1234"
+  },
+  {
+    "id": "567",
+    "s_num": "2-325",
+    "type": "複選題",
+    "question": "在HTML DOM模型中的HTMLSelectElement物件，可合法使用那些方法(methods)及屬性(properties)？",
+    "options": [
+      "(1) add()",
+      "(2) remove()",
+      "(3) type",
+      "(4) selectedIndexNodes"
+    ],
+    "answer": "123"
+  },
+  {
+    "id": "568",
+    "s_num": "2-326",
+    "type": "複選題",
+    "question": "在HTML DOM模型中的Element物件，可合法使用那些方法(methods)及屬性(properties)？",
+    "options": [
+      "(1) appendChild( )",
+      "(2) cloneNode( )",
+      "(3) isEqualNode( )",
+      "(4) isParentNode( )"
+    ],
+    "answer": "123"
+  },
+  {
+    "id": "569",
+    "s_num": "2-327",
+    "type": "複選題",
+    "question": "何種影像格式常使用於網頁畫面？",
+    "options": [
+      "(1) TIFF",
+      "(2) JPG",
+      "(3) GIF",
+      "(4) PNG"
+    ],
+    "answer": "234"
+  },
+  {
+    "id": "570",
+    "s_num": "2-328",
+    "type": "複選題",
+    "question": "何種影像格式不屬於「破壞性壓縮」的影像檔格式？",
+    "options": [
+      "(1) TIFF",
+      "(2) JPG",
+      "(3) BMP",
+      "(4) PNG"
+    ],
+    "answer": "134"
+  },
+  {
+    "id": "571",
+    "s_num": "2-329",
+    "type": "複選題",
+    "question": "那些影像格式不能產生動畫及透明效果？",
+    "options": [
+      "(1) TIFF",
+      "(2) JPG",
+      "(3) GIF",
+      "(4) BMP"
+    ],
+    "answer": "124"
+  },
+  {
+    "id": "572",
+    "s_num": "2-330",
+    "type": "複選題",
+    "question": "那些影像格式能產生透明效果？",
+    "options": [
+      "(1) BMP",
+      "(2) JPG",
+      "(3) GIF",
+      "(4) PNG"
+    ],
+    "answer": "34"
+  },
+  {
+    "id": "573",
+    "s_num": "2-331",
+    "type": "複選題",
+    "question": "那些是網頁製作軟體？",
+    "options": [
+      "(1) Dreamweaver",
+      "(2) Visual Studio Code",
+      "(3) SharePoint",
+      "(4) MariaDB"
+    ],
+    "answer": "123"
+  },
+  {
+    "id": "574",
+    "s_num": "2-332",
+    "type": "複選題",
+    "question": "Dreamweaver中網頁樣式不使用那些方式處理？",
+    "options": [
+      "(1) CSS樣式",
+      "(2) Java程式",
+      "(3) PHP程式",
+      "(4) #符號"
+    ],
+    "answer": "234"
+  },
+  {
+    "id": "575",
+    "s_num": "2-333",
+    "type": "複選題",
+    "question": "PHP不使用那些符號來表示單行該符號後之文字為註解？",
+    "options": [
+      "(1) //",
+      "(2) ?",
+      "(3) &",
+      "(4) $"
+    ],
+    "answer": "234"
+  },
+   {
+    "id": "576",
+    "s_num": "2-334",
+    "type": "複選題",
+    "question": "那些方式可以用來轉換PHP網頁程式中變數的資料型態？",
+    "options": [
+      "(1) 在變數前面使用小括弧加上資料型態的名稱",
+      "(2) 使用轉換函數(如：intval)來轉換資料型態",
+      "(3) 使用settype函數來轉換資料型態",
+      "(4) 使用dim來轉換資料型態"
+    ],
+    "answer": "123"
+  },
+  {
+    "id": "577",
+    "s_num": "2-335",
+    "type": "複選題",
+    "question": "PHP使用那些函數無法將變數的資料型態轉換成字串？",
+    "options": ["(1) intval", "(2) floatval", "(3) doubleval", "(4) strval"],
+    "answer": "123"
+  },
+  {
+    "id": "578",
+    "s_num": "2-336",
+    "type": "複選題",
+    "question": "PHP可使用那些語法來輸出字串在網頁上？",
+    "options": ["(1) echo", "(2) print", "(3) printf", "(4) show"],
+    "answer": "123"
+  },
+  {
+    "id": "579",
+    "s_num": "2-337",
+    "type": "複選題",
+    "question": "PHP使用那些語法無法輸出字串在網頁上？",
+    "options": ["(1) echo", "(2) type", "(3) string", "(4) show"],
+    "answer": "234"
+  },
+  {
+    "id": "580",
+    "s_num": "2-338",
+    "type": "複選題",
+    "question": "在字串中使用字元“\\n”語法，在那些電腦語言中輸出會產生「斷行」的效果？",
+    "options": ["(1) C", "(2) PHP", "(3) C++", "(4) Java"],
+    "answer": "134"
+  },
+  {
+    "id": "581",
+    "s_num": "2-339",
+    "type": "複選題",
+    "question": "乙太網路功能是運作在OSI模式的那二層？",
+    "options": ["(1) Physical", "(2) Data link", "(3) Network", "(4) Transport"],
+    "answer": "12"
+  },
+  {
+    "id": "582",
+    "s_num": "2-340",
+    "type": "複選題",
+    "question": "關於NIC之敘述何者正確？",
+    "options": [
+      "(1) NIC連接PC到網路媒體",
+      "(2) NIC偵測乙太網路區段的碰撞",
+      "(3) NIC傳遞選定的訊框內容給較上的OSI層次",
+      "(4) NIC在資料被傳送前檢查資料格式"
+    ],
+    "answer": "123"
+  },
+  {
+    "id": "583",
+    "s_num": "2-341",
+    "type": "複選題",
+    "question": "那些是高速乙太網路的技術？",
+    "options": ["(1) 100BASE-5", "(2) 1000BASE-F", "(3) 100BASE-FX", "(4) 100BASE-TX"],
+    "answer": "34"
+  },
+  {
+    "id": "584",
+    "s_num": "2-342",
+    "type": "複選題",
+    "question": "關於Gigabit乙太網路技術之描述何者正確？",
+    "options": [
+      "(1) 典型使用為骨幹佈線",
+      "(2) 可以用銅線和光纖實作出",
+      "(3) 主要使用在工作站間",
+      "(4) 運作在100Mbps"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "585",
+    "s_num": "2-343",
+    "type": "複選題",
+    "question": "哪些是傳輸層用來管理主機間分離的資料流？",
+    "options": [
+      "(1) 埠號(port numbers)",
+      "(2) 確認號碼(acknowledgment numbers)",
+      "(3) 序號(sequence numbers)",
+      "(4) 認證鑰匙(authentication keys)"
+    ],
+    "answer": "123"
+  },
+  {
+    "id": "586",
+    "s_num": "2-344",
+    "type": "複選題",
+    "question": "那些是OSI傳輸層(Transport layer)的主要目的？",
+    "options": [
+      "(1) Flow Control",
+      "(2) End-to-end Connectivity",
+      "(3) Path Determination",
+      "(4) Security Control"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "587",
+    "s_num": "2-345",
+    "type": "複選題",
+    "question": "關於127.0.0.1的IP位址之敘述何者正確？",
+    "options": [
+      "(1) 它屬於A級位址範圍",
+      "(2) 它保留當作迴路測試",
+      "(3) 它保留當作多點傳輸群組測試",
+      "(4) 它屬於B級位址範圍"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "588",
+    "s_num": "2-346",
+    "type": "複選題",
+    "question": "那些為私有IP位址(Private Addresses)？",
+    "options": [
+      "(1) 192.168.168.168",
+      "(2) 192.169.169.169",
+      "(3) 172.22.22.22",
+      "(4) 10.66.66.66"
+    ],
+    "answer": "134"
+  },
+  {
+    "id": "589",
+    "s_num": "2-347",
+    "type": "複選題",
+    "question": "乙太網路上發生了碰撞，那些敘述可用來說明CSMA/CD的運作程序？",
+    "options": [
+      "(1) 在壅塞訊號之後，所有傳輸停止一段隨機周期",
+      "(2) 當後退期間到期後，每個主機檢查看看是否網路媒體是否閒置，然後嘗試傳送",
+      "(3) 當碰撞被偵測到，主機持續一段短時間以壅塞樣式傳輸來確保所有主機偵測到此碰撞",
+      "(4) 當後退期間到期後，碰撞牽涉到的主機有優先權來傳輸"
+    ],
+    "answer": "123"
+  },
+  {
+    "id": "590",
+    "s_num": "2-348",
+    "type": "複選題",
+    "question": "那些設備會延伸碰撞領域？",
+    "options": ["(1) Hub", "(2) Repeater", "(3) Switch", "(4) Bridge"],
+    "answer": "12"
+  },
+  {
+    "id": "591",
+    "s_num": "2-349",
+    "type": "複選題",
+    "question": "當從高速乙太網路移植到Gigabit乙太網路，網路管理者應考慮那些項目？",
+    "options": [
+      "(1) 現存的NIC必須升級",
+      "(2) 現存的交換器必須升級",
+      "(3) 現存的UTP必須測試通CAT 5e或CAT 6相容",
+      "(4) 現存的UTP佈線必須以光纖取代"
+    ],
+    "answer": "123"
+  },
+  {
+    "id": "592",
+    "s_num": "2-350",
+    "type": "複選題",
+    "question": "TCP協定具備那些特徵？",
+    "options": [
+      "(1) 強制未確認的封包之重傳",
+      "(2) 在終端使用者應用程式間建立虛擬會談（Virtual Session）",
+      "(3) 負責將訊息分割成區段(Segment)且到達目的地後重組",
+      "(4) 被用來傳送IP錯誤訊息"
+    ],
+    "answer": "123"
+  },
+  {
+    "id": "593",
+    "s_num": "2-351",
+    "type": "複選題",
+    "question": "那些屬於TCP/IP的應用層協定？",
+    "options": ["(1) FTP", "(2) SMTP", "(3) TCP", "(4) IP"],
+    "answer": "12"
+  },
+  {
+    "id": "594",
+    "s_num": "2-352",
+    "type": "複選題",
+    "question": "B級位址的網路與子網路遮罩那些是有效的設定？",
+    "options": [
+      "(1) 255.255.252.0",
+      "(2) 255.255.255.192",
+      "(3) 255.0.0.0",
+      "(4) 255.255.0.0"
+    ],
+    "answer": "124"
+  },
+  {
+    "id": "595",
+    "s_num": "2-353",
+    "type": "複選題",
+    "question": "那些設備會在乙太網路上產生多個碰撞領域？",
+    "options": ["(1) Hub", "(2) NIC", "(3) Switch", "(4) Router"],
+    "answer": "34"
+  },
+  {
+    "id": "596",
+    "s_num": "2-354",
+    "type": "複選題",
+    "question": "關於CSMA/CD的敘述何者正確？",
+    "options": [
+      "(1) 它是使用在LAN上的媒體存取方法",
+      "(2) 當設備需要傳輸，它檢查看看是否媒體可用",
+      "(3) 同一時間只有一個設備能成功地傳輸",
+      "(4) 多個設備可同時成功地傳輸"
+    ],
+    "answer": "123"
+  },
+  {
+    "id": "597",
+    "s_num": "2-355",
+    "type": "複選題",
+    "question": "那些是採購網路介面卡要考慮的重要特性？",
+    "options": [
+      "(1) 網路上使用的媒介",
+      "(2) 電腦使用的系統匯流排",
+      "(3) 網路上使用的安全性",
+      "(4) 網路上安裝的軟體"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "598",
+    "s_num": "2-356",
+    "type": "複選題",
+    "question": "那些是UDP和TCP共通的特性？",
+    "options": [
+      "(1) 使用埠號",
+      "(2) 歸類為傳輸層的協定",
+      "(3) 確認資料的接收",
+      "(4) 歸類為無連結的協定(Connectionless Protocol)"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "599",
+    "s_num": "2-357",
+    "type": "複選題",
+    "question": "那些是檔案傳輸通訊協定(FTP)和簡單式檔案傳輸通訊協定(TFTP)之間的差異？",
+    "options": [
+      "(1) FTP可透過互動方式執行；TFTP允許只有單向傳輸的檔案",
+      "(2) FTP可提供使用者驗證；TFTP則否",
+      "(3) FTP使用TCP連接埠號碼為20及21；TFTP使用UDP連接埠號碼為69",
+      "(4) FTP是完整、工作階段導向、一般用途的檔案傳輸通訊協定；TFTP作為極簡特殊目的檔案傳輸通訊協定"
+    ],
+    "answer": "1234"
+  },
+  {
+    "id": "600",
+    "s_num": "2-358",
+    "type": "複選題",
+    "question": "那些是TCP/IP應用層協定？",
+    "options": ["(1) TFTP", "(2) DNS", "(3) TCP", "(4) UDP"],
+    "answer": "12"
+  },
+    {
+    "id": "601",
+    "s_num": "2-359",
+    "type": "複選題",
+    "question": "何者屬於B級IP位址的子網路遮罩(subnet mask)？",
+    "options": [
+      "(1) 255.255.224.0",
+      "(2) 255.255.192.0",
+      "(3) 255.255.0.0",
+      "(4) 255.192.0.0"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "602",
+    "s_num": "2-360",
+    "type": "複選題",
+    "question": "在網路環境中使用UTP纜線有那些優點？",
+    "options": [
+      "(1) 比光纖便宜",
+      "(2) 比同軸線容易安裝",
+      "(3) 提供比同軸線長的距離",
+      "(4) 比光纖較不易受外界雜訊的影響"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "603",
+    "s_num": "2-361",
+    "type": "複選題",
+    "question": "使用光纖佈線來代替UTP纜線有那些優點？",
+    "options": [
+      "(1) 低成本",
+      "(2) 容易安裝",
+      "(3) 允許更長距離",
+      "(4) 較不受外界訊號的影響"
+    ],
+    "answer": "34"
+  },
+  {
+    "id": "604",
+    "s_num": "2-362",
+    "type": "複選題",
+    "question": "有線網路佈線需考慮那些因素？",
+    "options": [
+      "(1) 作業系統",
+      "(2) CPU的速度",
+      "(3) 纜線佈線距離",
+      "(4) 傳輸速度"
+    ],
+    "answer": "34"
+  },
+  {
+    "id": "605",
+    "s_num": "2-363",
+    "type": "複選題",
+    "question": "那些可用來當作網路通訊的傳輸訊號？",
+    "options": [
+      "(1) 光樣式(Light Patterns)",
+      "(2) 電壓(Electrical Voltages)",
+      "(3) 調變的電磁波(Modulated Electromagnetic Waves)",
+      "(4) 磁化的流體波(Magnetized Fluid Waves)"
+    ],
+    "answer": "123"
+  },
+  {
+    "id": "606",
+    "s_num": "2-364",
+    "type": "複選題",
+    "question": "關於集線器(Hub)和交換器(Switch)之敘述何者正確？",
+    "options": [
+      "(1) 交換器提供到LAN主機的更多流通量",
+      "(2) 交換器提供LAN上的無碰撞環境",
+      "(3) 集線器運作在OSI模式的第3層",
+      "(4) 集線器減少LAN上的碰撞數目"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "607",
+    "s_num": "2-365",
+    "type": "複選題",
+    "question": "那些網路設備使用MAC位址來作轉送路徑的選擇？",
+    "options": [
+      "(1) Bridge",
+      "(2) Switch",
+      "(3) NIC",
+      "(4) Hub"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "608",
+    "s_num": "2-366",
+    "type": "複選題",
+    "question": "那些設備用以再生資料訊號，主要用來延伸在碰撞領域內網路線的區段？",
+    "options": [
+      "(1) Repeater",
+      "(2) Switch Hub",
+      "(3) Router",
+      "(4) Bridge"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "609",
+    "s_num": "2-367",
+    "type": "複選題",
+    "question": "那些情況發生時需要安裝新的NIC？",
+    "options": [
+      "(1) NIC壞掉",
+      "(2) 需要提供第二個或備份的NIC時",
+      "(3) 從有線媒介改成無線時",
+      "(4) PC移動到不同的地點時"
+    ],
+    "answer": "123"
+  },
+  {
+    "id": "610",
+    "s_num": "2-368",
+    "type": "複選題",
+    "question": "位元組(Byte)的敘述何者正確？",
+    "options": [
+      "(1) 8個二進位數的群組",
+      "(2) 可當作計算機架構的定址單位(Byte Addressing)",
+      "(3) 電腦資料的最小單位",
+      "(4) 0到128的數值範圍"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "611",
+    "s_num": "2-369",
+    "type": "複選題",
+    "question": "那些是TCP/IP模式的分層？",
+    "options": [
+      "(1) 應用層(Application)",
+      "(2) 實體層(Physical)",
+      "(3) 網際網路層(Internet)",
+      "(4) 網路存取層(Network Access)"
+    ],
+    "answer": "134"
+  },
+  {
+    "id": "612",
+    "s_num": "2-370",
+    "type": "複選題",
+    "question": "關於資料鏈結層(Data Link Layer)封裝的敘述何者正確？",
+    "options": [
+      "(1) 會加上表頭(Header)和表尾(Trailer)",
+      "(2) 資料轉換成封包(Packets)",
+      "(3) 封包(Packets)被包裹成訊框(Frames)",
+      "(4) 訊框(Frames)被分成區段(Segments)"
+    ],
+    "answer": "13"
+  },
+  {
+    "id": "613",
+    "s_num": "2-371",
+    "type": "複選題",
+    "question": "那些是量測網路頻寬的單位？",
+    "options": [
+      "(1) Kbps",
+      "(2) Mbps",
+      "(3) Gbps",
+      "(4) Nbps"
+    ],
+    "answer": "123"
+  },
+  {
+    "id": "614",
+    "s_num": "2-372",
+    "type": "複選題",
+    "question": "那些為決定網路流通量(Throughput)的因素？",
+    "options": [
+      "(1) 網路拓樸",
+      "(2) 網路上使用者的數目",
+      "(3) 伺服器使用的密碼種類",
+      "(4) 網路線的直徑"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "615",
+    "s_num": "2-373",
+    "type": "複選題",
+    "question": "何者不是Telnet指令所提供之功能？",
+    "options": [
+      "(1) 遠端登入",
+      "(2) 電子郵件服務",
+      "(3) 檔案傳輸服務",
+      "(4) 電傳視訊"
+    ],
+    "answer": "234"
+  },
+  {
+    "id": "616",
+    "s_num": "2-374",
+    "type": "複選題",
+    "question": "何者是「網路」所使用的通訊協定？",
+    "options": [
+      "(1) Ajax",
+      "(2) TCP/IP",
+      "(3) IPX/SPX",
+      "(4) JSP"
+    ],
+    "answer": "23"
+  },
+  {
+    "id": "617",
+    "s_num": "2-375",
+    "type": "複選題",
+    "question": "預設情況下，Dreamweaver提供的跑馬燈功能，可以設定那些效果？",
+    "options": [
+      "(1) 文字捲動的速度",
+      "(2) 改變跑馬燈的背景顏色",
+      "(3) 文字來回捲動的次數",
+      "(4) 動態變更文字內容"
+    ],
+    "answer": "123"
+  },
+  {
+    "id": "618",
+    "s_num": "2-376",
+    "type": "複選題",
+    "question": "網頁版面設計的方式有那些？",
+    "options": [
+      "(1) div",
+      "(2) iframe",
+      "(3) frame",
+      "(4) meta"
+    ],
+    "answer": "123"
+  },
+  {
+    "id": "619",
+    "s_num": "2-377",
+    "type": "複選題",
+    "question": "何者可作為網頁編輯軟體？",
+    "options": [
+      "(1) SharePoint",
+      "(2) Dreamweaver",
+      "(3) Notepad",
+      "(4) Paint"
+    ],
+    "answer": "123"
+  },
+  {
+    "id": "620",
+    "s_num": "2-378",
+    "type": "複選題",
+    "question": "內容管理系統(Content Management System, CMS)常用來製作入口網站，何者屬於CMS？",
+    "options": [
+      "(1) XOOPS",
+      "(2) Sleipnir",
+      "(3) Manbo",
+      "(4) PHP-Nuke"
+    ],
+    "answer": "134"
+  },
+  {
+    "id": "621",
+    "s_num": "2-379",
+    "type": "複選題",
+    "question": "何者屬於TCP/IP網路模型之應用層協定？",
+    "options": [
+      "(1) ICMP",
+      "(2) SMTP",
+      "(3) Telnet",
+      "(4) FTP"
+    ],
+    "answer": "234"
+  },
+  {
+    "id": "622",
+    "s_num": "2-380",
+    "type": "複選題",
+    "question": "網頁表單處理程式可以使用何種語言來撰寫？",
+    "options": [
+      "(1) ASP",
+      "(2) PHP",
+      "(3) JSP",
+      "(4) FORTRAN"
+    ],
+    "answer": "123"
+  },
+  {
+    "id": "623",
+    "s_num": "2-381",
+    "type": "複選題",
+    "question": "何者同時具備網頁製作及網站管理的功能？",
+    "options": [
+      "(1) Dreamweaver",
+      "(2) SharePoint",
+      "(3) Firework",
+      "(4) Flash"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "624",
+    "s_num": "2-382",
+    "type": "複選題",
+    "question": "設計網頁表單時，何種控制項為選項之應用？",
+    "options": [
+      "(1) radio",
+      "(2) combobox",
+      "(3) textarea",
+      "(4) checkbox"
+    ],
+    "answer": "14"
+  },
+  {
+    "id": "625",
+    "s_num": "2-383",
+    "type": "複選題",
+    "question": "何種HTML語法標籤(Tag)與文字格式設定有關？",
+    "options": [
+      "(1) ＜b＞",
+      "(2) ＜i＞",
+      "(3) ＜href＞",
+      "(4) ＜hr＞"
+    ],
+    "answer": "12"
   }
+
 ]
