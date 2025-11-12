@@ -1,0 +1,158 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          { "type": "text", "text": "SELECT：基本查詢骨架", "weight": "bold", "size": "md", "wrap": true },
+          { "type": "text", "text": "SQL", "size": "xs", "color": "#888888" }
+        ],
+        "paddingAll": "12px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          { "type": "text", "text": "最基本的查詢語法，用來從資料表中取出資料。", "size": "sm", "wrap": true },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#1e1e1e",
+            "cornerRadius": "8px",
+            "paddingAll": "10px",
+            "borderColor": "#444444",
+            "borderWidth": "1px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "SELECT column1, column2\nFROM table_name;",
+                "wrap": true,
+                "size": "sm",
+                "color": "#dcdcdc",
+                "weight": "regular",
+                "style": "italic"
+              }
+            ]
+          },
+          { "type": "text", "text": "Q: 查詢整個資料表的語法是 SELECT ______ FROM table_name。", "size": "sm", "wrap": true, "margin": "md" }
+        ],
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          { "type": "text", "text": "若要查詢全部欄位可用 * 取代欄位名稱。", "size": "xs", "color": "#888888", "wrap": true }
+        ],
+        "paddingAll": "10px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          { "type": "text", "text": "SELECT + WHERE：條件查詢", "weight": "bold", "size": "md", "wrap": true },
+          { "type": "text", "text": "SQL", "size": "xs", "color": "#888888" }
+        ],
+        "paddingAll": "12px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          { "type": "text", "text": "使用 WHERE 過濾只符合條件的資料列。", "size": "sm", "wrap": true },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#1e1e1e",
+            "cornerRadius": "8px",
+            "paddingAll": "10px",
+            "borderColor": "#444444",
+            "borderWidth": "1px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "SELECT name, age\nFROM students\nWHERE age >= 18;",
+                "wrap": true,
+                "size": "sm",
+                "color": "#dcdcdc",
+                "weight": "regular",
+                "style": "italic"
+              }
+            ]
+          },
+          { "type": "text", "text": "Q: 使用 ______ 子句可限制查詢結果。", "size": "sm", "wrap": true, "margin": "md" }
+        ],
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          { "type": "text", "text": "WHERE 可搭配 >、<、=、AND、OR、LIKE 等運算子。", "size": "xs", "color": "#888888", "wrap": true }
+        ],
+        "paddingAll": "10px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          { "type": "text", "text": "SELECT + ORDER BY：排序結果", "weight": "bold", "size": "md", "wrap": true },
+          { "type": "text", "text": "SQL", "size": "xs", "color": "#888888" }
+        ],
+        "paddingAll": "12px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          { "type": "text", "text": "依指定欄位升冪或降冪排序查詢結果。", "size": "sm", "wrap": true },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#1e1e1e",
+            "cornerRadius": "8px",
+            "paddingAll": "10px",
+            "borderColor": "#444444",
+            "borderWidth": "1px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "SELECT name, score\nFROM students\nORDER BY score DESC;",
+                "wrap": true,
+                "size": "sm",
+                "color": "#dcdcdc",
+                "weight": "regular",
+                "style": "italic"
+              }
+            ]
+          },
+          { "type": "text", "text": "Q: 要讓成績由高到低排序，用 ORDER BY score ______。", "size": "sm", "wrap": true, "margin": "md" }
+        ],
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          { "type": "text", "text": "預設為 ASC（由小到大），加 DESC 改為降冪。", "size": "xs", "color": "#888888", "wrap": true }
+        ],
+        "paddingAll": "10px"
+      }
+    }
+  ]
+}

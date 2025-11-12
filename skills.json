@@ -1,0 +1,53 @@
+{
+    "version": "1.0",
+    "cards": [
+        {
+            "id": "sql.select.basic",
+            "type": "sql",
+            "title": "SELECT：基本查詢骨架",
+            "hint": "最基本的查詢語法，用來從資料表中取出資料。",
+            "snippet": "SELECT column1, column2\nFROM table_name;",
+            "note": "若要查詢全部欄位可用 * 取代欄位名稱。",
+            "quiz": {
+                "type": "cloze",
+                "q": "查詢整個資料表的語法是 SELECT ______ FROM table_name。"
+            }
+        },
+        {
+            "id": "sql.select.where",
+            "type": "sql",
+            "title": "SELECT + WHERE：條件查詢",
+            "hint": "使用 WHERE 過濾只符合條件的資料列。",
+            "snippet": "SELECT name, age\nFROM students\nWHERE age >= 18;",
+            "note": "WHERE 後面可以用 >、<、=、AND、OR、LIKE 等條件運算。",
+            "quiz": {
+                "type": "cloze",
+                "q": "使用 ______ 子句可限制查詢結果。"
+            }
+        },
+        {
+            "id": "sql.select.orderby",
+            "type": "sql",
+            "title": "SELECT + ORDER BY：排序結果",
+            "hint": "依指定欄位升冪或降冪排序查詢結果。",
+            "snippet": "SELECT name, score\nFROM students\nORDER BY score DESC;",
+            "note": "預設為 ASC（由小到大），可加 DESC 改為降冪。",
+            "quiz": {
+                "type": "cloze",
+                "q": "要讓成績由高到低排序，用 ORDER BY score ______。"
+            }
+        },
+        {
+            "id": "sql.select.limit",
+            "type": "sql",
+            "title": "SELECT + LIMIT：限制筆數",
+            "hint": "用 LIMIT 限制查詢結果的筆數，常用於測試或取前幾筆資料。",
+            "snippet": "SELECT name, score\nFROM students\nORDER BY score DESC\nLIMIT 3;\n-- 取前 3 筆\n\nSELECT name, score\nFROM students\nORDER BY score DESC\nLIMIT 0, 5;\n-- 從第 0 筆開始取 5 筆（相當於前 5 筆）",
+            "note": "LIMIT 可用兩種寫法：LIMIT <筆數> 或 LIMIT <起點>, <筆數>。例如 LIMIT 0,5 代表從第 0 筆開始取 5 筆。可搭配 OFFSET 寫法：LIMIT 5 OFFSET 10。",
+            "quiz": {
+                "type": "cloze",
+                "q": "若只想顯示前 5 筆資料，可在查詢最後加上 ______ 5。"
+            }
+        }
+    ]
+}
