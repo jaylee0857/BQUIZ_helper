@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "1",
+    "s_num": "1-1",
+    "question": "國家通訊傳播委員會(NCC)頒訂網站無障礙規範2.0版共分為幾個檢測等級？",
+    "options": ["①3個", "②4個", "③5個", "④6個"],
+    "answer": "1"
+  },
+  {
+    "id": "2",
+    "s_num": "1-2",
+    "question": "國家通訊傳播委員會(NCC)頒訂網站無障礙規範2.0版不含何檢測等級？",
+    "options": ["①A", "②A+", "③AA", "④AAA"],
+    "answer": "4"
+  },
+  {
+    "id": "3",
+    "s_num": "1-3",
+    "question": "色彩配色有分加色及減色混合，色光的三原色為何？",
+    "options": ["①黃、白、紅", "②紅、黃、綠", "③紅、綠、藍", "④紅、黃、紫"],
+    "answer": "3"
+  },
+  {
+    "id": "4",
+    "s_num": "1-4",
+    "question": "色彩的色相、明度及彩度合稱為何？",
+    "options": ["①三原色", "②三屬性", "③三色系", "④三色立體"],
+    "answer": "2"
+  },
+  {
+    "id": "5",
+    "s_num": "1-5",
+    "question": "色彩屬性的飽和程度或純度稱之為何？",
+    "options": ["①色相", "②明度", "③彩度", "④色環"],
+    "answer": "3"
+  },
+  {
+    "id": "6",
+    "s_num": "1-6",
+    "question": "色彩屬性的明暗程度稱之為何？",
+    "options": ["①色相", "②明度", "③彩度", "④色調"],
+    "answer": "2"
+  },
+  {
+    "id": "7",
+    "s_num": "1-7",
+    "question": "色彩三屬性進行有系統地排列，形成三度空間的結構稱之為何？",
+    "options": ["①色環", "②色立體", "③色相", "④三原色"],
+    "answer": "2"
+  },
+  {
+    "id": "8",
+    "s_num": "1-8",
+    "question": "色彩配色中，色光混色又稱之為何？",
+    "options": ["①平均混色", "②互補混色", "③加法混色", "④減法混色"],
+    "answer": "3"
+  },
+  {
+    "id": "9",
+    "s_num": "1-9",
+    "question": "色彩配色中，色料混色又稱之為何？",
+    "options": ["①平均混色", "②互補混色", "③加法混色", "④減法混色"],
+    "answer": "4"
+  },
+  {
+    "id": "10",
+    "s_num": "1-10",
+    "question": "會讓人有溫暖感覺的顏色為何？",
+    "options": ["①藍色", "②橙色", "③紫色", "④綠色"],
+    "answer": "2"
+  },
+  {
+    "id": "11",
+    "s_num": "1-11",
+    "question": "會讓人有寒冷感覺的顏色為何？",
+    "options": ["①紅色", "②橙色", "③黃色", "④藍色"],
+    "answer": "4"
+  },
+  {
+    "id": "12",
+    "s_num": "1-12",
+    "question": "影像處理軟體中，影像圖檔的色彩表示有RGB及CMYK色系，其中CMYK的「Y」表示為何？",
+    "options": ["①黑色", "②黃色", "③青色", "④洋紅色"],
+    "answer": "2"
+  },
+  {
+    "id": "13",
+    "s_num": "1-13",
+    "question": "電腦文字的字型有很多種，PostScript字型屬於何種？",
+    "options": ["①點陣字型", "②螢幕字型", "③向量字型", "④描述字型"],
+    "answer": "3"
+  },
+  {
+    "id": "14",
+    "s_num": "1-14",
+    "question": "影像處理軟體中，運用色彩選擇工具取得RGB值為(0,0,0)，其顯示的顏色為何？",
+    "options": ["①黑色", "②白色", "③灰色", "④紅色"],
+    "answer": "1"
+  },
+  {
+    "id": "15",
+    "s_num": "1-15",
+    "question": "256色的GIF圖檔，使用多少位元(bits)來表示索引？",
+    "options": ["①8", "②16", "③24", "④32"],
+    "answer": "1"
+  },
+  {
+    "id": "16",
+    "s_num": "1-16",
+    "question": "全彩的圖片每個像素至少使用多少位元(bits)來表示？",
+    "options": ["①8", "②16", "③24", "④32"],
+    "answer": "3"
+  },
+  {
+    "id": "17",
+    "s_num": "1-17",
+    "question": "在設計幾何上，點的絕對定義為何？",
+    "options": ["①有位置", "②有長度", "③有大小", "④有寬度"],
+    "answer": "1"
+  },
+  {
+    "id": "18",
+    "s_num": "1-18",
+    "question": "設計美學中，設計構成要素最小單位為何？",
+    "options": ["①點", "②線", "③面", "④體"],
+    "answer": "1"
+  },
+  {
+    "id": "19",
+    "s_num": "1-19",
+    "question": "設計美學中，圓、橢圓及拋物線為何種曲線？",
+    "options": ["①幾何直線", "②自由曲線", "③徒手曲線", "④幾何曲線"],
+    "answer": "4"
+  },
+  {
+    "id": "20",
+    "s_num": "1-20",
+    "question": "設計原理中，以中央設一縱軸，而左右或上下完全同形，稱之為何？",
+    "options": ["①律動", "②漸層", "③對稱", "④對比"],
+    "answer": "3"
+  },
+  {
+    "id": "21",
+    "s_num": "1-21",
+    "question": "何種網頁設計技術可使頁面具有統一的外觀？",
+    "options": ["①CSS", "②URL", "③HTML", "④DHTML"],
+    "answer": "1"
+  },
+  {
+    "id": "22",
+    "s_num": "1-22",
+    "question": "數位影像解析度的單位ppi是何種英文的縮寫？",
+    "options": ["①Pica Per Inch", "②Point Per Inch", "③Pixel Per Inch", "④Pixel Per Image"],
+    "answer": "3"
+  },
+  {
+    "id": "23",
+    "s_num": "1-23",
+    "question": "何者不是國家通訊傳播委員會(NCC)頒訂網站無障礙規範2.0版「可感知原則」的指引？",
+    "options": ["①防痙攣", "②替代文字", "③時序媒體", "④可辨識"],
+    "answer": "1"
+  },
+  {
+    "id": "24",
+    "s_num": "1-24",
+    "question": "何者不是國家通訊傳播委員會(NCC)頒訂網站無障礙規範2.0版「可操作原則」的指引？",
+    "options": ["①替代文字", "②鍵盤可操作", "③充足時間", "④可導覽"],
+    "answer": "1"
+  },
+  {
+    "id": "25",
+    "s_num": "1-25",
+    "question": "何者不是國家通訊傳播委員會(NCC)頒訂網站無障礙規範2.0版「可理解原則」的指引？",
+    "options": ["①相容性", "②可讀性", "③可預期性", "④輸入協助"],
+    "answer": "1"
+  },
+  {
+    "id": "26",
+    "s_num": "1-26",
+    "question": "目前TCP已定義埠（Well-Known Port）之分布範圍為下列何者？",
+    "options": ["①0～127", "②0～255", "③0～511", "④0～1023"],
+    "answer": "4"
+  },
+  {
+    "id": "27",
+    "s_num": "1-27",
+    "question": "關於HTML與XML之敘述何者正確？",
+    "options": ["①XML主要用來加強HTML之網頁編排能力", "②XML標籤可與HTML標籤混合使用", "③XML具有可擴充之特性", "④XML文件之結果可直接在瀏覽器中顯示出來"],
+    "answer": "3"
+  },
+  {
+    "id": "28",
+    "s_num": "1-28",
+    "question": "Web架構可分為伺服端(Server Site)與客戶端(Client Site)，其兩者間的通訊係透過何種協定來完成？",
+    "options": ["①HTTP", "②FTP", "③TELNET", "④SMTP"],
+    "answer": "1"
+  },
+  {
+    "id": "29",
+    "s_num": "1-29",
+    "question": "何者可用來控制網頁顯示資料的格式？",
+    "options": ["①Script", "②XML", "③CSS", "④CGI"],
+    "answer": "3"
+  },
+  {
+    "id": "30",
+    "s_num": "1-30",
+    "question": "何者最不適合作為網頁編輯器？",
+    "options": ["①Dreamweaver", "②BlueGriffon", "③Cool Editor", "④Visual Studio Code"],
+    "answer": "3"
+  },
+  {
+    "id": "31",
+    "s_num": "1-31",
+    "question": "何者為CSS之全名？",
+    "options": ["①College Scholarship Service", "②Cascading Style Sheets", "③Communication Style Sheets", "④Computer Serial Sheets"],
+    "answer": "2"
+  },
+  {
+    "id": "32",
+    "s_num": "1-32",
+    "question": "首頁設計準則中，為了要準確傳達網站設計的意圖，較正確之概念為何？",
+    "options": ["①首頁中涵蓋一段詳實完整的副標來說明網站或公司性質", "②首頁中使用艱澀性的標題文字來吸引瀏覽者目光", "③首頁左上方放置組織名稱或標誌比放置在右下方來得恰當", "④為了讓資訊透明化，內部資料亦應開誠佈公地公布在網站中"],
+    "answer": "3"
+  },
+  {
+    "id": "33",
+    "s_num": "1-33",
+    "question": "企業首頁設計準則中，內文的書寫要領，較不正確之概念為何？",
+    "options": ["①不使用艱澀的成語或行銷術語", "②儘量避免內文重複", "③為了隱密性，內部機密資料可公布在網站較不明顯的地方", "④若網站無法清楚地顯示營利來源，就必須說明如何創造企業價值"],
+    "answer": "3"
+  },
+  {
+    "id": "34",
+    "s_num": "1-34",
+    "question": "對於一個Well-formed之XML文件的敘述何者不正確？",
+    "options": ["①有開始標籤(Tag)必定要有結束標籤，否則要用空標籤", "②各組標籤之間不可交錯", "③至少要具備DTD或XML Schema", "④屬性值可加可不加引號"],
+    "answer": "4"
+  },
+  {
+    "id": "35",
+    "s_num": "1-35",
+    "question": "關於XML文件的設計目標何者不正確？",
+    "options": ["①可直接在網路上使用", "②目前尚無法運用在應用程式中", "③XML文件的程式應讓設計者容易撰寫", "④XML文件應讓人直接閱讀，並能清楚的被理解"],
+    "answer": "2"
+  },
+  {
+    "id": "36",
+    "s_num": "1-36",
+    "question": "何者是XML文件的資料查詢語言？",
+    "options": ["①Query", "②jQuery", "③XQuery", "④SQL"],
+    "answer": "3"
+  },
+  {
+    "id": "37",
+    "s_num": "1-37",
+    "question": "Windows作業系統桌面上的捷徑敘述何者正確？",
+    "options": ["①是該程式的一部份不可刪除", "②是一個連結用的檔案，遺失可以再建立", "③是視窗系統中的重要物件，不可被破壞", "④是程式主體不可刪除"],
+    "answer": "2"
+  },
+  {
+    "id": "38",
+    "s_num": "1-38",
+    "question": "要移除在Windows作業系統中的套裝軟體，要如何處理最適當？",
+    "options": ["①直接刪除該套裝軟體的資料夾", "②利用控制台的「新增/移除程式」或該套裝軟體的反安裝程式", "③刪除桌面上的捷徑即可", "④刪除程式集中的選項即可"],
+    "answer": "2"
+  },
+  {
+    "id": "39",
+    "s_num": "1-39",
+    "question": "要離開Windows作業系統並關機，何種方式才為正確操作方式？",
+    "options": ["①按PC上的Reset鍵", "②關閉PC的插座電源", "③使用開始功能表的關機功能", "④拔掉電源插頭"],
+    "answer": "3"
+  },
+  {
+    "id": "40",
+    "s_num": "1-40",
+    "question": "在Windows作業系統中，按什麼鍵可以把目前的螢幕畫面擷取下來？",
+    "options": ["①Print Screen鍵", "②Pause Break鍵", "③Insert鍵", "④Wake鍵"],
+    "answer": "1"
+  },
+  {
+    "id": "41",
+    "s_num": "1-41",
+    "question": "在Windows作業系統中，如何使用鍵盤在應用程式之間切換？",
+    "options": ["①Alt+Tab鍵", "②靠上面12個功能鍵", "③利用右邊數字鍵", "④按亮Scroll Lock燈"],
+    "answer": "1"
+  },
+  {
+    "id": "42",
+    "s_num": "1-42",
+    "question": "在Windows作業系統中，欲結束命令提示字元視窗，可執行那一個命令或按鍵？",
+    "options": ["①quit", "②exit", "③Alt+Enter", "④Esc"],
+    "answer": "2"
+  },
+  {
+    "id": "43",
+    "s_num": "1-43",
+    "question": "如何才能讓鍵盤右邊的數字鍵順利輸出數字？",
+    "options": ["①使用[Shift]鍵切換", "②使用[Caps Lock]鍵切換", "③使用[Num Lock]鍵切換", "④使用[Scroll Lock]鍵切換"],
+    "answer": "3"
+  },
+  {
+    "id": "44",
+    "s_num": "1-44",
+    "question": "相同的圖片在那一個螢幕解析度中看起來最小？",
+    "options": ["①800×600", "②640×480", "③1280×960", "④1024×768"],
+    "answer": "3"
+  },
+  {
+    "id": "45",
+    "s_num": "1-45",
+    "question": "圖形介面的作業環境中，何種色彩設定最不可能使用？",
+    "options": ["①8 bits的256色", "②24bits的全彩", "③16bits的高彩", "④4bits的16色"],
+    "answer": "4"
+  },
+  {
+    "id": "46",
+    "s_num": "1-46",
+    "question": "印表機買回來插好連接線和電源後不能正常使用，其原因最可能為何？",
+    "options": ["①還要安裝驅動程式", "②印表機太好", "③印表機太差", "④等級不合"],
+    "answer": "1"
+  },
+  {
+    "id": "47",
+    "s_num": "1-47",
+    "question": "在Windows作業系統中，若在視窗的標題欄上連按滑鼠左鍵二下，可完成那一個操作？",
+    "options": ["①將視窗最小化", "②移動視窗位置", "③關閉視窗", "④將視窗最大化或還原成原來大小"],
+    "answer": "4"
+  },
+  {
+    "id": "48",
+    "s_num": "1-48",
+    "question": "資料庫系統包含那四個主要元件？",
+    "options": ["①資料、軟體、硬體、使用者", "②資料、軟體、硬體、管理者", "③資料、軟體、使用者、管理者", "④軟體、硬體、使用者、管理者"],
+    "answer": "1"
+  },
+  {
+    "id": "49",
+    "s_num": "1-49",
+    "question": "資料庫系統中的使用者操作介面由何者負責撰寫？",
+    "options": ["①資料庫設計者", "②資料庫管理者", "③應用程式設計者", "④一般使用者"],
+    "answer": "3"
+  },
+  {
+    "id": "50",
+    "s_num": "1-50",
+    "question": "何種架構的資料庫是將資料以表格的方式儲存，並利用表格之間的關聯性來查詢相關資料？",
+    "options": ["①階層式資料庫", "②關聯式資料庫", "③表格式資料庫", "④物件導向式資料庫"],
+    "answer": "2"
+  },
+    {
+    "id": "51",
+    "s_num": "1-51",
+    "question": "何種資料庫的架構是將管理及存取資料的工作集中由大型主機管理，使用者端只能從大型主機中取得，並無任何處理的能力？",
+    "options": ["①單機架構", "②主從式架構", "③分散式架構", "④大型主機/終端機架構"],
+    "answer": "4"
+  },
+  {
+    "id": "52",
+    "s_num": "1-52",
+    "question": "何者不是資料庫管理系統應具備的基本功能？",
+    "options": ["①資料定義", "②資料處理", "③儲存資料", "④效能維護"],
+    "answer": "3"
+  },
+  {
+    "id": "53",
+    "s_num": "1-53",
+    "question": "要在資料庫中新增一個欄位來儲存同學的姓名，則應該要將資料設定為何種類型？",
+    "options": ["①查閱精靈", "②文字", "③超連結", "④備忘"],
+    "answer": "2"
+  },
+  {
+    "id": "54",
+    "s_num": "1-54",
+    "question": "數字資料的範圍介於 -100 到 100 之間，則選擇何種數字型態較適合？",
+    "options": ["①位元組", "②整數", "③長整數", "④小數"],
+    "answer": "2"
+  },
+  {
+    "id": "55",
+    "s_num": "1-55",
+    "question": "欲加快資料搜尋及排序的速度，可在資料表中經常搜尋或排序的欄位上做何種設定？",
+    "options": ["①目錄", "②索引", "③查詢", "④標記"],
+    "answer": "2"
+  },
+  {
+    "id": "56",
+    "s_num": "1-56",
+    "question": "假設學生實體中有一個地址屬性，為了方便區分，又將它再細分為城市及街道名...等屬性，則此類屬性稱之為何？",
+    "options": ["①子類型", "②推導屬性", "③鍵屬性", "④複合屬性"],
+    "answer": "4"
+  },
+  {
+    "id": "57",
+    "s_num": "1-57",
+    "question": "Microsoft Access 要在一個資料表中新增一個電子郵件欄位，當雙按該欄位的內容會開啟郵件編輯器，則應該要將該欄位設定為何種資料類型？",
+    "options": ["①查閱精靈", "②文字", "③超連結", "④備忘"],
+    "answer": "3"
+  },
+  {
+    "id": "58",
+    "s_num": "1-58",
+    "question": "Microsoft Access 資料表未設定排序時，預設的排列順序會依照何者來排序？",
+    "options": ["①主鍵", "②索引", "③查詢", "④目錄"],
+    "answer": "1"
+  },
+  {
+    "id": "59",
+    "s_num": "1-59",
+    "question": "Microsoft Access 用來儲存產品定價的欄位，則該欄位應設定為那一種資料類型較適當？",
+    "options": ["①自動編號", "②數字", "③貨幣", "④文字"],
+    "answer": "3"
+  },
+  {
+    "id": "60",
+    "s_num": "1-60",
+    "question": "Microsoft Access 中，若要一次將不相鄰的 3 個欄位設為主鍵，可利用何鍵來輔助選取？",
+    "options": ["①Alt", "②Ctrl", "③Tab", "④Space"],
+    "answer": "2"
+  },
+  {
+    "id": "61",
+    "s_num": "1-61",
+    "question": "Microsoft Access 中，假設資料表有一個欄位在新增資料時能自動編號，則該欄位應設定為何種資料類型？",
+    "options": ["①自動編號", "②數字", "③貨幣", "④文字"],
+    "answer": "1"
+  },
+  {
+    "id": "62",
+    "s_num": "1-62",
+    "question": "按下 Microsoft Access 索引鈕，會出現索引交談窗，若「忽略 Null 的值」設為「是」，則代表何種意思？",
+    "options": ["①索引會忽略該欄位的空值記錄", "②索引會直接跳過該欄位，不予理會", "③索引不會排除此空值記錄", "④會忽略所有打錯的記錄"],
+    "answer": "1"
+  },
+  {
+    "id": "63",
+    "s_num": "1-63",
+    "question": "Microsoft Access 中，何項功能可以將資料庫上傳到 SQL Server？",
+    "options": ["①連結資料表管理員", "②切換表單管理員", "③SQL 轉換精靈", "④資料轉換精靈"],
+    "answer": "3"
+  },
+  {
+    "id": "64",
+    "s_num": "1-64",
+    "question": "若通訊傳輸速率為 1200 bps，在不考慮其他影響因素下，每分鐘可傳輸多少位元組？",
+    "options": ["①9000", "②72000", "③15000", "④12000"],
+    "answer": "1"
+  },
+  {
+    "id": "65",
+    "s_num": "1-65",
+    "question": "國際標準組織(ISO)的 OSI 通訊協定，負責資料加密和壓縮的是那一層？",
+    "options": ["①網路層", "②傳輸層", "③資料鏈結層", "④展示層"],
+    "answer": "4"
+  },
+  {
+    "id": "66",
+    "s_num": "1-66",
+    "question": "何種網路的拓撲型態，當有一部電腦故障時，網路的資料通訊最不會受到影響？",
+    "options": ["①星狀式(Star)", "②環狀式(Circle)", "③網狀式(Mesh)", "④匯流排式(Bus)"],
+    "answer": "3"
+  },
+  {
+    "id": "67",
+    "s_num": "1-67",
+    "question": "關於資料通訊之錯誤檢驗何者較佳？",
+    "options": ["①vertical redundancy check", "②longitudinal redundancy check", "③cyclic redundancy", "④parity check"],
+    "answer": "3"
+  },
+  {
+    "id": "68",
+    "s_num": "1-68",
+    "question": "企業內之虛擬 IP 轉換為實體 IP 對外溝通時，需架設何種服務？",
+    "options": ["①DHCP", "②WINS", "③NAT", "④IIS"],
+    "answer": "3"
+  },
+  {
+    "id": "69",
+    "s_num": "1-69",
+    "question": "何種協定提供 WWW 傳送資料時有加密的功能？",
+    "options": ["①X.509", "②IPX", "③SSL", "④H.323"],
+    "answer": "3"
+  },
+  {
+    "id": "70",
+    "s_num": "1-70",
+    "question": "中繼器(Repeater)之用途為何？",
+    "options": ["①增強訊號用來延長網路傳輸距離", "②用來過濾掉已毀損的資料", "③可以連接兩種不同存取方法的不同網路架構", "④進行路徑(Path)選擇"],
+    "answer": "1"
+  },
+  {
+    "id": "71",
+    "s_num": "1-71",
+    "question": "網段無法 ping 到其他網段時，可利用何種指令來新增封包傳送的路徑？",
+    "options": ["①netstat -nr", "②route add", "③net view", "④route print"],
+    "answer": "2"
+  },
+  {
+    "id": "72",
+    "s_num": "1-72",
+    "question": "IP(Internet Protocol) 是何種類型的通訊協定？",
+    "options": ["①Connection-Oriented", "②Application-Level", "③Connectionless", "④Media-Access Control"],
+    "answer": "3"
+  },
+  {
+    "id": "73",
+    "s_num": "1-73",
+    "question": "TCP(Transmission Control Protocol) 是何種類型的通訊協定？",
+    "options": ["①Connection-Oriented", "②Application-Level", "③Connectionless", "④Media-Access Control"],
+    "answer": "1"
+  },
+  {
+    "id": "74",
+    "s_num": "1-74",
+    "question": "欲使 Windows 系統存取 Linux 主機中的檔案，在 Linux 端至少需要何種伺服器之服務？",
+    "options": ["①FTP", "②HTTP", "③POSTFIX", "④SAMBA"],
+    "answer": "4"
+  },
+  {
+    "id": "75",
+    "s_num": "1-75",
+    "question": "何種同步光纖網路(Synchronous Optical Network)之傳輸速率為 159.252480 Gbps？",
+    "options": ["①OC-6144", "②OC-768", "③OC-1536", "④OC-3072"],
+    "answer": "4"
+  },
+  {
+    "id": "76",
+    "s_num": "1-76",
+    "question": "關於網路訊框傳送(Frame Relay)提供了何種功能，可在設定永久虛擬連線(Permanent Virtual Circuit)時，即設定保證提供的頻寬？",
+    "options": ["①約定資訊速率(Committed Information Rate)", "②同步光纖網路(Synchronous Optical Network)", "③封包交換(Packet Switching)", "④分時多工(Time Division Multiplexing)"],
+    "answer": "1"
+  },
+  {
+    "id": "77",
+    "s_num": "1-77",
+    "question": "區域網路的封包要轉換成訊框傳送，需使用何種裝置？",
+    "options": ["①MODEM(Modulation Demodulation)", "②同步光纖網路(Synchronous Optical Network)", "③封包交換(Packet Switching)", "④FRAD(Frame Relay Assembler/Disassembler)"],
+    "answer": "4"
+  },
+  {
+    "id": "78",
+    "s_num": "1-78",
+    "question": "ATM(Asynchronous Transfer Mode) 網路中，終端的個人電腦與交換器必須透過何種介面來連線？",
+    "options": ["①AUI", "②PCI", "③UNI", "④NNI"],
+    "answer": "3"
+  },
+  {
+    "id": "79",
+    "s_num": "1-79",
+    "question": "ATM(Asynchronous Transfer Mode) 網路中，交換器與交換器之間必須透過何種介面來連線？",
+    "options": ["①AUI", "②PCI", "③UNI", "④NNI"],
+    "answer": "4"
+  },
+  {
+    "id": "80",
+    "s_num": "1-80",
+    "question": "關於 ISO 網路之 OSI 的七層架構中，何者是負責提供兩個 users 使用約定的通訊品質來傳送資料？",
+    "options": ["①Data Link Layer", "②Session Layer", "③Presentation Layer", "④Transport Layer"],
+    "answer": "4"
+  },
+  {
+    "id": "81",
+    "s_num": "1-81",
+    "question": "網路中將欲傳輸的資料先進行壓縮，其目的為何？",
+    "options": ["①減少可能的路徑", "②移除線路的雜訊", "③移除重複的部份", "④減少傳輸的間隔時間"],
+    "answer": "4"
+  },
+  {
+    "id": "82",
+    "s_num": "1-82",
+    "question": "關於網路傳輸之路由表(Routing Table)的功用為何？",
+    "options": ["①支援某些特定位址的廣播", "②儲存電腦及網路的位址", "③傳送封包到被正確定址的中繼器(Repeater)", "④提供每一部新作用電腦的位址"],
+    "answer": "1"
+  },
+  {
+    "id": "83",
+    "s_num": "1-83",
+    "question": "路由器(Router)與橋接器(Bridge)之敘述何者最正確？",
+    "options": ["①路由器可以支援乙太網路，但無法使用於記號環(Token Ring)網路環境", "②路由器可在多個路徑間做選擇", "③橋接器可在多個路徑間做選擇", "④橋接器可支援乙太網路，但無法使用於記號環(Token Ring)網路環境"],
+    "answer": "2"
+  },
+  {
+    "id": "84",
+    "s_num": "1-84",
+    "question": "何種網路架構是每一台電腦同時扮演著客戶端(Client)與伺服器端(Server)的角色？",
+    "options": ["①P2P", "②Client/Server", "③WWW", "④FTP"],
+    "answer": "1"
+  },
+  {
+    "id": "85",
+    "s_num": "1-85",
+    "question": "客戶端/伺服器式(Client/Server)的網路架構相較於點對點式(P2P)的網路，其主要優點為何？",
+    "options": ["①資料傳遞速度較快", "②可建構在不同的平台之上", "③系統運作較為穩定", "④中央集權式管理，資料具一致性"],
+    "answer": "4"
+  },
+  {
+    "id": "86",
+    "s_num": "1-86",
+    "question": "IEEE 802.11 所定義的無線區域網路中，ESS 是由何者所擴充構成？",
+    "options": ["①ASS", "②BSS", "③CSS", "④DSS"],
+    "answer": "2"
+  },
+  {
+    "id": "87",
+    "s_num": "1-87",
+    "question": "Piconet 是何種技術所構成？",
+    "options": ["①紅外線傳輸技術", "②微波傳輸技術", "③藍芽技術", "④網際網路技術"],
+    "answer": "3"
+  },
+  {
+    "id": "88",
+    "s_num": "1-88",
+    "question": "何者用來連接不同實體層的網路，且在實體層以上的各層所使用的協定必須是相同網路？",
+    "options": ["①Gateway", "②Bridge", "③Repeater", "④Hub"],
+    "answer": "2"
+  },
+  {
+    "id": "89",
+    "s_num": "1-89",
+    "question": "何者使用 TCP 來提供點對點的安全性服務？",
+    "options": ["①SET", "②SSL", "③VPN", "④PKI"],
+    "answer": "3"
+  },
+  {
+    "id": "90",
+    "s_num": "1-90",
+    "question": "Internet 服務的安全問題中，何者在傳送帳號及密碼時，並未對內容進行加密編碼，使得傳輸內容最容易被攔截而破解，是最具危險性傳輸方式？",
+    "options": ["①TELNET", "②HTTPS", "③SSH", "④SFTP"],
+    "answer": "1"
+  },
+  {
+    "id": "91",
+    "s_num": "1-91",
+    "question": "以 1200 bps 速率來傳送 8K 位元組的檔案（傳送一個位元組另需一個起始位元與一個停止位元）需時約為幾秒？",
+    "options": ["①34", "②53.33", "③54.61", "④68.26"],
+    "answer": "4"
+  },
+  {
+    "id": "92",
+    "s_num": "1-92",
+    "question": "某筆資料 2400 bytes，每個框(Frame) 包含 8 個資料位元，1 個起始位元，2 個停止位元，沒有同位位元之非同步串列方式傳輸，共需要 5 秒才能傳完，則此串列傳輸速率(bps)為何？",
+    "options": ["①1920", "②3840", "③5280", "④10560"],
+    "answer": "3"
+  },
+  {
+    "id": "93",
+    "s_num": "1-93",
+    "question": "駭客以無用的連線流量壅塞網站並癱瘓網路，此舉稱之為何？",
+    "options": ["①Sniffer", "②DoS", "③DNS", "④Internet Error"],
+    "answer": "2"
+  },
+  {
+    "id": "94",
+    "s_num": "1-94",
+    "question": "作業系統將正在執行(Running)的處理單元回復到上一狀態(如 Ready)，而將資源讓給別的處理單元來使用的動作稱之為何？",
+    "options": ["①Indefinite Postponement", "②Commit", "③Starvation", "④Rollback"],
+    "answer": "4"
+  },
+  {
+    "id": "95",
+    "s_num": "1-95",
+    "question": "何者最適合作業系統之短期排班法(Short-Term Task Scheduling)？",
+    "options": ["①Shortest-Job-First", "②First-Come-Last-Served", "③Round-Robin Scheduling", "④First-Come-First-Served"],
+    "answer": "3"
+  },
+  {
+    "id": "96",
+    "s_num": "1-96",
+    "question": "UNIX 所使用的檔案系統稱之為何？",
+    "options": ["①i-Tree", "②i-File", "③i-System", "④i-Node"],
+    "answer": "4"
+  },
+  {
+    "id": "97",
+    "s_num": "1-97",
+    "question": "作業系統的記憶體管理中，若行程(Process) 花費在分頁上的時間比花費在執行上的時間還多時，此種現象稱之為何？",
+    "options": ["①Convoy Effect", "②Thrashing", "③Busy State", "④Swapping"],
+    "answer": "2"
+  },
+  {
+    "id": "98",
+    "s_num": "1-98",
+    "question": "若程式使用一頁未被載入到記憶體的資料，作業系統會發生何種狀況？",
+    "options": ["①Reference Error", "②Memory Error", "③Access Error", "④Page Fault"],
+    "answer": "4"
+  },
+  {
+    "id": "99",
+    "s_num": "1-99",
+    "question": "何種技術可以讓行程(Process)在作業系統中同時執行多個任務？",
+    "options": ["①Multi-Disks", "②Multi-Schedules", "③Multi-Threads", "④Multi-Memories"],
+    "answer": "3"
+  },
+  {
+    "id": "100",
+    "s_num": "1-100",
+    "question": "作業系統中，何種排班演算法會決定系統的多元程式規劃的程度(Degree of Multiprogramming)？",
+    "options": ["①Short-Term Scheduler", "②Medium-Term Scheduler", "③Long-Term Scheduler", "④Process Scheduler"],
+    "answer": "3"
+  },
+  {
+    "id": "101",
+    "s_num": "1-101",
+    "question": "作業系統中，何者不是死結(Dead Lock)產生的必要條件？",
+    "options": ["①Mutual Exclusion", "②Hold and Wait", "③No Priority", "④Circular Wait"],
+    "answer": "3"
+  },
+  {
+    "id": "102",
+    "s_num": "1-102",
+    "question": "作業系統中，臨界區間(Critical Section)的有效控制可以解決行程同步的問題，而解決臨界區間的問題不需滿足何項要求？",
+    "options": ["①Mutual Exclusion", "②Progress", "③Dead Lock Management", "④Bounded Waiting"],
+    "answer": "3"
+  },
+  {
+    "id": "103",
+    "s_num": "1-103",
+    "question": "Linux作業系統與微軟Windows Server AD的帳號資料庫，可用何種通訊協定來整合？",
+    "options": ["①LDAP", "②HTTP", "③IPX", "④UDP"],
+    "answer": "1"
+  },
+  {
+    "id": "104",
+    "s_num": "1-104",
+    "question": "Linux作業環境中，MRTG流量監控程式是使用何種通訊協定？",
+    "options": ["①HTTP", "②SNMP", "③SMTP", "④POP3"],
+    "answer": "2"
+  },
+  {
+    "id": "105",
+    "s_num": "1-105",
+    "question": "Linux作業環境中，何者可列出目錄之內容？",
+    "options": ["①cat", "②lists", "③ls", "④vi"],
+    "answer": "3"
+  },
+  {
+    "id": "106",
+    "s_num": "1-106",
+    "question": "Linux作業環境中，何者可刪除執行中之程序或工作？",
+    "options": ["①rm", "②kill", "③del", "④cls"],
+    "answer": "2"
+  },
+  {
+    "id": "107",
+    "s_num": "1-107",
+    "question": "Linux作業環境中，何者可列出目錄或檔案之大小？",
+    "options": ["①du", "②vi", "③vol", "④cpio"],
+    "answer": "1"
+  },
+  {
+    "id": "108",
+    "s_num": "1-108",
+    "question": "Linux作業環境中，何者可列出整個系統的網路狀況？",
+    "options": ["①neteconfig", "②netstat", "③netstatus", "④netconf"],
+    "answer": "2"
+  },
+  {
+    "id": "109",
+    "s_num": "1-109",
+    "question": "Linux作業環境中，何者可建立一個新的目錄？",
+    "options": ["①dir", "②mkdir", "③createdir", "④newdir"],
+    "answer": "2"
+  },
+  {
+    "id": "110",
+    "s_num": "1-110",
+    "question": "Linux作業環境中，何者是建立live USB之內建指令？",
+    "options": ["①makeusb", "②mount", "③dd", "④mkbootdisk"],
+    "answer": "3"
+  },
+  {
+    "id": "111",
+    "s_num": "1-111",
+    "question": "Linux作業環境中，何者可記錄近期所有登入系統的使用者？",
+    "options": ["①/var/log/dmesg", "②/var/log/message", "③/var/log/syslog", "④/var/log/secure"],
+    "answer": "4"
+  },
+  {
+    "id": "112",
+    "s_num": "1-112",
+    "question": "Linux作業環境中，何者可顯示硬碟上的檔案名稱？",
+    "options": ["①who", "②whereis", "③mount", "④find"],
+    "answer": "4"
+  },
+  {
+    "id": "113",
+    "s_num": "1-113",
+    "question": "Linux作業環境中，何者可顯示檔案的內容及權限？",
+    "options": ["①dir/p/w", "②ls -la | more", "③pwd", "④cd"],
+    "answer": "2"
+  },
+  {
+    "id": "114",
+    "s_num": "1-114",
+    "question": "Linux作業環境中，何者為可啟動硬碟分割區之工具程式？",
+    "options": ["①diskman", "②rdisk", "③fdisk", "④sfdisk"],
+    "answer": "4"
+  },
+  {
+    "id": "115",
+    "s_num": "1-115",
+    "question": "Linux作業環境中，何者可啟動線上指令說明？",
+    "options": ["①more", "②type", "③man", "④help"],
+    "answer": "3"
+  },
+  {
+    "id": "116",
+    "s_num": "1-116",
+    "question": "Linux作業環境中，何者可設定時間？",
+    "options": ["①timer", "②setcmd", "③cxecule", "④at"],
+    "answer": "4"
+  },
+  {
+    "id": "117",
+    "s_num": "1-117",
+    "question": "Linux作業環境中，何者可進行檔案壓縮？",
+    "options": ["①tar", "②pack", "③queue", "④zap"],
+    "answer": "1"
+  },
+  {
+    "id": "118",
+    "s_num": "1-118",
+    "question": "Linux作業環境中，何者可進行檔案系統備份？",
+    "options": ["①xfiles", "②bu", "③bacxup", "④dump"],
+    "answer": "4"
+  },
+  {
+    "id": "119",
+    "s_num": "1-119",
+    "question": "Linux作業環境中，何者可新增使用者帳號？",
+    "options": ["①useradd", "②newuser", "③usermanager", "④xuser"],
+    "answer": "1"
+  },
+  {
+    "id": "120",
+    "s_num": "1-120",
+    "question": "Linux作業環境中，何者可登入系統？",
+    "options": ["①checkin", "②logon", "③logout", "④login"],
+    "answer": "4"
+  },
+  {
+    "id": "121",
+    "s_num": "1-121",
+    "question": "Linux作業環境中，何者可變更檔案與目錄之權限？",
+    "options": ["①authority", "②dirs", "③chmod", "④rights"],
+    "answer": "3"
+  },
+  {
+    "id": "122",
+    "s_num": "1-122",
+    "question": "Linux作業環境中，何者可顯示目前的工作目錄？",
+    "options": ["①passdir", "②pwd", "③list", "④passwd"],
+    "answer": "2"
+  },
+  {
+    "id": "123",
+    "s_num": "1-123",
+    "question": "Linux作業環境中，何者可顯示或設定網路介面？",
+    "options": ["①ipconfig", "②winipcfg", "③ifconfig", "④netstat"],
+    "answer": "3"
+  },
+  {
+    "id": "124",
+    "s_num": "1-124",
+    "question": "Linux作業環境中，何者可顯示開機過程中曾經顯示的系統訊息？",
+    "options": ["①display", "②dmesg", "③message", "④show"],
+    "answer": "2"
+  },
+  {
+    "id": "125",
+    "s_num": "1-125",
+    "question": "Linux作業環境中，何者可將程式放到背景下來執行？",
+    "options": ["①submit", "②fg", "③bg", "④jobs"],
+    "answer": "3"
+  },
+  {
+    "id": "126",
+    "s_num": "1-126",
+    "question": "Linux作業環境中，硬碟ext4檔案系統受損，何者可進行修護？",
+    "options": ["①chkdsk", "②e4fsck", "③ext4fsck", "④mount"],
+    "answer": "2"
+  },
+  {
+    "id": "127",
+    "s_num": "1-127",
+    "question": "Linux的圖形介面通常稱之為何？",
+    "options": ["①Windows", "②X Window", "③GUI", "④MS Windows"],
+    "answer": "2"
+  },
+  {
+    "id": "128",
+    "s_num": "1-128",
+    "question": "Unix-like作業環境中，何者可新增使用者群組？",
+    "options": ["①useradd", "②groupadd", "③groups", "④groupdel"],
+    "answer": "2"
+  },
+  {
+    "id": "129",
+    "s_num": "1-129",
+    "question": "Unix-like作業環境中，何者可變更檔案名稱及位置？",
+    "options": ["①mv", "②cp", "③cpio", "④cat"],
+    "answer": "1"
+  },
+  {
+    "id": "130",
+    "s_num": "1-130",
+    "question": "Unix-like作業環境中，何者可顯示檔案內容？",
+    "options": ["①mv", "②cp", "③cpio", "④cat"],
+    "answer": "4"
+  },
+  {
+    "id": "131",
+    "s_num": "1-131",
+    "question": "Unix-like作業環境中，何者可改變檔案屬性SUID等之特性？",
+    "options": ["①chgrp", "②chown", "③chmod", "④check"],
+    "answer": "3"
+  },
+  {
+    "id": "132",
+    "s_num": "1-132",
+    "question": "Unix-like作業環境中，何者可將記憶體中的資料同步寫入硬碟？",
+    "options": ["①fsck", "②newfs", "③sync", "④mknod"],
+    "answer": "3"
+  },
+  {
+    "id": "133",
+    "s_num": "1-133",
+    "question": "Unix-like作業環境中，何者可顯示磁碟的內容及容量？",
+    "options": ["①df", "②ps", "③ls", "④ln"],
+    "answer": "1"
+  },
+  {
+    "id": "134",
+    "s_num": "1-134",
+    "question": "Unix-like作業環境中，vi文字編輯器具有一般模式與編輯模式，何者可作為兩個模式之間的切換？",
+    "options": ["①F1", "②Ctrl+F1", "③ESC", "④Shift+Space"],
+    "answer": "3"
+  },
+  {
+    "id": "135",
+    "s_num": "1-135",
+    "question": "Unix-like作業環境中，使用vi文字編輯器在一般模式下，何者可存檔後強制退出？",
+    "options": ["①wq!", "②q", "③q!", "④w!"],
+    "answer": "1"
+  },
+  {
+    "id": "136",
+    "s_num": "1-136",
+    "question": "Unix-like作業環境中，透過telnet指令去管理遠端的主機，再從遠端主機telnet 到別台主機，有時候次數一多，如果忘記目前的工作主機是那一台，可以透過那一指令來做識別的工作？",
+    "options": ["①hosts", "②who", "③ifconfig", "④whoami"],
+    "answer": "3"
+  },
+  {
+    "id": "137",
+    "s_num": "1-137",
+    "question": "Linux作業環境中，何者是網頁伺服器軟體？",
+    "options": ["①PHP", "②Apache", "③MariaDB", "④IIS"],
+    "answer": "2"
+  },
+  {
+    "id": "138",
+    "s_num": "1-138",
+    "question": "Linux作業系統中，何者可顯示目前所有登入者之資訊？",
+    "options": ["①who", "②which", "③whoami", "④login"],
+    "answer": "1"
+  },
+  {
+    "id": "139",
+    "s_num": "1-139",
+    "question": "Linux作業環境中，安裝兩顆SATA硬碟時，第二顆硬碟裝置名稱為何？",
+    "options": ["①/dev/hab", "②/dev/hd2", "③/dev/hds", "④/dev/sdb"],
+    "answer": "4"
+  },
+  {
+    "id": "140",
+    "s_num": "1-140",
+    "question": "何者不是關聯式資料庫之特性？",
+    "options": ["①不含重複的記錄", "②記錄之間是具有順序的", "③屬性之間是沒有順序的", "④所有屬性值都是單元值(Atomic Value)"],
+    "answer": "2"
+  },
+  {
+    "id": "141",
+    "s_num": "1-141",
+    "question": "撰寫程式時，欲將某一記錄(Record)由主程式傳入副程式，使用何種呼叫方式將不會更動主程式中記錄的值？",
+    "options": ["①Call by Name", "②Call by Value", "③Call by Reference", "④Call by Address"],
+    "answer": "2"
+  },
+  {
+    "id": "142",
+    "s_num": "1-142",
+    "question": "關於分散式資料庫系統之敘述何者錯誤？",
+    "options": ["①可隨企業的成長而做漸進式的擴充", "②具有較佳的可靠度(Reliability)及妥善率(Availability)", "③系統複雜度提高", "④具有較佳的安全性與保密性"],
+    "answer": "4"
+  },
+  {
+    "id": "143",
+    "s_num": "1-143",
+    "question": "何者不是資料管理軟體常用的安全機制？",
+    "options": ["①Views", "②Authorization Rules", "③On-Line Analytical Processing", "④Authentication Schemes"],
+    "answer": "3"
+  },
+  {
+    "id": "144",
+    "s_num": "1-144",
+    "question": "設計關聯式資料庫若欲避免相互依賴索引鍵，至少會要求正規化到何種程度？",
+    "options": ["①1NF", "②2NF", "③3NF", "④4NF"],
+    "answer": "3"
+  },
+  {
+    "id": "145",
+    "s_num": "1-145",
+    "question": "感測器(Sensor)在物聯網三層級中主要發揮那一項功能？",
+    "options": ["①偵測通訊情況，確保訊息傳遞無誤", "②偵測物聯網機房情況、確保系統正常工作", "③偵測物體所處環境各項資訊，結合網路實現感知層", "④蒐集各項感測器電氣特性，建構物理模型實現應用層"],
+    "answer": "3"
+  },
+  {
+    "id": "146",
+    "s_num": "1-146",
+    "question": "物聯網的應用系統中，感測器網路由多個感測器散布於空間中組成，其基礎概念為，由各別感測器模組將量測數據原始資料回傳到中央系統，由中央系統運算分析後，取得空間中資訊後進行決策以進行控制，將資料彙整成資料庫用於決策參考或用於觸發警報，典型範例即為SCADA(Supervisory Control And Data Acquisition)，此系統是用於那一項應用？",
+    "options": ["①工廠自動化", "②家庭自動化", "③智慧交通系統", "④環境災害監控"],
+    "answer": "1"
+  },
+  {
+    "id": "147",
+    "s_num": "1-147",
+    "question": "物聯網的應用系統中，感測器網路的智慧基礎，來自那一項特性？",
+    "options": ["①感測器精密結構改善，蒐集精確度更高的資料", "②分布感測器大量蒐集資料，透過網路整合多項資訊", "③伺服器安裝防火牆系統，處理感測器資訊", "④雲端資料庫存有大量資料，經比對刪除不必要資訊"],
+    "answer": "2"
+  },
+  {
+    "id": "148",
+    "s_num": "1-148",
+    "question": "物聯網的應用系統中，感測器網路對頻寬的主要要求是那一項？",
+    "options": ["①支援加密功能", "②支援多工運算", "③支援量測物理特性", "④支援感測器電氣規格"],
+    "answer": "3"
+  },
+  {
+    "id": "149",
+    "s_num": "1-149",
+    "question": "物聯網要求感測器網路位址分配準則不含那一項？",
+    "options": ["①位址在網路內必須是唯一的", "②在物件離開網路後，位址必須是可重複使用的", "③位址分配必須是動態的，而且位址分配必須公平分配", "④位址分配須具備集中化的概念"],
+    "answer": "4"
+  },
+  {
+    "id": "150",
+    "s_num": "1-150",
+    "question": "物聯網的應用系統中，感應式耦合(Inductive Coupling)在RFID系統的作用為那一項？",
+    "options": ["①提供數公里的讀取範圍", "②主動式標籤用此傳送資料", "③被動式標籤用此與讀取器溝通", "④提供數十公尺的讀取範圍"],
+    "answer": "3"
+  }
+]
