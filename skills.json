@@ -146,6 +146,30 @@
             }
         },
         {
+            "id": "php.strtotime.basic",
+            "type": "php",
+            "title": "strtotime()：字串 → 時間戳記",
+            "hint": "將『日期字串』轉成 Unix Timestamp，常用於加減天數或比較時間。",
+            "snippet": "$ts1 = strtotime(\"2025-11-10\");\n// 結果：時間戳記（int）\n\n$ts2 = strtotime(\"+3 days\");\n// 現在時間再加 3 天\n\n$ts3 = strtotime(\"last Monday\");\n// 找上週一的日期時間戳記",
+            "note": "輸入：可被解析的日期字串（如 '2025-01-01', '+1 day', 'next Friday'）\n輸出：Unix Timestamp（int）\n功能：將字串變成可運算的時間格式，常用於加減日期、比較時間、與 date() 搭配格式化使用。",
+            "quiz": {
+                "type": "cloze",
+                "q": "要將『2025-12-01』轉成時間戳記，可使用 strtotime(\"______\");"
+            }
+        },
+        {
+            "id": "php.date.format",
+            "type": "php",
+            "title": "date()：格式化時間輸出",
+            "hint": "將 Unix Timestamp 轉成指定格式（或直接使用現在時間）。",
+            "snippet": "$now = date(\"Y-m-d H:i:s\");\n// 例如：2025-11-17 08:30:00\n\n$birthday = strtotime(\"1995-05-20\");\necho date(\"Y年m月d日\", $birthday);\n// 輸出：1995年05月20日",
+            "note": "輸入：格式字串（如 'Y-m-d'）、可選的時間戳記（預設為現在）\n輸出：格式化後的字串\n功能：依照指定格式輸出日期，例如：\n• Y：四位數年份\n• m：月份（01–12）\n• d：日期（01–31）\n• H：小時（00–23）\n• i：分鐘\n• s：秒\n常與 strtotime() 搭配形成：date(格式, strtotime(...))。",
+            "quiz": {
+                "type": "cloze",
+                "q": "要輸出現在時間的『年-月-日』格式，可使用 date(\"Y-m-__\");"
+            }
+        },
+        {
             "id": "php.pdo.props",
             "type": "php",
             "title": "PDO 類別成員：$dsn / $pdo / $table",
