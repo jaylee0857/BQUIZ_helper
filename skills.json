@@ -390,8 +390,8 @@
             "type": "html",
             "title": "input：常見 type 用途與差異",
             "hint": "HTML 中不同 type 有不同用途，例如密碼欄位、數字欄位、檔案上傳等。",
-            "snippet": "<input type=\"text\" name=\"acc\" value=\"John\">\n<input type=\"password\" name=\"pw\" value=\"1234\">\n<input type=\"number\" name=\"age\" value=\"18\">\n<input type=\"file\" name=\"photo\">\n<input type=\"hidden\" name=\"id\" value=\"7\">\n<input type=\"submit\" value=\"送出\">",
-            "note": "• text：一般文字輸入，可搭配 value 預填資料\n• password：顯示為 ●，用 value 可回填密碼（不建議在正式環境）\n• number：限定輸入數字\n• file：上傳檔案用（需搭配 enctype）\n• hidden：不顯示但會送出，常用於 id\n• submit：送出按鈕\n• value=\"\" 用於預填表單，如編輯資料時顯示原本內容",
+            "snippet": "<input type=\"text\" name=\"acc\" value=\"John\">\n<input type=\"password\" name=\"pw\" value=\"1234\">\n<input type=\"number\" name=\"age\" value=\"18\">\n<input type=\"file\" name=\"photo\">\n<input type=\"hidden\" name=\"id\" value=\"7\">\n<input type=\"reset\" value=\"重填\">\n<input type=\"submit\" value=\"送出\">",
+            "note": "• text：一般文字輸入，可搭配 value 預填資料\n• password：顯示為 ●，用 value 可回填密碼（不建議在正式環境）\n• number：限定輸入數字\n• file：上傳檔案用（需搭配 enctype）\n• hidden：不顯示但會送出，常用於 id\n• reset：將表單所有欄位恢復成初始 value 值\n• submit：送出按鈕\n• value=\"\" 用於預填表單，如編輯資料時顯示原本內容",
             "quiz": {
                 "type": "cloze",
                 "q": "input 要預填資料，應使用 ______ 屬性。"
