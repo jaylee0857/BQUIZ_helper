@@ -48,6 +48,330 @@
                 "type": "cloze",
                 "q": "若只想顯示前 5 筆資料，可在查詢最後加上 ______ 5。"
             }
+        },
+        {
+            "id": "sql.count.basic",
+            "type": "sql",
+            "title": "COUNT()：計算筆數",
+            "hint": "COUNT() 用來計算資料筆數，可搭配 * 或欄位名稱使用。",
+            "snippet": "SELECT COUNT(*)\nFROM students;\n-- 計算 students 全部筆數\n\nSELECT COUNT(score)\nFROM students;\n-- 只計算 score 不為 NULL 的筆數",
+            "note": "COUNT(*)：計算所有筆數（包含 NULL）。\nCOUNT(欄位)：只計算該欄位不為 NULL 的筆數。",
+            "quiz": {
+                "type": "cloze",
+                "q": "若想計算資料表中的全部筆數，可使用 SELECT ______(*) FROM table;"
+            }
+        },
+        {
+            "id": "sql.sum.basic",
+            "type": "sql",
+            "title": "SUM()：加總數值",
+            "hint": "SUM() 用來將數值欄位加總，常用於計算總分、總金額等。",
+            "snippet": "SELECT SUM(score)\nFROM students;\n-- 計算所有學生的 score 總和\n\nSELECT SUM(price * quantity)\nFROM orders;\n-- 訂單金額加總（常見電商寫法）",
+            "note": "SUM(欄位)：加總數值欄位，忽略 NULL。\n可搭配 WHERE 做條件加總，例如統計某班級的成績或特定條件的金額。",
+            "quiz": {
+                "type": "cloze",
+                "q": "若要計算所有商品的小計總金額，可使用 SELECT SUM(____) FROM orders;"
+            }
+        },
+        {
+            "id": "sql.max.basic",
+            "type": "sql",
+            "title": "MAX()：取得最大值",
+            "hint": "MAX() 用來找出欄位中的最大值，常用於找最高分、最高價、最新日期等。",
+            "snippet": "SELECT MAX(score)\nFROM students;\n-- 找出最高分\n\nSELECT MAX(created_at)\nFROM logs;\n-- 找出最新的紀錄日期",
+            "note": "MAX(欄位)：從欄位中取得最大值。\n適用於數字、日期、字串（依資料庫排序規則）。常與 ORDER BY、LIMIT 1 原理類似，但 MAX() 計算更直接。",
+            "quiz": {
+                "type": "cloze",
+                "q": "若想取得 logs 表中最新日期，可使用 SELECT MAX(________) FROM logs;"
+            }
+        },
+        {
+            "id": "sql.insert.basic",
+            "type": "sql",
+            "title": "INSERT：新增資料",
+            "hint": "用 INSERT INTO 將一筆新資料寫入資料表。",
+            "snippet": "INSERT INTO students (name, age, class)\nVALUES ('小明', 18, 3);",
+            "note": "INSERT INTO 表名 (欄位1, 欄位2, ...) VALUES (值1, 值2, ...)。\n欄位與值的順序要一一對應，字串通常要用單引號包住。",
+            "quiz": {
+                "type": "cloze",
+                "q": "新增一筆學生資料時，可使用 INSERT INTO students (name, age) ______ ('小明', 18);"
+            }
+        },
+        {
+            "id": "sql.update.basic",
+            "type": "sql",
+            "title": "UPDATE：更新資料",
+            "hint": "用 UPDATE 修改既有資料的欄位值，通常搭配 WHERE 指定條件。",
+            "snippet": "UPDATE students\nSET score = 100\nWHERE id = 5;\n\nUPDATE students\nSET score = 80, remark = '補考通過'\nWHERE class = 3 AND score < 60;",
+            "note": "UPDATE 表名 SET 欄位1 = 新值1, 欄位2 = 新值2 ... [WHERE 條件]。\n若沒有 WHERE，會更新整張表的所有資料，考試與實務都要特別小心。",
+            "quiz": {
+                "type": "cloze",
+                "q": "要修改 id 為 5 的學生分數，可使用 UPDATE students SET score = 90 ______ id = 5;"
+            }
+        },
+        {
+            "id": "sql.delete.basic",
+            "type": "sql",
+            "title": "DELETE：刪除資料",
+            "hint": "用 DELETE FROM 刪除資料列，通常搭配 WHERE 指定條件。",
+            "snippet": "DELETE FROM students\nWHERE id = 7;\n\nDELETE FROM students\nWHERE class = 3 AND score < 60;",
+            "note": "DELETE FROM 表名 [WHERE 條件]。\n若沒有 WHERE，會刪除整張表所有資料，考試時要特別注意不要省略條件。",
+            "quiz": {
+                "type": "cloze",
+                "q": "要刪除 id 為 7 的學生，可用 DELETE FROM students ______ id = 7;"
+            }
+        },
+        {
+            "id": "sql.where.and",
+            "type": "sql",
+            "title": "WHERE + AND：多條件查詢",
+            "hint": "使用 AND 可同時套用多個條件，只有全部成立才會被選出。",
+            "snippet": "SELECT *\nFROM students\nWHERE class = 3 AND score >= 60;\n\nSELECT name, age\nFROM students\nWHERE city = 'Taipei' AND age >= 18;",
+            "note": "WHERE 條件1 AND 條件2 ...：只有在「所有條件都為真」時，該筆資料才會被選出。\n常用來組合多個篩選條件，例如班級 + 分數、帳號 + 密碼等。",
+            "quiz": {
+                "type": "cloze",
+                "q": "若只想查詢三年級且及格的學生，可用 WHERE class = 3 ______ score >= 60;"
+            }
+        },
+        {
+            "id": "sql.between.basic",
+            "type": "sql",
+            "title": "BETWEEN：區間查詢",
+            "hint": "BETWEEN 用來篩選介於兩個值之間的資料，可用在數字或日期。",
+            "snippet": "SELECT *\nFROM orders\nWHERE total BETWEEN 1000 AND 3000;\n-- 總金額在 1000～3000 之間\n\nSELECT *\nFROM orders\nWHERE order_date BETWEEN '2025-10-01' AND '2025-10-31';\n-- 10 月份的訂單",
+            "note": "欄位 BETWEEN 起始值 AND 結束值：會包含兩端點（含起始與結束）。\n常用於日期區間或成績、金額範圍查詢。",
+            "quiz": {
+                "type": "cloze",
+                "q": "若想查詢 60 分到 80 分的成績，可用 WHERE score BETWEEN 60 ______ 80;"
+            }
+        },
+        {
+            "id": "php.pdo.props",
+            "type": "php",
+            "title": "PDO 類別成員：$dsn / $pdo / $table",
+            "hint": "先準備好資料表名稱、連線字串與 PDO 物件屬性，之後方法都會用到這三個成員。",
+            "snippet": "private $dsn = \"mysql:host=localhost;dbname=db02;charset=utf8\";\nprivate $pdo;\nprivate $table;",
+            "note": "• $table：用來記住目前這個 DB 物件要操作的資料表名稱。\n• $dsn：Data Source Name，描述要連到哪一台 MySQL、哪一個資料庫與編碼。\n• $pdo：之後會放 new PDO(...) 建好的連線物件，供其他方法共用。",
+            "quiz": {
+                "type": "cloze",
+                "q": "在這個 DB 類別中，用來記住『目前操作哪張資料表』的成員變數是 $______。"
+            }
+        },
+        {
+            "id": "php.pdo.dsn",
+            "type": "php",
+            "title": "PDO DSN：mysql:host / dbname / charset",
+            "hint": "DSN 是一個描述資料庫連線資訊的字串，會在 new PDO(...) 時用到。",
+            "snippet": "private $dsn = \"mysql:host=localhost;dbname=db02;charset=utf8\";",
+            "note": "典型 MySQL DSN 格式：mysql:host=主機;dbname=資料庫;Charset=編碼。\n在本機端開發最常見：host=localhost，charset=utf8 或 utf8mb4。",
+            "quiz": {
+                "type": "cloze",
+                "q": "若要連線到本機的 db02 資料庫，可在 DSN 中寫成 mysql:host=localhost;dbname=______;"
+            }
+        },
+        {
+            "id": "php.pdo.construct",
+            "type": "php",
+            "title": "建構子：設定資料表並建立 PDO 連線",
+            "hint": "在 __construct 中，同時記住資料表名稱並建立 PDO 連線，讓整個類別都能共用。",
+            "snippet": "function __construct($table){\n    $this->table = $table;\n    $this->pdo = new PDO($this->dsn, \"root\", \"\");\n}",
+            "note": "• $this->table = $table：記住目前要操作的資料表名稱。\n• new PDO($this->dsn, \"root\", \"\")：依照 DSN、帳號與密碼建立資料庫連線並存入 $pdo。\n建構子只會在 new DB(...) 時執行一次，之後所有方法都能使用同一條連線。",
+            "quiz": {
+                "type": "cloze",
+                "q": "在建構子中會呼叫 new PDO($this->dsn, \"root\", \"\"); 其中 \"root\" 代表資料庫的 ______。"
+            }
+        },
+        {
+            "id": "php.session.start",
+            "type": "php",
+            "title": "session_start()：啟動 Session",
+            "hint": "用來啟動 PHP Session，讓程式可以讀寫 $_SESSION。",
+            "snippet": "session_start();",
+            "note": "輸入：無\n輸出：無（回傳 true/false）\n功能：啟動 Session 機制，開始存取 $_SESSION。\n若 Session 尚未建立，會自動建立新的。",
+            "quiz": {
+                "type": "cloze",
+                "q": "要啟動 Session，必須在程式最上方呼叫 ______();"
+            }
+        },
+        {
+            "id": "php.timezone.set",
+            "type": "php",
+            "title": "date_default_timezone_set()：設定時區",
+            "hint": "設定 PHP 程式內所有時間相關函式所使用的時區。",
+            "snippet": "date_default_timezone_set(\"Asia/Taipei\");",
+            "note": "輸入：字串（時區名稱）\n輸出：布林值\n功能：指定 PHP 使用哪一個時區，例如時間戳記、日期格式化等。",
+            "quiz": {
+                "type": "cloze",
+                "q": "若要設定成台北時區，可寫成 date_default_timezone_set(\"______\");"
+            }
+        },
+        {
+            "id": "php.array.types",
+            "type": "php",
+            "title": "Array：索引陣列 / 關聯陣列",
+            "hint": "PHP 的陣列可以同時當作索引或鍵值陣列使用。",
+            "snippet": "$arr1 = [\"A\", \"B\", \"C\"];           // 索引陣列\n$arr2 = [\"name\" => \"John\", \"age\" => 18]; // 關聯陣列",
+            "note": "索引陣列：自動使用 0,1,2... 當索引。\n關聯陣列：可以用字串當 key，例如 name、age。",
+            "quiz": {
+                "type": "cloze",
+                "q": "使用字串作為 key 的陣列稱為 ______ 陣列。"
+            }
+        },
+        {
+            "id": "php.function.basic",
+            "type": "php",
+            "title": "function：自訂函式",
+            "hint": "利用 function 宣告一段可重複使用的程式。",
+            "snippet": "function add($a, $b){\n    return $a + $b;\n}",
+            "note": "輸入：參數（$a, $b）\n輸出：return 的值\n功能：封裝重複邏輯，可重複呼叫。",
+            "quiz": {
+                "type": "cloze",
+                "q": "若要讓函式回傳結果，需使用 ______ 關鍵字。"
+            }
+        },
+        {
+            "id": "php.header.redirect",
+            "type": "php",
+            "title": "header('location:')：頁面重導",
+            "hint": "用於導向至其他頁面，常用於表單送出後跳頁。",
+            "snippet": "header(\"location:login.php\");",
+            "note": "輸入：字串（目標網址）\n輸出：無\n功能：發送 HTTP 重導標頭，使瀏覽器跳轉到新網址。\n⚠ 必須在尚未輸出內容前使用。",
+            "quiz": {
+                "type": "cloze",
+                "q": "重導到 index.php 時可使用 header(\"location:______\");"
+            }
+        },
+        {
+            "id": "php.pdo.query",
+            "type": "php",
+            "title": "PDO::query()：執行查詢 SQL",
+            "hint": "用於執行 SELECT 類 SQL，會回傳 PDOStatement。",
+            "snippet": "$rows = $pdo->query(\"SELECT * FROM users\");",
+            "note": "輸入：SQL 字串\n輸出：PDOStatement\n功能：執行查詢語法（SELECT）。搭配 fetch/fetchAll 取得資料。",
+            "quiz": {
+                "type": "cloze",
+                "q": "query() 通常用來執行 ______ 語法。"
+            }
+        },
+        {
+            "id": "php.pdo.exec",
+            "type": "php",
+            "title": "PDO::exec()：執行寫入/更新/刪除",
+            "hint": "用於執行 INSERT、UPDATE、DELETE 等不需回傳資料的 SQL。",
+            "snippet": "$count = $pdo->exec(\"DELETE FROM users WHERE id=5\");",
+            "note": "輸入：SQL 字串\n輸出：受影響的筆數（int）\n功能：適用於 INSERT、UPDATE、DELETE。",
+            "quiz": {
+                "type": "cloze",
+                "q": "exec() 回傳的值代表受影響的 ______。"
+            }
+        },
+        {
+            "id": "php.pdo.fetchall",
+            "type": "php",
+            "title": "fetchAll()：回傳多筆資料",
+            "hint": "將 PDOStatement 轉成多筆資料的陣列。",
+            "snippet": "$rows = $pdo->query($sql)->fetchAll(PDO::FETCH_ASSOC);",
+            "note": "輸入：FETCH 模式（常用 PDO::FETCH_ASSOC）\n輸出：多筆資料（陣列）",
+            "quiz": {
+                "type": "cloze",
+                "q": "fetchAll(PDO::FETCH_ASSOC) 會回傳 ______ 筆資料。"
+            }
+        },
+        {
+            "id": "php.pdo.fetchcolumn",
+            "type": "php",
+            "title": "fetchColumn()：回傳單一欄位值",
+            "hint": "常用來取得 count(*) 等單一數值結果。",
+            "snippet": "$total = $pdo->query(\"SELECT count(*) FROM users\")->fetchColumn();",
+            "note": "輸入：欄位索引（預設第 0 欄）\n輸出：單一欄位值\n功能：回傳查詢結果的第一欄，常用於聚合函式。",
+            "quiz": {
+                "type": "cloze",
+                "q": "若需要 count(*) 的結果，適合用 fetchColumn() 或 fetchAll()？答：______。"
+            }
+        },
+        {
+            "id": "php.pdo.fetch",
+            "type": "php",
+            "title": "fetch()：回傳一筆資料",
+            "hint": "取得單筆資料，用於 detail/單筆查看。",
+            "snippet": "$row = $pdo->query(\"SELECT * FROM users WHERE id=7\")->fetch(PDO::FETCH_ASSOC);",
+            "note": "輸入：FETCH 模式\n輸出：單筆資料（陣列或 false）",
+            "quiz": {
+                "type": "cloze",
+                "q": "fetch(PDO::FETCH_ASSOC) 會回傳 ______ 筆資料。"
+            }
+        },
+        {
+            "id": "php.oop.class",
+            "type": "php",
+            "title": "class：建立自訂類別",
+            "hint": "class 用來宣告物件的藍圖，屬性與方法都定義在裡面。",
+            "snippet": "class DB{\n    private $table;\n    function __construct($table){\n        $this->table = $table;\n    }\n}",
+            "note": "功能：建立可重複使用的物件模板。\n包含：屬性（變數）、方法（函式）、建構子（__construct）。",
+            "quiz": {
+                "type": "cloze",
+                "q": "在類別中存取自身屬性，需要使用 ______->屬性名稱。"
+            }
+        },
+        {
+            "id": "php.variadic.args",
+            "type": "php",
+            "title": "Variadic 參數：...$arg",
+            "hint": "允許函式接受任意數量的參數，常用於彈性條件。",
+            "snippet": "function all(...$arg){\n    // $arg 會是一個陣列\n}",
+            "note": "輸入：任意數量參數\n輸出：變成陣列提供給函式使用\n功能：讓函式接受多參數而不必固定定義。",
+            "quiz": {
+                "type": "cloze",
+                "q": "在 all(...) 中，...$arg 會被視為 ______。"
+            }
+        },
+        {
+            "id": "php.isset.basic",
+            "type": "php",
+            "title": "isset()：判斷變數是否被設定",
+            "hint": "用來檢查變數是否存在，且不是 NULL。",
+            "snippet": "$a = 10;\nisset($a);      // true\nisset($b);      // false（$b 尚未宣告）\nisset($x, $y);  // 只有當 $x 和 $y 都被設定且不為 NULL 才會回傳 true",
+            "note": "輸入：一個或多個變數\n輸出：布林值（true / false）\n功能：檢查變數是否已被設定且不為 NULL。",
+            "quiz": {
+                "type": "cloze",
+                "q": "若要判斷 $data 是否已被設定且不為 NULL，可使用 ______($data)。"
+            }
+        },
+        {
+            "id": "php.isarray.basic",
+            "type": "php",
+            "title": "is_array()：判斷是否為陣列",
+            "hint": "用來檢查一個變數是否為陣列型別。",
+            "snippet": "$x = [1, 2, 3];\n$y = \"hello\";\n\nis_array($x); // true\nis_array($y); // false",
+            "note": "輸入：任一變數\n輸出：布林值（true / false）\n功能：確認變數是否為陣列，常用在接收表單或組 SQL 條件前先做檢查。",
+            "quiz": {
+                "type": "cloze",
+                "q": "要判斷 $data 是否為陣列，可以使用 ______($data)。"
+            }
+        },
+        {
+            "id": "php.foreach.basic",
+            "type": "php",
+            "title": "foreach：陣列迴圈取值",
+            "hint": "foreach 專門用來走訪陣列中的每一個元素。",
+            "snippet": "$arr = [\"A\", \"B\", \"C\"];\n\nforeach($arr as $value){\n    echo $value;\n}\n\nforeach($arr as $key => $value){\n    echo $key . \":\" . $value;\n}",
+            "note": "輸入：一個陣列\n輸出：無（透過區塊內程式處理每一筆）\n功能：依序取出陣列中的每個元素，給你 key / value 使用。",
+            "quiz": {
+                "type": "cloze",
+                "q": "要依序取出陣列 $arr 的每一個元素，可使用 ______($arr as $value) 語法。"
+            }
+        },
+        {
+            "id": "php.join.basic",
+            "type": "php",
+            "title": "join()：用分隔符號把陣列接成字串",
+            "hint": "將陣列元素用指定的字串連接起來，變成一個字串。",
+            "snippet": "$temp = [\"`main_id`='0'\", \"`sh`='1'\"];\n$sql = join(\" AND \", $temp);\n// 結果：\"`main_id`='0' AND `sh`='1'\"",
+            "note": "輸入：分隔字串、陣列\n輸出：字串\n功能：常用於組合 SQL 的 WHERE 條件，例如 arraytosql() 會產生字串陣列，並透過 join 接成完整條件。",
+            "quiz": {
+                "type": "cloze",
+                "q": "若要把條件陣列用 AND 串起來，可寫成 join(\"______\", $temp);"
+            }
         }
     ]
 }
