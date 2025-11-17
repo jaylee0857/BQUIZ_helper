@@ -372,6 +372,102 @@
                 "type": "cloze",
                 "q": "若要把條件陣列用 AND 串起來，可寫成 join(\"______\", $temp);"
             }
+        },
+        {
+            "id": "html.form.method",
+            "type": "html",
+            "title": "form：action / method / enctype",
+            "hint": "表單提交的三大核心設定：送去哪、用什麼方法、資料如何編碼。",
+            "snippet": "<form action=\"api/save.php\" method=\"post\" enctype=\"multipart/form-data\">\n    <input type=\"file\" name=\"photo\">\n    <input type=\"submit\" value=\"送出\">\n</form>",
+            "note": "• action：資料送往的 PHP 檔，例如 api/save.php\n• method：POST（送資料）、GET（查詢）\n• enctype=\"multipart/form-data\"：上傳檔案必須使用，否則 $_FILES 會是空的",
+            "quiz": {
+                "type": "cloze",
+                "q": "若要上傳圖片，form 必須加上 enctype=\"______\"。"
+            }
+        },
+        {
+            "id": "html.input.types",
+            "type": "html",
+            "title": "input：常見 type 用途與差異",
+            "hint": "HTML 中不同 type 有不同用途，例如密碼欄位、數字欄位、檔案上傳等。",
+            "snippet": "<input type=\"text\" name=\"acc\" value=\"John\">\n<input type=\"password\" name=\"pw\" value=\"1234\">\n<input type=\"number\" name=\"age\" value=\"18\">\n<input type=\"file\" name=\"photo\">\n<input type=\"hidden\" name=\"id\" value=\"7\">\n<input type=\"submit\" value=\"送出\">",
+            "note": "• text：一般文字輸入，可搭配 value 預填資料\n• password：顯示為 ●，用 value 可回填密碼（不建議在正式環境）\n• number：限定輸入數字\n• file：上傳檔案用（需搭配 enctype）\n• hidden：不顯示但會送出，常用於 id\n• submit：送出按鈕\n• value=\"\" 用於預填表單，如編輯資料時顯示原本內容",
+            "quiz": {
+                "type": "cloze",
+                "q": "input 要預填資料，應使用 ______ 屬性。"
+            }
+        },
+        {
+            "id": "html.checkbox.array",
+            "type": "html",
+            "title": "checkbox + name[]：多選變陣列",
+            "hint": "多個 checkbox 搭配 name[]，在 PHP 中會變成陣列。",
+            "snippet": "<input type=\"checkbox\" name=\"pr[]\" value=\"1\"> 商品管理\n<input type=\"checkbox\" name=\"pr[]\" value=\"2\"> 訂單管理\n\n// PHP 接收\n$pr = $_POST['pr'];\n// 例如 [1,2]",
+            "note": "• name=\"pr[]\"：會使 PHP 接收到陣列\n• 可用於權限、興趣標籤等多選功能\n• 若無 []，只會收到最後一個值",
+            "quiz": {
+                "type": "cloze",
+                "q": "若要接收多選權限為陣列，name 應寫成 pr 還是 pr[]？答：______。"
+            }
+        },
+        {
+            "id": "php.inarray.basic",
+            "type": "php",
+            "title": "in_array()：判斷值是否存在於陣列中",
+            "hint": "常用於權限檢查、checkbox 預選、表單回填。",
+            "snippet": "$pr = [1,3,5];\n\nin_array(3, $pr); // true\nin_array(2, $pr); // false",
+            "note": "輸入：needle（要找的值）、haystack（陣列）\n輸出：true / false\n用途：用來確認某權限或選項是否存在於列表中",
+            "quiz": {
+                "type": "cloze",
+                "q": "要判斷 3 是否在權限陣列 $pr 裡，可使用 ______(3, $pr)。"
+            }
+        },
+        {
+            "id": "php.ternary.basic",
+            "type": "php",
+            "title": "三元運算子：條件 ? 值1 : 值2",
+            "hint": "if-else 的縮寫版本，寫起來更精簡。",
+            "snippet": "$x = 10;\n$result = ($x > 5) ? '大於五' : '不大於五';",
+            "note": "格式：條件 ? 結果1 : 結果2\n用途：適合簡單判斷，例如 checkbox 是否預選",
+            "quiz": {
+                "type": "cloze",
+                "q": "條件 ? A : B 中，若條件為 true，會回傳 ______。"
+            }
+        },
+        {
+            "id": "html.checkbox.checked",
+            "type": "html",
+            "title": "checked：讓 checkbox 預設勾選",
+            "hint": "常見於「編輯資料」表單，用來預選既有的項目。",
+            "snippet": "<input type=\"checkbox\" name=\"pr[]\" value=\"1\" checked>\n\n// PHP 動態帶入\n<input type=\"checkbox\" name=\"pr[]\" value=\"1\" <?= in_array(1,$pr) ? 'checked' : '' ?>>",
+            "note": "• checked 代表此選項被預先勾選\n• 常與 in_array()、三元運算子搭配\n• 用於後台編輯頁讓使用者看到原本設定",
+            "quiz": {
+                "type": "cloze",
+                "q": "若希望 checkbox 預選，可在 input 中加入 ______ 屬性。"
+            }
+        },
+        {
+            "id": "php.short.echo",
+            "type": "php",
+            "title": "<?=$var;?>：echo 的縮寫",
+            "hint": "等同於 <?php echo $var; ?>，用於在 HTML 中快速輸出值。",
+            "snippet": "<input type=\"text\" name=\"acc\" value=\"<?=$admin['acc'];?>\">\n\n// 等同於：\n<input type=\"text\" name=\"acc\" value=\"<?php echo $admin['acc']; ?>\">",
+            "note": "• <?=$var;?> 是最常用的輸出語法\n• 必須確保 short_open_tag 已啟用（現代 PHP 預設開啟）\n• 適用於表單回填、模板輸出",
+            "quiz": {
+                "type": "cloze",
+                "q": "<?=$x;?> 是 ______ $x; 的縮寫。"
+            }
+        },
+        {
+            "id": "html.input.hidden",
+            "type": "html",
+            "title": "hidden：隱藏的表單欄位（常用於傳 id）",
+            "hint": "用於修改資料時，傳遞資料庫中的主鍵 id。",
+            "snippet": "<input type=\"hidden\" name=\"id\" value=\"<?=$row['id'];?>\">\n\n// 在 save.php\nif(isset($_POST['id'])){\n    // UPDATE\n}else{\n    // INSERT\n}",
+            "note": "• hidden 不會顯示在畫面上，但會跟著 POST 送出\n• 最常用來傳 id\n• 與 DB->save()（有 id → UPDATE）完美搭配",
+            "quiz": {
+                "type": "cloze",
+                "q": "在修改資料時，要把主鍵一起送出，可使用 input type=\"______\"。"
+            }
         }
     ]
 }
